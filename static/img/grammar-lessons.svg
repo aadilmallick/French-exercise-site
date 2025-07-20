@@ -1,0 +1,62 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grammarGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ED2939;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#FFFFFF;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#002395;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="200" height="200" fill="url(#grammarGradient)" rx="10" />
+
+  <!-- Notebook/Textbook -->
+  <rect x="30" y="40" width="140" height="120" fill="#F8F9FA" stroke="#333" stroke-width="2" rx="5" />
+  <rect x="35" y="45" width="130" height="110" fill="white" rx="3" />
+
+  <!-- Spiral binding -->
+  <circle cx="35" cy="50" r="2" fill="#666" />
+  <circle cx="35" cy="60" r="2" fill="#666" />
+  <circle cx="35" cy="70" r="2" fill="#666" />
+  <circle cx="35" cy="80" r="2" fill="#666" />
+  <circle cx="35" cy="90" r="2" fill="#666" />
+  <circle cx="35" cy="100" r="2" fill="#666" />
+  <circle cx="35" cy="110" r="2" fill="#666" />
+  <circle cx="35" cy="120" r="2" fill="#666" />
+  <circle cx="35" cy="130" r="2" fill="#666" />
+  <circle cx="35" cy="140" r="2" fill="#666" />
+
+  <!-- French grammar content -->
+  <text x="50" y="65" font-family="Arial, sans-serif" font-size="12" fill="#ED2939" font-weight="bold">Le/La/Les</text>
+  <text x="50" y="80" font-family="Arial, sans-serif" font-size="10" fill="#333">Articles</text>
+
+  <text x="50" y="100" font-family="Arial, sans-serif" font-size="12" fill="#002395" font-weight="bold">Être/Avoir</text>
+  <text x="50" y="115" font-family="Arial, sans-serif" font-size="10" fill="#333">Verbes</text>
+
+  <text x="50" y="135" font-family="Arial, sans-serif" font-size="12" fill="#333" font-weight="bold">Je suis</text>
+  <text x="50" y="150" font-family="Arial, sans-serif" font-size="10" fill="#666">Conjugaison</text>
+
+  <!-- Grammar symbols -->
+  <g transform="translate(120, 60)">
+    <!-- Question mark -->
+    <circle cx="0" cy="0" r="15" fill="#FFD700" stroke="#333" stroke-width="1" />
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">?</text>
+  </g>
+
+  <g transform="translate(120, 100)">
+    <!-- Exclamation mark -->
+    <circle cx="0" cy="0" r="15" fill="#FF6B6B" stroke="#333" stroke-width="1" />
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="16" fill="#333" text-anchor="middle" font-weight="bold">!</text>
+  </g>
+
+  <!-- Accent marks -->
+  <text x="160" y="50" font-family="Arial, sans-serif" font-size="20" fill="#ED2939">é</text>
+  <text x="160" y="80" font-family="Arial, sans-serif" font-size="20" fill="#002395">à</text>
+  <text x="160" y="110" font-family="Arial, sans-serif" font-size="20" fill="#333">ç</text>
+
+  <!-- Pencil -->
+  <g transform="translate(20, 160)">
+    <rect x="0" y="0" width="3" height="15" fill="#FFD700" rx="1" />
+    <polygon points="0,0 3,0 1.5,4" fill="#FFA500" />
+  </g>
+</svg>

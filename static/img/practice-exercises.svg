@@ -1,0 +1,84 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="exerciseGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28A745;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#FFFFFF;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#17A2B8;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="200" height="200" fill="url(#exerciseGradient)" rx="10" />
+
+  <!-- Exercise sheet -->
+  <rect x="25" y="30" width="150" height="140" fill="white" stroke="#333" stroke-width="2" rx="5" />
+
+  <!-- Header -->
+  <rect x="30" y="35" width="140" height="20" fill="#F8F9FA" rx="3" />
+  <text x="100" y="48" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">Exercice de Français</text>
+
+  <!-- Multiple choice question -->
+  <text x="35" y="70" font-family="Arial, sans-serif" font-size="10" fill="#333" font-weight="bold">1. Je ___ étudiant.</text>
+
+  <!-- Checkboxes -->
+  <g transform="translate(35, 80)">
+    <rect x="0" y="0" width="12" height="12" fill="white" stroke="#333" stroke-width="1" rx="2" />
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="10" fill="#333">a) suis</text>
+  </g>
+
+  <g transform="translate(35, 100)">
+    <rect x="0" y="0" width="12" height="12" fill="white" stroke="#333" stroke-width="1" rx="2" />
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="10" fill="#333">b) es</text>
+  </g>
+
+  <g transform="translate(35, 120)">
+    <rect x="0" y="0" width="12" height="12" fill="white" stroke="#333" stroke-width="1" rx="2" />
+    <text x="20" y="10" font-family="Arial, sans-serif" font-size="10" fill="#333">c) est</text>
+  </g>
+
+  <!-- Correct answer indicator -->
+  <g transform="translate(35, 80)">
+    <circle cx="6" cy="6" r="4" fill="#28A745" />
+    <text x="6" y="9" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" font-weight="bold">✓</text>
+  </g>
+
+  <!-- Fill in the blank -->
+  <text x="35" y="150" font-family="Arial, sans-serif" font-size="10" fill="#333" font-weight="bold">2. Bonjour, comment ___ vous?</text>
+
+  <!-- Blank space -->
+  <rect x="140" y="140" width="25" height="15" fill="#E9ECEF" stroke="#333" stroke-width="1" rx="2" />
+  <text x="152" y="150" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">allez</text>
+
+  <!-- Progress indicator -->
+  <g transform="translate(160, 20)">
+    <circle cx="0" cy="0" r="15" fill="#28A745" stroke="#333" stroke-width="1" />
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="bold">75%</text>
+  </g>
+
+  <!-- Success checkmarks -->
+  <g transform="translate(20, 60)">
+    <circle cx="0" cy="0" r="8" fill="#28A745" />
+    <text x="0" y="3" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">✓</text>
+  </g>
+
+  <g transform="translate(20, 80)">
+    <circle cx="0" cy="0" r="8" fill="#28A745" />
+    <text x="0" y="3" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">✓</text>
+  </g>
+
+  <g transform="translate(20, 100)">
+    <circle cx="0" cy="0" r="8" fill="#28A745" />
+    <text x="0" y="3" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">✓</text>
+  </g>
+
+  <!-- Timer -->
+  <g transform="translate(20, 140)">
+    <circle cx="0" cy="0" r="12" fill="#FFC107" stroke="#333" stroke-width="1" />
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="8" fill="#333" text-anchor="middle" font-weight="bold">5:30</text>
+  </g>
+
+  <!-- French flag colors accent -->
+  <rect x="25" y="175" width="150" height="5" fill="#ED2939" />
+  <rect x="25" y="180" width="150" height="5" fill="#FFFFFF" />
+  <rect x="25" y="185" width="150" height="5" fill="#002395" />
+</svg>

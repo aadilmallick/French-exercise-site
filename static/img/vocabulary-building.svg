@@ -1,0 +1,83 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vocabGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6F42C1;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#FFFFFF;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#E83E8C;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="200" height="200" fill="url(#vocabGradient)" rx="10" />
+
+  <!-- Vocabulary cards -->
+  <g transform="translate(30, 40)">
+    <!-- Card 1 -->
+    <rect x="0" y="0" width="60" height="40" fill="white" stroke="#333" stroke-width="1" rx="3" />
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="10" fill="#ED2939" text-anchor="middle" font-weight="bold">Bonjour</text>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Hello</text>
+  </g>
+
+  <g transform="translate(100, 40)">
+    <!-- Card 2 -->
+    <rect x="0" y="0" width="60" height="40" fill="white" stroke="#333" stroke-width="1" rx="3" />
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="10" fill="#002395" text-anchor="middle" font-weight="bold">Merci</text>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Thank you</text>
+  </g>
+
+  <g transform="translate(30, 90)">
+    <!-- Card 3 -->
+    <rect x="0" y="0" width="60" height="40" fill="white" stroke="#333" stroke-width="1" rx="3" />
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="10" fill="#28A745" text-anchor="middle" font-weight="bold">Au revoir</text>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Goodbye</text>
+  </g>
+
+  <g transform="translate(100, 90)">
+    <!-- Card 4 -->
+    <rect x="0" y="0" width="60" height="40" fill="white" stroke="#333" stroke-width="1" rx="3" />
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="10" fill="#FFC107" text-anchor="middle" font-weight="bold">S'il vous plaît</text>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="8" fill="#666" text-anchor="middle">Please</text>
+  </g>
+
+  <!-- Category labels -->
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="80" height="15" fill="#6F42C1" rx="3" />
+    <text x="40" y="11" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle" font-weight="bold">Salutations</text>
+  </g>
+
+  <!-- Pronunciation guide -->
+  <g transform="translate(120, 20)">
+    <circle cx="0" cy="0" r="12" fill="#17A2B8" stroke="#333" stroke-width="1" />
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" font-weight="bold">🔊</text>
+  </g>
+
+  <!-- Word count -->
+  <g transform="translate(160, 20)">
+    <rect x="0" y="0" width="30" height="15" fill="#28A745" rx="3" />
+    <text x="15" y="11" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" font-weight="bold">150</text>
+  </g>
+
+  <!-- Learning progress -->
+  <g transform="translate(20, 150)">
+    <rect x="0" y="0" width="160" height="8" fill="#E9ECEF" rx="4" />
+    <rect x="0" y="0" width="120" height="8" fill="#28A745" rx="4" />
+    <text x="80" y="20" font-family="Arial, sans-serif" font-size="10" fill="#333" text-anchor="middle">75% Complete</text>
+  </g>
+
+  <!-- Flashcard indicator -->
+  <g transform="translate(160, 60)">
+    <rect x="0" y="0" width="25" height="35" fill="#FFD700" stroke="#333" stroke-width="1" rx="2" />
+    <text x="12" y="20" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="middle" font-weight="bold">⚡</text>
+  </g>
+
+  <!-- Memory indicator -->
+  <g transform="translate(160, 100)">
+    <circle cx="0" cy="0" r="10" fill="#E83E8C" stroke="#333" stroke-width="1" />
+    <text x="0" y="3" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" font-weight="bold">🧠</text>
+  </g>
+
+  <!-- French flag accent -->
+  <rect x="20" y="175" width="160" height="3" fill="#ED2939" />
+  <rect x="20" y="178" width="160" height="3" fill="#FFFFFF" />
+  <rect x="20" y="181" width="160" height="3" fill="#002395" />
+</svg>
