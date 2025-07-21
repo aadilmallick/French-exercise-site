@@ -103,14 +103,6 @@ const config: Config = {
               label: "Grammar Lessons",
               to: "/docs/intro",
             },
-            {
-              label: "Vocabulary",
-              to: "/docs/tutorial-basics/create-a-document",
-            },
-            {
-              label: "Exercises",
-              to: "/docs/tutorial-basics/create-a-page",
-            },
           ],
         },
         {

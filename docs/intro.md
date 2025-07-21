@@ -46,6 +46,4 @@ Our curriculum is designed to take you from **beginner to intermediate** French 
 
 ## Start Learning
 
-Ready to begin? Start with our **[Basic Greetings](/docs/tutorial-basics/create-a-document)** lesson or explore our **[Vocabulary Categories](/docs/tutorial-basics/create-a-page)**.
-
-**Bonne chance!** (Good luck!)
+Ready to begin? Start with the first lesson.
