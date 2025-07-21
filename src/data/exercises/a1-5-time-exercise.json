@@ -1,0 +1,217 @@
+[
+  {
+    "type": "multi_select",
+    "question": "What is 7:00 AM in french?",
+    "options": [
+      "il est sept heures",
+      "il est sept heures moins vingt",
+      "il est sept heures du soir",
+      "il est sept heures du matin"
+    ],
+    "correctAnswers": ["il est sept heures", "il est sept heures du matin"],
+    "explanation": "The time is 7:00 AM, so the correct answer is 'il est sept heures', since french time is in military time. You can also append 'du matin' at the end to say 'in the morning' or 'AM'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 3:00 PM in French?",
+    "options": [
+      "il est trois heures",
+      "il est quinze heures",
+      "il est trois heures de l'après-midi",
+      "il est quinze heures de l'après-midi"
+    ],
+    "correctAnswers": [
+      "il est quinze heures",
+      "il est quinze heures de l'après-midi",
+      "il est trois heures de l'après-midi"
+    ],
+    "explanation": "3:00 PM in 24-hour format is 15:00, which is 'quinze heures'. You can also specify 'de l'après-midi' for the afternoon."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 12:00 PM in French?",
+    "options": [
+      "il est douze heures",
+      "il est midi",
+      "il est minuit",
+      "il est douze heures du matin"
+    ],
+    "correctAnswers": ["il est douze heures", "il est midi"],
+    "explanation": "12:00 PM is 'midi' in French, or 'douze heures'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 12:00 AM in French?",
+    "options": [
+      "il est minuit",
+      "il est zéro heure",
+      "il est midi",
+      "il est douze heures"
+    ],
+    "correctAnswers": ["il est minuit", "il est zéro heure"],
+    "explanation": "12:00 AM is 'minuit' in French, or 'zéro heure' in formal 24-hour time."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 6:15 in French?",
+    "options": [
+      "il est six heures quinze",
+      "il est six heures et quart",
+      "il est six heures moins le quart",
+      "il est dix-huit heures et quart"
+    ],
+    "correctAnswers": [
+      "il est six heures quinze",
+      "il est six heures et quart"
+    ],
+    "explanation": "'Six heures quinze' means 6:15, and 'et quart' means 'and a quarter'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 8:30 PM in French?",
+    "options": [
+      "il est huit heures et demie",
+      "il est vingt heures trente",
+      "il est huit heures du matin",
+      "il est vingt heures et demie"
+    ],
+    "correctAnswers": [
+      "il est vingt heures trente",
+      "il est vingt heures et demie"
+    ],
+    "explanation": "8:30 PM is 20:30 in 24-hour time. 'Et demie' means 'and a half'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 5:45 AM in French?",
+    "options": [
+      "il est cinq heures quarante-cinq",
+      "il est six heures moins le quart",
+      "il est cinq heures quarante-cinq du soir",
+      "il est six heures et quart"
+    ],
+    "correctAnswers": [
+      "il est cinq heures quarante-cinq",
+      "il est six heures moins le quart"
+    ],
+    "explanation": "'Cinq heures quarante-cinq' is 5:45. 'Six heures moins le quart' means 'a quarter to six'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 9:00 PM in French?",
+    "options": [
+      "il est neuf heures du soir",
+      "il est vingt et une heures",
+      "il est neuf heures du matin",
+      "il est dix-neuf heures"
+    ],
+    "correctAnswers": [
+      "il est neuf heures du soir",
+      "il est vingt et une heures"
+    ],
+    "explanation": "9:00 PM is 21:00, or 'vingt et une heures'. 'Neuf heures du soir' also works."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 10:10 in French?",
+    "options": [
+      "il est dix heures dix",
+      "il est dix heures et dix",
+      "il est dix heures vingt",
+      "il est vingt-deux heures dix"
+    ],
+    "correctAnswers": ["il est dix heures dix", "il est dix heures et dix"],
+    "explanation": "'Dix heures dix' and 'dix heures et dix' both mean 10:10."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 11:50 PM in French?",
+    "options": [
+      "il est onze heures cinquante du matin",
+      "il est minuit moins dix",
+      "il est vingt-trois heures cinquante",
+      "il est onze heures cinquante du soir"
+    ],
+    "correctAnswers": [
+      "il est minuit moins dix",
+      "il est vingt-trois heures cinquante"
+    ],
+    "explanation": "11:50 PM is either 'minuit moins dix' or 'vingt-trois heures cinquante'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 1:00 PM in French?",
+    "options": [
+      "il est treize heures",
+      "il est une heure de l'après-midi",
+      "il est une heure du matin",
+      "il est douze heures"
+    ],
+    "correctAnswers": [
+      "il est treize heures",
+      "il est une heure de l'après-midi"
+    ],
+    "explanation": "1:00 PM is 13:00, or 'une heure de l'après-midi'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 2:30 AM in French?",
+    "options": [
+      "il est deux heures et demie",
+      "il est deux heures trente",
+      "il est quatorze heures trente",
+      "il est deux heures du matin"
+    ],
+    "correctAnswers": [
+      "il est deux heures et demie",
+      "il est deux heures trente",
+      "il est deux heures du matin"
+    ],
+    "explanation": "2:30 AM is 'deux heures et demie' or 'deux heures trente', with 'du matin' to clarify it's morning."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 4:20 PM in French?",
+    "options": [
+      "il est seize heures vingt",
+      "il est quatre heures vingt",
+      "il est quatre heures vingt du matin",
+      "il est quatre heures vingt de l'après-midi"
+    ],
+    "correctAnswers": [
+      "il est seize heures vingt",
+      "il est quatre heures vingt de l'après-midi"
+    ],
+    "explanation": "4:20 PM is either 'seize heures vingt' or 'quatre heures vingt de l'après-midi'."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 11:15 AM in French?",
+    "options": [
+      "il est onze heures et quart",
+      "il est onze heures quinze",
+      "il est onze heures du soir",
+      "il est onze heures et demie"
+    ],
+    "correctAnswers": [
+      "il est onze heures et quart",
+      "il est onze heures quinze"
+    ],
+    "explanation": "'Onze heures quinze' and 'et quart' both mean 11:15."
+  },
+  {
+    "type": "multi_select",
+    "question": "What is 6:40 PM in French?",
+    "options": [
+      "il est dix-huit heures quarante",
+      "il est sept heures moins vingt du soir",
+      "il est six heures quarante du matin",
+      "il est sept heures moins le quart"
+    ],
+    "correctAnswers": [
+      "il est dix-huit heures quarante",
+      "il est sept heures moins vingt du soir"
+    ],
+    "explanation": "6:40 PM is 'dix-huit heures quarante' or 'sept heures moins vingt'."
+  }
+]

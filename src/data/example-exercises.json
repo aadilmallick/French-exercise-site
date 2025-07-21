@@ -1,0 +1,107 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which word is masculine?",
+    "options": ["la casa", "la mesa", "el libro", "la ventana"],
+    "correctAnswers": ["el libro"],
+    "explanation": "Words with the article 'el' are typically masculine."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which word is feminine?",
+    "options": ["el chico", "el hermano", "el abuelo", "la hermana"],
+    "correctAnswers": ["la hermana"],
+    "explanation": "Words with the article 'la' are typically feminine."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which word is masculine?",
+    "options": ["el cuaderno", "la pluma", "la maestra", "la profesora"],
+    "correctAnswers": ["el cuaderno"],
+    "explanation": "'El cuaderno' uses the masculine article 'el'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which word is feminine?",
+    "options": ["el número", "el teléfono", "el muchacho", "la tía"],
+    "correctAnswers": ["la tía"],
+    "explanation": "'La tía' uses the feminine article 'la'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "¿Cuál es la palabra masculina?",
+    "options": ["la mañana", "la palabra", "el diccionario", "la tarea"],
+    "correctAnswers": ["el diccionario"],
+    "explanation": "The article 'el' indicates masculine gender."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "el libro",
+    "options": ["is a masculine word", "is a feminine word"],
+    "correctAnswers": ["is a masculine word"],
+    "explanation": "'Libro' is masculine in Spanish."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "la pluma",
+    "options": ["is a masculine word", "is a feminine word"],
+    "correctAnswers": ["is a feminine word"],
+    "explanation": "'Pluma' is feminine in Spanish."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "el cuaderno",
+    "options": ["is a masculine word", "is a feminine word"],
+    "correctAnswers": ["is a masculine word"],
+    "explanation": "'Cuaderno' is masculine in Spanish."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "el escritorio",
+    "options": ["is a masculine word", "es una palabra femenina"],
+    "correctAnswers": ["is a masculine word"],
+    "explanation": "'Escritorio' is masculine."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "la silla",
+    "options": ["es una palabra masculina", "es una palabra femenina"],
+    "correctAnswers": ["es una palabra femenina"],
+    "explanation": "'Silla' is feminine."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "el libr ___",
+    "options": ["o", "a"],
+    "correctAnswers": ["o"],
+    "explanation": "The correct word is 'el libro'."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "la mes ___",
+    "options": ["o", "a"],
+    "correctAnswers": ["a"],
+    "explanation": "The correct word is 'la mesa'."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "el gat ___",
+    "options": ["o", "a"],
+    "correctAnswers": ["o"],
+    "explanation": "The correct word is 'el gato'."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "la gat ___",
+    "options": ["o", "a"],
+    "correctAnswers": ["a"],
+    "explanation": "The correct word is 'la gata'."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "el chic ___",
+    "options": ["o", "a"],
+    "correctAnswers": ["o"],
+    "explanation": "The correct word is 'el chico'."
+  }
+]
