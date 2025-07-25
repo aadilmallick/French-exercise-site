@@ -101,14 +101,11 @@
     "question": "What is 9:00 PM in French?",
     "options": [
       "il est neuf heures du soir",
-      "il est vingt et une heures",
+      "il est vingt et une heures du matin",
       "il est neuf heures du matin",
-      "il est dix-neuf heures"
+      "il est vignt et une heures"
     ],
-    "correctAnswers": [
-      "il est neuf heures du soir",
-      "il est vingt et une heures"
-    ],
+    "correctAnswers": ["A", "D"],
     "explanation": "9:00 PM is 21:00, or 'vingt et une heures'. 'Neuf heures du soir' also works."
   },
   {
@@ -134,7 +131,8 @@
     ],
     "correctAnswers": [
       "il est minuit moins dix",
-      "il est vingt-trois heures cinquante"
+      "il est vingt-trois heures cinquante",
+      "il est onze heures cinquante du soir"
     ],
     "explanation": "11:50 PM is either 'minuit moins dix' or 'vingt-trois heures cinquante'."
   },
@@ -164,8 +162,7 @@
     ],
     "correctAnswers": [
       "il est deux heures et demie",
-      "il est deux heures trente",
-      "il est deux heures du matin"
+      "il est deux heures trente"
     ],
     "explanation": "2:30 AM is 'deux heures et demie' or 'deux heures trente', with 'du matin' to clarify it's morning."
   },

@@ -1,0 +1,345 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Je parle à ____ frère.",
+    "options": ["mon", "ma", "mes", "ton"],
+    "correctAnswers": ["mon"],
+    "explanation": "The possessor is 'je' (I), and the noun 'frère' is masculine singular. The correct possessive adjective is 'mon'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je regarde ____ télévision.",
+    "options": ["ma", "mon", "mes", "ta"],
+    "correctAnswers": ["ma"],
+    "explanation": "The possessor is 'je' (I), and the noun 'télévision' is feminine singular. The correct possessive adjective is 'ma'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "J’aime ____ amis.",
+    "options": ["mon", "ma", "mes", "ton"],
+    "correctAnswers": ["mes"],
+    "explanation": "The possessor is 'je' (I), and the noun 'amis' is plural (masculine). The correct possessive adjective is 'mes'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu lis ____ livre.",
+    "options": ["ton", "ta", "tes", "mon"],
+    "correctAnswers": ["ton"],
+    "explanation": "The possessor is 'tu' (you, informal), and the noun 'livre' is masculine singular. The correct possessive adjective is 'ton'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu aimes ____ sœur.",
+    "options": ["ta", "ton", "tes", "ma"],
+    "correctAnswers": ["ta"],
+    "explanation": "The possessor is 'tu' (you, informal), and the noun 'sœur' is feminine singular. The correct possessive adjective is 'ta'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu joues avec ____ chiens.",
+    "options": ["tes", "ton", "ta", "mes"],
+    "correctAnswers": ["tes"],
+    "explanation": "The possessor is 'tu' (you, informal), and the noun 'chiens' is plural (masculine). The correct possessive adjective is 'tes'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il regarde ____ père.",
+    "options": ["son", "sa", "ses", "ton"],
+    "correctAnswers": ["son"],
+    "explanation": "The possessor is 'il' (he), and the noun 'père' is masculine singular. The correct possessive adjective is 'son'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle aime ____ mère.",
+    "options": ["sa", "son", "ses", "ta"],
+    "correctAnswers": ["sa"],
+    "explanation": "The possessor is 'elle' (she), and the noun 'mère' is feminine singular. The correct possessive adjective is 'sa'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "On visite ____ amis.",
+    "options": ["ses", "son", "sa", "mes"],
+    "correctAnswers": ["ses"],
+    "explanation": "The possessor is 'on' (one), and the noun 'amis' is plural (masculine). The correct possessive adjective is 'ses'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous aimons ____ maison.",
+    "options": ["notre", "nos", "votre", "leur"],
+    "correctAnswers": ["notre"],
+    "explanation": "The possessor is 'nous' (we), and the noun 'maison' is singular (feminine). The correct possessive adjective is 'notre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous regardons ____ films.",
+    "options": ["nos", "notre", "vos", "leurs"],
+    "correctAnswers": ["nos"],
+    "explanation": "The possessor is 'nous' (we), and the noun 'films' is plural (masculine). The correct possessive adjective is 'nos'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous parlez à ____ frère.",
+    "options": ["votre", "vos", "leur", "ton"],
+    "correctAnswers": ["votre"],
+    "explanation": "The possessor is 'vous' (you, formal/plural), and the noun 'frère' is singular (masculine). The correct possessive adjective is 'votre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous aimez ____ voiture.",
+    "options": ["votre", "vos", "leur", "ta"],
+    "correctAnswers": ["votre"],
+    "explanation": "The possessor is 'vous' (you, formal/plural), and the noun 'voiture' is singular (feminine). The correct possessive adjective is 'votre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous jouez avec ____ enfants.",
+    "options": ["vos", "votre", "leurs", "mes"],
+    "correctAnswers": ["vos"],
+    "explanation": "The possessor is 'vous' (you, formal/plural), and the noun 'enfants' is plural (masculine). The correct possessive adjective is 'vos'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils parlent de ____ ami.",
+    "options": ["leur", "leurs", "votre", "ton"],
+    "correctAnswers": ["leur"],
+    "explanation": "The possessor is 'ils' (they, masculine), and the noun 'ami' is singular (masculine). The correct possessive adjective is 'leur'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elles aiment ____ sœur.",
+    "options": ["leur", "leurs", "votre", "ta"],
+    "correctAnswers": ["leur"],
+    "explanation": "The possessor is 'elles' (they, feminine), and the noun 'sœur' is singular (feminine). The correct possessive adjective is 'leur'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils jouent avec ____ chiens.",
+    "options": ["leurs", "leur", "vos", "tes"],
+    "correctAnswers": ["leurs"],
+    "explanation": "The possessor is 'ils' (they, masculine), and the noun 'chiens' is plural (masculine). The correct possessive adjective is 'leurs'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je mange dans ____ cuisine.",
+    "options": ["ma", "mon", "mes", "ton"],
+    "correctAnswers": ["ma"],
+    "explanation": "The possessor is 'je' (I), and the noun 'cuisine' is feminine singular. The correct possessive adjective is 'ma'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu travailles avec ____ père.",
+    "options": ["ton", "ta", "tes", "mon"],
+    "correctAnswers": ["ton"],
+    "explanation": "The possessor is 'tu' (you, informal), and the noun 'père' is masculine singular. The correct possessive adjective is 'ton'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il écoute ____ musique.",
+    "options": ["sa", "son", "ses", "ta"],
+    "correctAnswers": ["sa"],
+    "explanation": "The possessor is 'il' (he), and the noun 'musique' is feminine singular. The correct possessive adjective is 'sa'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle regarde ____ chats.",
+    "options": ["ses", "son", "sa", "mes"],
+    "correctAnswers": ["ses"],
+    "explanation": "The possessor is 'elle' (she), and the noun 'chats' is plural (masculine). The correct possessive adjective is 'ses'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous dansons dans ____ salle.",
+    "options": ["notre", "nos", "votre", "leur"],
+    "correctAnswers": ["notre"],
+    "explanation": "The possessor is 'nous' (we), and the noun 'salle' is singular (feminine). The correct possessive adjective is 'notre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous aimons ____ livres.",
+    "options": ["nos", "notre", "vos", "leurs"],
+    "correctAnswers": ["nos"],
+    "explanation": "The possessor is 'nous' (we), and the noun 'livres' is plural (masculine). The correct possessive adjective is 'nos'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous parlez à ____ professeur.",
+    "options": ["votre", "vos", "leur", "ton"],
+    "correctAnswers": ["votre"],
+    "explanation": "The possessor is 'vous' (you, formal/plural), and the noun 'professeur' is singular (masculine). The correct possessive adjective is 'votre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils visitent ____ maison.",
+    "options": ["leur", "leurs", "votre", "notre"],
+    "correctAnswers": ["leur"],
+    "explanation": "The possessor is 'ils' (they, masculine), and the noun 'maison' is singular (feminine). The correct possessive adjective is 'leur'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je finis ____ devoirs.",
+    "options": ["mes", "mon", "ma", "tes"],
+    "correctAnswers": ["mes"],
+    "explanation": "The possessor is 'je' (I), and the noun 'devoirs' is plural (masculine). The correct possessive adjective is 'mes'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu attends ____ ami à l’école.",
+    "options": ["ton", "ta", "tes", "mon"],
+    "correctAnswers": ["ton"],
+    "explanation": "The possessor is 'tu' (you, informal), and the noun 'ami' is masculine singular. The correct possessive adjective is 'ton'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle choisit ____ robe.",
+    "options": ["sa", "son", "ses", "ta"],
+    "correctAnswers": ["sa"],
+    "explanation": "The possessor is 'elle' (she), and the noun 'robe' is feminine singular. The correct possessive adjective is 'sa'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il aime ____ chiens.",
+    "options": ["ses", "son", "sa", "mes"],
+    "correctAnswers": ["ses"],
+    "explanation": "The possessor is 'il' (he), and the noun 'chiens' is plural (masculine). The correct possessive adjective is 'ses'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous travaillons dans ____ bureau.",
+    "options": ["notre", "nos", "votre", "leur"],
+    "correctAnswers": ["notre"],
+    "explanation": "The possessor is 'nous' (we), and the noun 'bureau' is singular (masculine). The correct possessive adjective is 'notre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous regardez ____ photos.",
+    "options": ["vos", "votre", "leurs", "nos"],
+    "correctAnswers": ["vos"],
+    "explanation": "The possessor is 'vous' (you, formal/plural), and the noun 'photos' is plural (feminine). The correct possessive adjective is 'vos'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elles parlent de ____ frère.",
+    "options": ["leur", "leurs", "votre", "ton"],
+    "correctAnswers": ["leur"],
+    "explanation": "The possessor is 'elles' (they, feminine), and the noun 'frère' is singular (masculine). The correct possessive adjective is 'leur'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils aiment ____ voitures.",
+    "options": ["leurs", "leur", "vos", "tes"],
+    "correctAnswers": ["leurs"],
+    "explanation": "The possessor is 'ils' (they, masculine), and the noun 'voitures' is plural (feminine). The correct possessive adjective is 'leurs'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "J’écoute ____ chanson préférée.",
+    "options": ["ma", "mon", "mes", "ta"],
+    "correctAnswers": ["ma"],
+    "explanation": "The possessor is 'je' (I), and the noun 'chanson' is feminine singular. The correct possessive adjective is 'ma'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu rends ____ livre à la bibliothèque.",
+    "options": ["ton", "ta", "tes", "mon"],
+    "correctAnswers": ["ton"],
+    "explanation": "The possessor is 'tu' (you, informal), and the noun 'livre' is masculine singular. The correct possessive adjective is 'ton'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il visite ____ grand-mère.",
+    "options": ["sa", "son", "ses", "ta"],
+    "correctAnswers": ["sa"],
+    "explanation": "The possessor is 'il' (he), and the noun 'grand-mère' is feminine singular. The correct possessive adjective is 'sa'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle aime ____ fleurs.",
+    "options": ["ses", "son", "sa", "mes"],
+    "correctAnswers": ["ses"],
+    "explanation": "The possessor is 'elle' (she), and the noun 'fleurs' is plural (feminine). The correct possessive adjective is 'ses'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous mangeons dans ____ cuisine.",
+    "options": ["notre", "nos", "votre", "leur"],
+    "correctAnswers": ["notre"],
+    "explanation": "The possessor is 'nous' (we), and the noun 'cuisine' is singular (feminine). The correct possessive adjective is 'notre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous parlez de ____ projets.",
+    "options": ["vos", "votre", "leurs", "nos"],
+    "correctAnswers": ["vos"],
+    "explanation": "The possessor is 'vous' (you, formal/plural), and the noun 'projets' is plural (masculine). The correct possessive adjective is 'vos'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils écoutent ____ musique.",
+    "options": ["leur", "leurs", "votre", "ta"],
+    "correctAnswers": ["leur"],
+    "explanation": "The possessor is 'ils' (they, masculine), and the noun 'musique' is singular (feminine). The correct possessive adjective is 'leur'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elles jouent avec ____ chats.",
+    "options": ["leurs", "leur", "vos", "tes"],
+    "correctAnswers": ["leurs"],
+    "explanation": "The possessor is 'elles' (they, feminine), and the noun 'chats' is plural (masculine). The correct possessive adjective is 'leurs'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je parle de ____ ami.",
+    "options": ["mon", "ma", "mes", "ton"],
+    "correctAnswers": ["mon"],
+    "explanation": "The possessor is 'je' (I), and the noun 'ami' is masculine singular. The correct possessive adjective is 'mon'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu danses avec ____ sœur.",
+    "options": ["ta", "ton", "tes", "ma"],
+    "correctAnswers": ["ta"],
+    "explanation": "The possessor is 'tu' (you, informal), and the noun 'sœur' is feminine singular. The correct possessive adjective is 'ta'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il regarde ____ film préféré.",
+    "options": ["son", "sa", "ses", "ton"],
+    "correctAnswers": ["son"],
+    "explanation": "The possessor is 'il' (he), and the noun 'film' is masculine singular. The correct possessive adjective is 'son'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle mange ____ pommes.",
+    "options": ["ses", "son", "sa", "mes"],
+    "correctAnswers": ["ses"],
+    "explanation": "The possessor is 'elle' (she), and the noun 'pommes' is plural (feminine). The correct possessive adjective is 'ses'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous visitons ____ ville.",
+    "options": ["notre", "nos", "votre", "leur"],
+    "correctAnswers": ["notre"],
+    "explanation": "The possessor is 'nous' (we), and the noun 'ville' is singular (feminine). The correct possessive adjective is 'notre'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous travaillez avec ____ amis.",
+    "options": ["vos", "votre", "leurs", "nos"],
+    "correctAnswers": ["vos"],
+    "explanation": "The possessor is 'vous' (you, formal/plural), and the noun 'amis' is plural (masculine). The correct possessive adjective is 'vos'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils parlent à ____ professeur.",
+    "options": ["leur", "leurs", "votre", "ton"],
+    "correctAnswers": ["leur"],
+    "explanation": "The possessor is 'ils' (they, masculine), and the noun 'professeur' is singular (masculine). The correct possessive adjective is 'leur'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elles aiment ____ livres.",
+    "options": ["leurs", "leur", "vos", "tes"],
+    "correctAnswers": ["leurs"],
+    "explanation": "The possessor is 'elles' (they, feminine), and the noun 'livres' is plural (masculine). The correct possessive adjective is 'leurs'."
+  }
+]

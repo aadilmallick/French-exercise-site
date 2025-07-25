@@ -1,0 +1,74 @@
+[
+  {
+    "type": "free_response",
+    "question": "Translate into French: The class starts at 9 o'clock.",
+    "correctAnswers": ["Le cours commence à 9 heures."],
+    "explanation": "The verb 'commencer' (to start) is conjugated as 'commence' for 'le cours' (the class, masculine singular) in the present tense. The preposition 'à' is used to indicate a specific time, '9 heures' (9 o'clock)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I was born in 1990.",
+    "correctAnswers": ["Je suis né en 1990."],
+    "explanation": "The verb 'naître' (to be born) is conjugated as 'suis né' for 'je' (masculine) in the present perfect tense with 'être' as the auxiliary. The preposition 'en' is used for years. Use 'née' if the speaker is feminine."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We will go to France in the summer.",
+    "correctAnswers": ["Nous irons en France en été."],
+    "explanation": "The verb 'aller' (to go) is conjugated as 'irons' for 'nous' in the future tense. The preposition 'en' is used for seasons like 'été' (summer) and feminine country names like 'France'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I will finish the work in one hour.",
+    "correctAnswers": ["Je finirai le travail dans une heure."],
+    "explanation": "The verb 'finir' (to finish) is conjugated as 'finirai' for 'je' in the future tense. The preposition 'dans' indicates a duration of time in the future, 'une heure' (one hour)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He arrived around noon.",
+    "correctAnswers": ["Il est arrivé sur les coups de midi."],
+    "explanation": "The verb 'arriver' (to arrive) is conjugated as 'est arrivé' for 'il' in the present perfect tense with 'être' as the auxiliary. The expression 'sur les coups de' means 'around' for approximate times like 'midi' (noon)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I studied for two hours.",
+    "correctAnswers": ["J’ai étudié pendant deux heures."],
+    "explanation": "The verb 'étudier' (to study) is conjugated as 'ai étudié' for 'je' in the present perfect tense with 'avoir' as the auxiliary. The preposition 'pendant' indicates the duration of an action, 'deux heures' (two hours)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I work to earn money.",
+    "correctAnswers": ["Je travaille pour gagner de l’argent."],
+    "explanation": "The verb 'travailler' (to work) is conjugated as 'travaille' for 'je' in the present tense. The preposition 'pour' indicates purpose, followed by the infinitive 'gagner' (to earn) and 'de l’argent' (money, with partitive article)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She has lived here since 2010.",
+    "correctAnswers": ["Elle habite ici depuis 2010."],
+    "explanation": "The verb 'habiter' (to live) is conjugated as 'habite' for 'elle' in the present tense, used for actions continuing from the past to now. The preposition 'depuis' indicates a starting point in time, '2010'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I visited Rome two years ago.",
+    "correctAnswers": ["J’ai visité Rome il y a deux ans."],
+    "explanation": "The verb 'visiter' (to visit) is conjugated as 'ai visité' for 'je' in the present perfect tense with 'avoir' as the auxiliary. The expression 'il y a' means 'ago' for past time periods, 'deux ans' (two years)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The train arrives around 10 o'clock.",
+    "correctAnswers": ["Le train arrive vers 10 heures."],
+    "explanation": "The verb 'arriver' (to arrive) is conjugated as 'arrive' for 'le train' (the train, masculine singular) in the present tense. The preposition 'vers' means 'around' for approximate times, '10 heures' (10 o'clock)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I eat before leaving.",
+    "correctAnswers": ["Je mange avant de partir."],
+    "explanation": "The verb 'manger' (to eat) is conjugated as 'mange' for 'je' in the present tense. The preposition 'avant' means 'before' and is followed by the infinitive 'partir' (to leave) with 'de'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I rest after work.",
+    "correctAnswers": ["Je me repose après le travail."],
+    "explanation": "The reflexive verb 'se reposer' (to rest) is conjugated as 'me repose' for 'je' in the present tense. The preposition 'après' means 'after' and is followed by 'le travail' (work, masculine singular)."
+  }
+]

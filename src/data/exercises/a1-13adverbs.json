@@ -1,0 +1,422 @@
+[
+  {
+    "type": "free_response",
+    "question": "Je parle ____ (lent).",
+    "correctAnswers": ["lentement"],
+    "explanation": "The adjective 'lent' (slow) forms the adverb by adding -ment to the masculine form, resulting in 'lentement' (slowly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle chante ____ (beau).",
+    "correctAnswers": ["bellemont"],
+    "explanation": "The adjective 'beau' (beautiful) forms the adverb by using the feminine form 'belle' and adding -ment, resulting in 'bellemont' (beautifully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous travaillons ____ (rapide).",
+    "correctAnswers": ["rapidement"],
+    "explanation": "The adjective 'rapide' (quick) forms the adverb by adding -ment to the masculine form, resulting in 'rapidement' (quickly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu danses ____ (gracieux).",
+    "correctAnswers": ["gracieusement"],
+    "explanation": "The adjective 'gracieux' (graceful) forms the adverb by adding -ment to the masculine form, resulting in 'gracieusement' (gracefully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Il répond ____ (poli).",
+    "correctAnswers": ["poliment"],
+    "explanation": "The adjective 'poli' (polite) forms the adverb by adding -ment to the masculine form, resulting in 'poliment' (politely)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle écrit ____ (soigneux).",
+    "correctAnswers": ["soigneusement"],
+    "explanation": "The adjective 'soigneux' (careful) forms the adverb by adding -ment to the masculine form, resulting in 'soigneusement' (carefully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous jouons ____ (heureux).",
+    "correctAnswers": ["heureusement"],
+    "explanation": "The adjective 'heureux' (happy) forms the adverb by adding -ment to the masculine form, resulting in 'heureusement' (happily)."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous parlez ____ (franc).",
+    "correctAnswers": ["franchement"],
+    "explanation": "The adjective 'franc' (frank) forms the adverb by adding -ment to the masculine form, resulting in 'franchement' (frankly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils écoutent ____ (attentif).",
+    "correctAnswers": ["attentivement"],
+    "explanation": "The adjective 'attentif' (attentive) forms the adverb by adding -ment to the masculine form, resulting in 'attentivement' (attentively)."
+  },
+  {
+    "type": "free_response",
+    "question": "Je mange ____ (gourmand).",
+    "correctAnswers": ["gourmandement"],
+    "explanation": "The adjective 'gourmand' (greedy) forms the adverb by adding -ment to the masculine form, resulting in 'gourmandement' (greedily)."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu travailles ____ (sérieux).",
+    "correctAnswers": ["sérieusement"],
+    "explanation": "The adjective 'sérieux' (serious) forms the adverb by adding -ment to the masculine form, resulting in 'sérieusement' (seriously)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle regarde ____ (curieux).",
+    "correctAnswers": ["curieusement"],
+    "explanation": "The adjective 'curieux' (curious) forms the adverb by adding -ment to the masculine form, resulting in 'curieusement' (curiously)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous finissons ____ (rapide).",
+    "correctAnswers": ["rapidement"],
+    "explanation": "The adjective 'rapide' (quick) forms the adverb by adding -ment to the masculine form, resulting in 'rapidement' (quickly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous choisissez ____ (prudent).",
+    "correctAnswers": ["prudemment"],
+    "explanation": "The adjective 'prudent' (cautious) forms the adverb by adding -ment to the masculine form, resulting in 'prudemment' (cautiously)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils dansent ____ (élégant).",
+    "correctAnswers": ["élégamment"],
+    "explanation": "The adjective 'élégant' (elegant) forms the adverb by adding -ment to the masculine form, resulting in 'élégamment' (elegantly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Je parle ____ (bon).",
+    "correctAnswers": ["bien"],
+    "explanation": "The adjective 'bon' (good) has an irregular adverb form, 'bien' (well), used to describe the manner of speaking."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu travailles ____ (mauvais).",
+    "correctAnswers": ["mal"],
+    "explanation": "The adjective 'mauvais' (bad) has an irregular adverb form, 'mal' (badly), used to describe the manner of working."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle chante ____ (gentil).",
+    "correctAnswers": ["gentiment"],
+    "explanation": "The adjective 'gentil' (kind) forms the adverb by adding -ment to the masculine form, resulting in 'gentiment' (kindly), though this is an irregular formation as it uses the masculine base."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous écoutons ____ (meilleur).",
+    "correctAnswers": ["mieux"],
+    "explanation": "The adjective 'meilleur' (better) has an irregular adverb form, 'mieux' (better), used to describe the manner of listening."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous parlez ____ (peu).",
+    "correctAnswers": ["peu"],
+    "explanation": "The adjective 'peu' (little) is also an irregular adverb meaning 'little' or 'not much'. It describes the extent of speaking."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils jouent ____ (vite).",
+    "correctAnswers": ["vite"],
+    "explanation": "The adjective 'vite' (quick) is also an irregular adverb meaning 'quickly'. It describes the manner of playing."
+  },
+  {
+    "type": "free_response",
+    "question": "Je réponds ____ (bref).",
+    "correctAnswers": ["brièvement"],
+    "explanation": "The adjective 'bref' (brief) forms the adverb by adding -ment to the masculine form, resulting in 'brièvement' (briefly), an irregular formation."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu attends ____ (patient).",
+    "correctAnswers": ["patiemment"],
+    "explanation": "The adjective 'patient' (patient) forms the adverb by adding -ment to the masculine form, resulting in 'patiemment' (patiently)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle danse ____ (mauvais).",
+    "correctAnswers": ["mal"],
+    "explanation": "The adjective 'mauvais' (bad) has an irregular adverb form, 'mal' (badly), used to describe the manner of dancing."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous travaillons ____ (bon).",
+    "correctAnswers": ["bien"],
+    "explanation": "The adjective 'bon' (good) has an irregular adverb form, 'bien' (well), used to describe the manner of working."
+  },
+  {
+    "type": "free_response",
+    "question": "I go to school today.",
+    "correctAnswers": ["Je vais à l'école aujourd'hui"],
+    "explanation": "The adverb 'aujourd'hui' (today) is an adverb of time, indicating when the action of going to school occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "You eat now.",
+    "correctAnswers": ["Tu manges maintenant"],
+    "explanation": "The adverb 'maintenant' (now) is an adverb of time, indicating when the action of eating occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "She arrives late.",
+    "correctAnswers": ["Elle arrive tard"],
+    "explanation": "The adverb 'tard' (late) is an adverb of time, indicating when the action of arriving occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "We leave tomorrow.",
+    "correctAnswers": ["Nous partons demain"],
+    "explanation": "The adverb 'demain' (tomorrow) is an adverb of time, indicating when the action of leaving occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "You work often.",
+    "correctAnswers": ["Vous travaillez souvent"],
+    "explanation": "The adverb 'souvent' (often) is an adverb of time, indicating the frequency of working."
+  },
+  {
+    "type": "free_response",
+    "question": "They played yesterday.",
+    "correctAnswers": ["Ils jouent hier"],
+    "explanation": "The adverb 'hier' (yesterday) is an adverb of time, indicating when the action of playing occurred."
+  },
+  {
+    "type": "free_response",
+    "question": "I always watch television.",
+    "correctAnswers": ["Je regarde toujours la télévision"],
+    "explanation": "The adverb 'toujours' (always) is an adverb of time, indicating the frequency of watching television."
+  },
+  {
+    "type": "free_response",
+    "question": "You rarely study.",
+    "correctAnswers": ["Tu étudies rarement"],
+    "explanation": "The adverb 'rarement' (rarely) is an adverb of time, indicating the frequency of studying."
+  },
+  {
+    "type": "free_response",
+    "question": "She will speak soon.",
+    "correctAnswers": ["Elle parle bientôt"],
+    "explanation": "The adverb 'bientôt' (soon) is an adverb of time, indicating when the action of speaking will occur."
+  },
+  {
+    "type": "free_response",
+    "question": "We finish early.",
+    "correctAnswers": ["Nous finissons tôt"],
+    "explanation": "The adverb 'tôt' (early) is an adverb of time, indicating when the action of finishing occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "You sometimes dance.",
+    "correctAnswers": ["Vous dansez parfois"],
+    "explanation": "The adverb 'parfois' (sometimes) is an adverb of time, indicating the frequency of dancing."
+  },
+  {
+    "type": "free_response",
+    "question": "They never arrive.",
+    "correctAnswers": ["Ils arrivent jamais"],
+    "explanation": "The adverb 'jamais' (never) is an adverb of time, indicating the frequency of arriving."
+  },
+  {
+    "type": "free_response",
+    "question": "I sing today.",
+    "correctAnswers": ["Je chante aujourd'hui"],
+    "explanation": "The adverb 'aujourd'hui' (today) is an adverb of time, indicating when the action of singing occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "You are reading now.",
+    "correctAnswers": ["Tu lis maintenant"],
+    "explanation": "The adverb 'maintenant' (now) is an adverb of time, indicating when the action of reading occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "She works often.",
+    "correctAnswers": ["Elle travaille souvent"],
+    "explanation": "The adverb 'souvent' (often) is an adverb of time, indicating the frequency of working."
+  },
+  {
+    "type": "free_response",
+    "question": "We will watch a movie tomorrow.",
+    "correctAnswers": ["Nous regardons un film demain"],
+    "explanation": "The adverb 'demain' (tomorrow) is an adverb of time, indicating when the action of watching a movie occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "You speak late.",
+    "correctAnswers": ["Vous parlez tard"],
+    "explanation": "The adverb 'tard' (late) is an adverb of time, indicating when the action of speaking occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "They always eat.",
+    "correctAnswers": ["Ils mangent toujours"],
+    "explanation": "The adverb 'toujours' (always) is an adverb of time, indicating the frequency of eating."
+  },
+  {
+    "type": "free_response",
+    "question": "I played yesterday.",
+    "correctAnswers": ["Je joue hier"],
+    "explanation": "The adverb 'hier' (yesterday) is an adverb of time, indicating when the action of playing occurred."
+  },
+  {
+    "type": "free_response",
+    "question": "You sometimes dance.",
+    "correctAnswers": ["Tu danses parfois"],
+    "explanation": "The adverb 'parfois' (sometimes) is an adverb of time, indicating the frequency of dancing."
+  },
+  {
+    "type": "free_response",
+    "question": "She will listen soon.",
+    "correctAnswers": ["Elle écoute bientôt"],
+    "explanation": "The adverb 'bientôt' (soon) is an adverb of time, indicating when the action of listening will occur."
+  },
+  {
+    "type": "free_response",
+    "question": "We rarely work.",
+    "correctAnswers": ["Nous travaillons rarement"],
+    "explanation": "The adverb 'rarement' (rarely) is an adverb of time, indicating the frequency of working."
+  },
+  {
+    "type": "free_response",
+    "question": "You arrive early.",
+    "correctAnswers": ["Vous arrivez tôt"],
+    "explanation": "The adverb 'tôt' (early) is an adverb of time, indicating when the action of arriving occurs."
+  },
+  {
+    "type": "free_response",
+    "question": "They never study.",
+    "correctAnswers": ["Ils étudient jamais"],
+    "explanation": "The adverb 'jamais' (never) is an adverb of time, indicating the frequency of studying."
+  },
+  {
+    "type": "free_response",
+    "question": "I respond quickly.",
+    "correctAnswers": ["Je réponds vite"],
+    "explanation": "The adjective 'vite' (quick) is also an irregular adverb meaning 'quickly'. It describes the manner of responding."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I speak slowly.",
+    "correctAnswers": ["Je parle lentement."],
+    "explanation": "The verb 'parler' (to speak) is conjugated as 'parle' for 'je' in the present tense. The adverb 'lentement' (slowly) is formed from the adjective 'lent' (slow) by adding -ment to the masculine form."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (informal) dance gracefully.",
+    "correctAnswers": ["Tu danses gracieusement."],
+    "explanation": "The verb 'danser' (to dance) is conjugated as 'danses' for 'tu' in the present tense. The adverb 'gracieusement' (gracefully) is formed from the adjective 'gracieux' (graceful) by adding -ment."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She sings beautifully.",
+    "correctAnswers": ["Elle chante bellemont."],
+    "explanation": "The verb 'chanter' (to sing) is conjugated as 'chante' for 'elle' in the present tense. The adverb 'bellemont' (beautifully) is formed from the adjective 'beau' by using the feminine form 'belle' and adding -ment."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We work seriously.",
+    "correctAnswers": ["Nous travaillons sérieusement."],
+    "explanation": "The verb 'travailler' (to work) is conjugated as 'travaillons' for 'nous' in the present tense. The adverb 'sérieusement' (seriously) is formed from the adjective 'sérieux' (serious) by adding -ment."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (formal) listen attentively.",
+    "correctAnswers": ["Vous écoutez attentivement."],
+    "explanation": "The verb 'écouter' (to listen) is conjugated as 'écoutez' for 'vous' in the present tense. The adverb 'attentivement' (attentively) is formed from the adjective 'attentif' (attentive) by adding -ment."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (masculine) choose carefully.",
+    "correctAnswers": ["Ils choisissent soigneusement."],
+    "explanation": "The verb 'choisir' (to choose) is conjugated as 'choisissent' for 'ils' in the present tense. The adverb 'soigneusement' (carefully) is formed from the adjective 'soigneux' (careful) by adding -ment."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I answer politely.",
+    "correctAnswers": ["Je réponds poliment."],
+    "explanation": "The verb 'répondre' (to answer) is conjugated as 'réponds' for 'je' in the present tense. The adverb 'poliment' (politely) is formed from the adjective 'poli' (polite) by adding -ment."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (informal) eat greedily.",
+    "correctAnswers": ["Tu manges gourmandement."],
+    "explanation": "The verb 'manger' (to eat) is conjugated as 'manges' for 'tu' in the present tense. The adverb 'gourmandement' (greedily) is formed from the adjective 'gourmand' (greedy) by adding -ment."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He works well.",
+    "correctAnswers": ["Il travaille bien."],
+    "explanation": "The verb 'travailler' (to work) is conjugated as 'travaille' for 'il' in the present tense. The adverb 'bien' (well) is the irregular adverb form of the adjective 'bon' (good)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She dances badly.",
+    "correctAnswers": ["Elle danse mal."],
+    "explanation": "The verb 'danser' (to dance) is conjugated as 'danse' for 'elle' in the present tense. The adverb 'mal' (badly) is the irregular adverb form of the adjective 'mauvais' (bad)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We listen better.",
+    "correctAnswers": ["Nous écoutons mieux."],
+    "explanation": "The verb 'écouter' (to listen) is conjugated as 'écoutons' for 'nous' in the present tense. The adverb 'mieux' (better) is the irregular adverb form of the adjective 'meilleur' (better)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (formal) speak little.",
+    "correctAnswers": ["Vous parlez peu."],
+    "explanation": "The verb 'parler' (to speak) is conjugated as 'parlez' for 'vous' in the present tense. The adverb 'peu' (little) is an irregular adverb indicating quantity or extent."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (feminine) run quickly.",
+    "correctAnswers": ["Elles courent vite."],
+    "explanation": "The verb 'courir' (to run) is conjugated as 'courent' for 'elles' in the present tense. The adverb 'vite' (quickly) is an irregular adverb form of the adjective 'vite' (quick)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I answer briefly.",
+    "correctAnswers": ["Je réponds brièvement."],
+    "explanation": "The verb 'répondre' (to answer) is conjugated as 'réponds' for 'je' in the present tense. The adverb 'brièvement' (briefly) is formed from the adjective 'bref' (brief) by adding -ment, an irregular formation."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I go to school today.",
+    "correctAnswers": ["Je vais à l'école aujourd'hui."],
+    "explanation": "The verb 'aller' (to go) is conjugated as 'vais' for 'je' in the present tense. 'À l'école' means 'to school' (with elision). The adverb 'aujourd’hui' (today) indicates the time of the action."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (informal) eat now.",
+    "correctAnswers": ["Tu manges maintenant."],
+    "explanation": "The verb 'manger' (to eat) is conjugated as 'manges' for 'tu' in the present tense. The adverb 'maintenant' (now) indicates the time of the action."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She arrives late.",
+    "correctAnswers": ["Elle arrive tard."],
+    "explanation": "The verb 'arriver' (to arrive) is conjugated as 'arrive' for 'elle' in the present tense. The adverb 'tard' (late) indicates the time of the action."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We leave tomorrow.",
+    "correctAnswers": ["Nous partons demain."],
+    "explanation": "The verb 'partir' (to leave) is conjugated as 'partons' for 'nous' in the present tense. The adverb 'demain' (tomorrow) indicates the time of the action."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (formal) work often.",
+    "correctAnswers": ["Vous travaillez souvent."],
+    "explanation": "The verb 'travailler' (to work) is conjugated as 'travaillez' for 'vous' in the present tense. The adverb 'souvent' (often) indicates the frequency of the action."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (masculine) play always.",
+    "correctAnswers": ["Ils jouent toujours."],
+    "explanation": "The verb 'jouer' (to play) is conjugated as 'jouent' for 'ils' in the present tense. The adverb 'toujours' (always) indicates the frequency of the action."
+  }
+]

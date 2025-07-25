@@ -1,0 +1,242 @@
+[
+  {
+    "type": "free_response",
+    "question": "Il parle (clair) ____.",
+    "correctAnswers": ["clairement"],
+    "explanation": "The adjective 'clair' (clear) forms the adverb by adding -ment to the masculine form, resulting in 'clairement' (clearly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle travaille (sérieux) ____.",
+    "correctAnswers": ["sérieusement"],
+    "explanation": "The adjective 'sérieux' (serious) forms the adverb by adding -ment to the masculine form, resulting in 'sérieusement' (seriously)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous attendons (patient) ____.",
+    "correctAnswers": ["patiemment"],
+    "explanation": "The adjective 'patient' (patient) forms the adverb by adding -ment to the masculine form, resulting in 'patiemment' (patiently)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils décident (absolu) ____.",
+    "correctAnswers": ["absolument"],
+    "explanation": "The adjective 'absolu' (absolute) forms the adverb by adding -ment to the masculine form, resulting in 'absolument' (absolutely)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle chante (naturel) ____.",
+    "correctAnswers": ["naturellement"],
+    "explanation": "The adjective 'naturel' (natural) forms the adverb by adding -ment to the masculine form, resulting in 'naturellement' (naturally)."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu parles (rapide) ____.",
+    "correctAnswers": ["rapidement"],
+    "explanation": "The adjective 'rapide' (quick) forms the adverb by adding -ment to the masculine form, resulting in 'rapidement' (quickly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Il écoute (attentif) ____.",
+    "correctAnswers": ["attentivement"],
+    "explanation": "The adjective 'attentif' (attentive) forms the adverb by adding -ment to the masculine form, resulting in 'attentivement' (attentively)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous jouons (joyeux) ____.",
+    "correctAnswers": ["joyeusement"],
+    "explanation": "The adjective 'joyeux' (joyful) forms the adverb by adding -ment to the masculine form, resulting in 'joyeusement' (joyfully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle danse (gracieux) ____.",
+    "correctAnswers": ["gracieusement"],
+    "explanation": "The adjective 'gracieux' (graceful) forms the adverb by adding -ment to the masculine form, resulting in 'gracieusement' (gracefully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous répondez (poli) ____.",
+    "correctAnswers": ["poliment"],
+    "explanation": "The adjective 'poli' (polite) forms the adverb by adding -ment to the masculine form, resulting in 'poliment' (politely)."
+  },
+  {
+    "type": "free_response",
+    "question": "Il écrit (soigneux) ____.",
+    "correctAnswers": ["soigneusement"],
+    "explanation": "The adjective 'soigneux' (careful) forms the adverb by adding -ment to the masculine form, resulting in 'soigneusement' (carefully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous marchons (lent) ____.",
+    "correctAnswers": ["lentement"],
+    "explanation": "The adjective 'lent' (slow) forms the adverb by adding -ment to the masculine form, resulting in 'lentement' (slowly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle regarde (curieux) ____.",
+    "correctAnswers": ["curieusement"],
+    "explanation": "The adjective 'curieux' (curious) forms the adverb by adding -ment to the masculine form, resulting in 'curieusement' (curiously)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils parlent (franc) ____.",
+    "correctAnswers": ["franchement"],
+    "explanation": "The adjective 'franc' (frank) forms the adverb by adding -ment to the masculine form, resulting in 'franchement' (frankly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Je mange (gourmand) ____.",
+    "correctAnswers": ["gourmandement"],
+    "explanation": "The adjective 'gourmand' (greedy) forms the adverb by adding -ment to the masculine form, resulting in 'gourmandement' (greedily)."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu travailles (prudent) ____.",
+    "correctAnswers": ["prudemment"],
+    "explanation": "The adjective 'prudent' (cautious) forms the adverb by adding -ment to the masculine form, resulting in 'prudemment' (cautiously)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle répond (sincère) ____.",
+    "correctAnswers": ["sincèrement"],
+    "explanation": "The adjective 'sincère' (sincere) forms the adverb by adding -ment to the masculine form, resulting in 'sincèrement' (sincerely)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous dansons (élégant) ____.",
+    "correctAnswers": ["élégamment"],
+    "explanation": "The adjective 'élégant' (elegant) forms the adverb by adding -ment to the masculine form, resulting in 'élégamment' (elegantly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils étudient (sérieux) ____.",
+    "correctAnswers": ["sérieusement"],
+    "explanation": "The adjective 'sérieux' (serious) forms the adverb by adding -ment to the masculine form, resulting in 'sérieusement' (seriously)."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous chantez (beau) ____.",
+    "correctAnswers": ["bellemont"],
+    "explanation": "The adjective 'beau' (beautiful) forms the adverb by using the feminine form 'belle' and adding -ment, resulting in 'bellemont' (beautifully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Je lis (attentif) ____.",
+    "correctAnswers": ["attentivement"],
+    "explanation": "The adjective 'attentif' (attentive) forms the adverb by adding -ment to the masculine form, resulting in 'attentivement' (attentively)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle cuisine (habile) ____.",
+    "correctAnswers": ["habilement"],
+    "explanation": "The adjective 'habile' (skillful) forms the adverb by adding -ment to the masculine form, resulting in 'habilement' (skillfully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous jouons (enthousiaste) ____.",
+    "correctAnswers": ["enthousiastement"],
+    "explanation": "The adjective 'enthousiaste' (enthusiastic) forms the adverb by adding -ment to the base form, resulting in 'enthousiastement' (enthusiastically)."
+  },
+  {
+    "type": "free_response",
+    "question": "Il parle (calme) ____.",
+    "correctAnswers": ["calmement"],
+    "explanation": "The adjective 'calme' (calm) forms the adverb by adding -ment to the masculine form, resulting in 'calmement' (calmly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu marches (léger) ____.",
+    "correctAnswers": ["légèrement"],
+    "explanation": "The adjective 'léger' (light) forms the adverb by adding -ment to the masculine form, resulting in 'légèrement' (lightly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle explique (logique) ____.",
+    "correctAnswers": ["logiquement"],
+    "explanation": "The adjective 'logique' (logical) forms the adverb by adding -ment to the base form, resulting in 'logiquement' (logically)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils travaillent (efficace) ____.",
+    "correctAnswers": ["efficacement"],
+    "explanation": "The adjective 'efficace' (efficient) forms the adverb by adding -ment to the base form, resulting in 'efficacement' (efficiently)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous répondons (direct) ____.",
+    "correctAnswers": ["directement"],
+    "explanation": "The adjective 'direct' (direct) forms the adverb by adding -ment to the masculine form, resulting in 'directement' (directly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous écoutez (respectueux) ____.",
+    "correctAnswers": ["respectueusement"],
+    "explanation": "The adjective 'respectueux' (respectful) forms the adverb by adding -ment to the masculine form, resulting in 'respectueusement' (respectfully)."
+  },
+  {
+    "type": "free_response",
+    "question": "Je chante (fort) ____.",
+    "correctAnswers": ["fortement"],
+    "explanation": "The adjective 'fort' (strong) forms the adverb by adding -ment to the masculine form, resulting in 'fortement' (strongly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle agit (confiant) ____.",
+    "correctAnswers": ["confiamment"],
+    "explanation": "The adjective 'confiant' (confident) forms the adverb by adding -ment to the masculine form, resulting in 'confiamment' (confidently)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils dansent (vif) ____.",
+    "correctAnswers": ["vivement"],
+    "explanation": "The adjective 'vif' (lively) forms the adverb by adding -ment to the masculine form, resulting in 'vivement' (lively)."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu parles (gentil) ____.",
+    "correctAnswers": ["gentiment"],
+    "explanation": "The adjective 'gentil' (kind) has an irregular adverb formation, becoming 'gentiment' (kindly) instead of following the standard -ment rule."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous répondons (bref) ____.",
+    "correctAnswers": ["brièvement"],
+    "explanation": "The adjective 'bref' (brief) has an irregular adverb formation, becoming 'brièvement' (briefly) instead of following the standard -ment rule."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle travaille (constant) ____.",
+    "correctAnswers": ["constamment"],
+    "explanation": "The adjective 'constant' (constant) forms the adverb by adding -ment to the masculine form, resulting in 'constamment' (constantly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils chantent (heureux) ____.",
+    "correctAnswers": ["heureusement"],
+    "explanation": "The adjective 'heureux' (happy) forms the adverb by adding -ment to the masculine form, resulting in 'heureusement' (happily)."
+  },
+  {
+    "type": "free_response",
+    "question": "Je regarde (discret) ____.",
+    "correctAnswers": ["discrètement"],
+    "explanation": "The adjective 'discret' (discreet) forms the adverb by adding -ment to the masculine form, resulting in 'discrètement' (discreetly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu écris (précis) ____.",
+    "correctAnswers": ["précisément"],
+    "explanation": "The adjective 'précis' (precise) forms the adverb by adding -ment to the masculine form, resulting in 'précisément' (precisely)."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle danse (doux) ____.",
+    "correctAnswers": ["doucement"],
+    "explanation": "The adjective 'doux' (soft) forms the adverb by using the feminine form 'douce' and adding -ment, resulting in 'doucement' (softly)."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous jouons (tranquille) ____.",
+    "correctAnswers": ["tranquillement"],
+    "explanation": "The adjective 'tranquille' (calm) forms the adverb by adding -ment to the base form, resulting in 'tranquillement' (calmly)."
+  }
+]

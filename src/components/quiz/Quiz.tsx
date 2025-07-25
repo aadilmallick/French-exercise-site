@@ -1,6 +1,19 @@
 import BrowserOnly from "@docusaurus/BrowserOnly";
 import React, { useState, useRef, useEffect } from "react";
 import a15TimeExercise from "../../data/exercises/a1-5-time-exercise.json";
+import a17IrregularsExercise from "../../data/exercises/a1-7-irregulars.json";
+import a17RegularPresentTenseConjugationExercise from "../../data/exercises/a1-7-regular-conjugation.json";
+import a17StemChangingConjugationExercise from "../../data/exercises/a1-7-stem-changing.json";
+import a18AvoirExercise from "../../data/exercises/a1-7-avoir.json";
+import a10PrepositionsExercise from "../../data/exercises/a1-10-prepositions.json";
+import a11AdjectivesExercise from "../../data/exercises/a1-11adjectives.json";
+import a9PossessionExercise from "../../data/exercises/a1-9-possesion.json";
+import a113AdverbsExercise from "../../data/exercises/a1-13adverbs.json";
+import a110LocationPrepositionsExercise from "../../data/exercises/a1-10-location-prepositions.json";
+import a110TimePrepositionsExercise from "../../data/exercises/a1-10-time-prepositions.json";
+import a112NegationExercise from "../../data/exercises/a1-12-negation.json";
+import a13AdverbsOfMannerExercise from "../../data/exercises/a13-adverbs-of-manner.json";
+import a13AllAdverbTypesExercise from "../../data/exercises/a-13-alladverbtypes.json";
 
 interface Question {
   type: "multiple_choice" | "fill_in_blank" | "multi_select" | "free_response";
@@ -33,7 +46,7 @@ interface QuizProgress {
   lastAttemptDate: string;
 }
 
-export class LocalStorageBrowser<T extends Record<string, any>> {
+class LocalStorageBrowser<T extends Record<string, any>> {
   constructor(private prefix: string = "") {}
 
   private getKey(key: keyof T & string): string {
@@ -56,6 +69,20 @@ export class LocalStorageBrowser<T extends Record<string, any>> {
   public clear(): void {
     window.localStorage.clear();
   }
+}
+
+function validateFreeResponseAnswer(correctAnswer: string, answer: string) {
+  // Remove punctuation and normalize both strings
+  const normalizedCorrect = correctAnswer
+    .replace(/[.,]+$/, "")
+    .trim()
+    .toLowerCase();
+  const normalizedAnswer = answer
+    .replace(/[.,]+$/, "")
+    .trim()
+    .toLowerCase();
+
+  return normalizedCorrect === normalizedAnswer;
 }
 
 function getStorage(exerciseName: string) {
@@ -83,8 +110,10 @@ const QuizComponent: React.FC<QuizProps> = ({
   const storage = getStorage(exerciseName);
 
   useEffect(() => {
-    // Initialize answers array
-    setCurrentAnswers(new Array(questions.length).fill(""));
+    // Initialize answers array with correct types
+    setCurrentAnswers(
+      questions.map((q) => (q.type === "multi_select" ? [] : ""))
+    );
 
     // Load previous progress
     const savedProgress = storage.get("progress");
@@ -122,28 +151,96 @@ const QuizComponent: React.FC<QuizProps> = ({
     setCurrentAnswers(newAnswers);
   };
 
+  const shortAnswerMap = {
+    a: 0,
+    b: 1,
+    c: 2,
+    d: 3,
+    A: 0,
+    B: 1,
+    C: 2,
+    D: 3,
+  };
+
   const validateAnswer = (
     question: Question,
     answer: string | string[]
   ): boolean => {
+    if (!answer) {
+      return false;
+    }
     switch (question.type) {
-      case "multiple_choice":
-      case "fill_in_blank":
-        return question.correctAnswers.includes(answer as string);
-      case "multi_select":
-        const answerArray = answer as string[];
-        return (
-          answerArray.length === question.correctAnswers.length &&
-          question.correctAnswers.every((correct) =>
-            answerArray.includes(correct)
-          )
+      case "multiple_choice": {
+        const answerArray = typeof answer === "string" ? [answer] : answer;
+        const answerChoices = ["A", "B", "C", "D", "a", "b", "c", "d"];
+
+        // Check if ALL answers are a,b,c,d format
+        const isShortAnswerFormat = question.correctAnswers.every((ans) =>
+          answerChoices.includes(ans)
         );
+
+        if (isShortAnswerFormat) {
+          // const actualSelectedA
+          const actualCorrectAnswers = question.correctAnswers.map((ans) =>
+            answerChoices.includes(ans)
+              ? question.options[shortAnswerMap[ans]]
+              : ans
+          );
+          return (
+            actualCorrectAnswers.length === answerArray.length &&
+            answerArray.every((correct) =>
+              actualCorrectAnswers.includes(correct)
+            )
+          );
+        } else {
+          const actualAnswer = typeof answer === "string" ? answer : answer[0];
+          return question.correctAnswers.includes(actualAnswer);
+        }
+        // const selectedChoiceIndex = questionChoices.indexOf(selectedAnswer);
+        // const correctChoiceIndex = question.correctAnswers.indexOf(
+        //   questionChoices[selectedChoiceIndex]
+        // );
+        // return correctChoiceIndex !== -1;
+      }
+      case "fill_in_blank": {
+        return question.correctAnswers.includes(answer as string);
+      }
+      case "multi_select": {
+        const answerArray = answer as string[];
+        const answerChoices = ["A", "B", "C", "D", "a", "b", "c", "d"];
+
+        // Check if ALL answers are a,b,c,d format
+        const isShortAnswerFormat = question.correctAnswers.every((ans) =>
+          answerChoices.includes(ans)
+        );
+
+        if (isShortAnswerFormat) {
+          // const actualSelectedA
+          const actualCorrectAnswers = question.correctAnswers.map((ans) =>
+            answerChoices.includes(ans)
+              ? question.options[shortAnswerMap[ans]]
+              : ans
+          );
+          return (
+            actualCorrectAnswers.length === answerArray.length &&
+            answerArray.every((correct) =>
+              actualCorrectAnswers.includes(correct)
+            )
+          );
+        } else {
+          // Original logic for full text answers
+          return (
+            answerArray.length === question.correctAnswers.length &&
+            question.correctAnswers.every((correct) =>
+              answerArray.includes(correct)
+            )
+          );
+        }
+      }
       case "free_response":
         // For free response, we'll do a case-insensitive comparison
-        return question.correctAnswers.some(
-          (correct) =>
-            (answer as string).toLowerCase().trim() ===
-            correct.toLowerCase().trim()
+        return question.correctAnswers.some((correct) =>
+          validateFreeResponseAnswer(correct, answer as string)
         );
       default:
         return false;
@@ -208,6 +305,37 @@ const QuizComponent: React.FC<QuizProps> = ({
     }
   };
 
+  const FillInBlank = (question: Question, index: number, answer: string) => {
+    const safeAnswer = typeof answer === "string" ? answer : "";
+    if (!question.options) {
+      return (
+        <input
+          type="text"
+          value={safeAnswer}
+          onChange={(e) => handleAnswerChange(index, e.target.value)}
+          disabled={isSubmitted}
+          className="free-response-input"
+        />
+      );
+    }
+    return (
+      <select
+        value={safeAnswer}
+        onChange={(e) => handleAnswerChange(index, e.target.value)}
+        disabled={isSubmitted}
+        className="fill-blank-select"
+        required
+      >
+        <option value="">Select an answer...</option>
+        {question.options.map((option, optionIndex) => (
+          <option key={optionIndex} value={option}>
+            {option}
+          </option>
+        ))}
+      </select>
+    );
+  };
+
   const renderQuestion = (question: Question, index: number) => {
     const answer = currentAnswers[index];
     const userAnswer = userAnswers[index];
@@ -244,22 +372,8 @@ const QuizComponent: React.FC<QuizProps> = ({
             </div>
           )}
 
-          {question.type === "fill_in_blank" && (
-            <select
-              value={answer as string}
-              onChange={(e) => handleAnswerChange(index, e.target.value)}
-              disabled={isSubmitted}
-              className="fill-blank-select"
-              required
-            >
-              <option value="">Select an answer...</option>
-              {question.options.map((option, optionIndex) => (
-                <option key={optionIndex} value={option}>
-                  {option}
-                </option>
-              ))}
-            </select>
-          )}
+          {question.type === "fill_in_blank" &&
+            FillInBlank(question, index, answer as string)}
 
           {question.type === "multi_select" && (
             <div className="options-container">
@@ -269,9 +383,11 @@ const QuizComponent: React.FC<QuizProps> = ({
                     type="checkbox"
                     value={option}
                     required
-                    checked={((answer as string[]) || []).includes(option)}
+                    checked={(Array.isArray(answer) ? answer : []).includes(
+                      option
+                    )}
                     onChange={(e) => {
-                      const currentArray = (answer as string[]) || [];
+                      const currentArray = Array.isArray(answer) ? answer : [];
                       const newArray = e.target.checked
                         ? [...currentArray, option]
                         : currentArray.filter((item) => item !== option);
@@ -289,7 +405,7 @@ const QuizComponent: React.FC<QuizProps> = ({
           {question.type === "free_response" && (
             <input
               type="text"
-              value={answer as string}
+              value={typeof answer === "string" ? answer : ""}
               onChange={(e) => handleAnswerChange(index, e.target.value)}
               disabled={isSubmitted}
               className="free-response-input"
@@ -413,7 +529,7 @@ const QuizComponent: React.FC<QuizProps> = ({
               </div>
 
               <div className="questions-container">
-                {questions.map((question, index) =>
+                {questions?.map((question, index) =>
                   renderQuestion(question, index)
                 )}
               </div>
@@ -461,6 +577,71 @@ const quizPropMap = {
     title: "Telling Time",
     exerciseName: "telling-time",
     questions: a15TimeExercise as Question[],
+  },
+  "irregulars-present-tense-conjugation": {
+    title: "Irregulars - Present Tense Conjugation",
+    exerciseName: "irregulars-present-tense-conjugation",
+    questions: a17IrregularsExercise as Question[],
+  },
+  avoir: {
+    title: "Avoir",
+    exerciseName: "avoir",
+    questions: a18AvoirExercise as Question[],
+  },
+  "regular-present-tense-conjugation": {
+    title: "Regular Present Tense Conjugation",
+    exerciseName: "regular-present-tense-conjugation",
+    questions: a17RegularPresentTenseConjugationExercise as Question[],
+  },
+  "stem-changing-conjugation": {
+    title: "Stem Changing Conjugation",
+    exerciseName: "stem-changing-conjugation",
+    questions: a17StemChangingConjugationExercise as Question[],
+  },
+  prepositions: {
+    title: "Prepositions",
+    exerciseName: "prepositions",
+    questions: a10PrepositionsExercise as Question[],
+  },
+  adjectives: {
+    title: "Adjectives",
+    exerciseName: "adjectives",
+    questions: a11AdjectivesExercise as Question[],
+  },
+  possession: {
+    title: "Possession",
+    exerciseName: "possession",
+    questions: a9PossessionExercise as Question[],
+  },
+  adverbs: {
+    title: "Adverbs",
+    exerciseName: "adverbs",
+    questions: a113AdverbsExercise as Question[],
+  },
+  "location-prepositions": {
+    title: "Location Prepositions",
+    exerciseName: "location-prepositions",
+    questions: a110LocationPrepositionsExercise as Question[],
+  },
+  "time-prepositions": {
+    title: "Time Prepositions",
+    exerciseName: "time-prepositions",
+    questions: a110TimePrepositionsExercise as Question[],
+  },
+  negation: {
+    title: "Negation",
+    exerciseName: "negation",
+    questions: a112NegationExercise as Question[],
+  },
+  "adverbs-of-manner": {
+    title: "Adverbs of Manner",
+    exerciseName: "adverbs-of-manner",
+    questions: a13AdverbsOfMannerExercise as Question[],
+  },
+  "all-adverb-types": {
+    title: "All Adverb Types",
+    exerciseName: "all-adverb-types",
+    questions: a13AllAdverbTypesExercise as Question[],
   },
 };
 

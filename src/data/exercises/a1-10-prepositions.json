@@ -1,0 +1,207 @@
+[
+  {
+    "type": "free_response",
+    "question": "Translate into French: I’m going to school.",
+    "correctAnswers": ["Je vais à l'école."],
+    "explanation": "The verb 'aller' (to go) is used to express going to a place. For the subject 'je', it is conjugated as 'vais' in the present tense. 'À l'école' uses the preposition 'à' with 'l'école' (school, with elision before the vowel) to mean 'to school'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It’s Juan’s book.",
+    "correctAnswers": ["C'est le livre de Juan."],
+    "explanation": "The phrase 'c'est' (it is) uses the verb 'être' (to be) to describe possession. 'Le livre' means 'the book', and 'de Juan' indicates possession, meaning 'Juan’s'. The proper noun 'Juan' remains unchanged."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I live in Spain.",
+    "correctAnswers": ["Je vis en Espagne."],
+    "explanation": "The verb 'vivre' (to live) is a regular -re verb. For the subject 'je', remove the -re and add -s to form 'vis'. 'En Espagne' uses the preposition 'en' for countries, meaning 'in Spain'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I work with my brother.",
+    "correctAnswers": ["Je travaille avec mon frère."],
+    "explanation": "The verb 'travailler' (to work) is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'travaille'. 'Avec mon frère' uses the preposition 'avec' (with) and 'mon frère' (my brother, masculine singular) to mean 'with my brother'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We’re going to Ana’s house.",
+    "correctAnswers": ["Nous allons à la maison d'Ana."],
+    "explanation": "The verb 'aller' (to go) is conjugated as 'allons' for the subject 'nous' in the present tense. 'À la maison d'Ana' uses the preposition 'à' with 'la maison' (the house) and 'd'Ana' to indicate possession, meaning 'to Ana’s house'. The proper noun 'Ana' remains unchanged."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je parle ____ mon ami au téléphone.",
+    "options": ["à", "de", "en", "avec"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'parler' (to speak) takes the preposition 'à' when referring to speaking to a person. 'Je parle à mon ami' means 'I am speaking to my friend'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu choisis ____ les deux robes.",
+    "options": ["pour", "entre", "avec", "dans"],
+    "correctAnswers": ["entre"],
+    "explanation": "The verb 'choisir' (to choose) uses the preposition 'entre' when selecting between two options. 'Tu choisis entre les deux robes' means 'You choose between the two dresses'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il travaille ____ une grande entreprise.",
+    "options": ["à", "pour", "chez", "en"],
+    "correctAnswers": ["chez"],
+    "explanation": "The preposition 'chez' is used with 'travailler' (to work) when referring to working at a company or someone’s place. 'Il travaille chez une grande entreprise' means 'He works at a large company'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous mangeons ____ la cuisine.",
+    "options": ["à", "dans", "sur", "en"],
+    "correctAnswers": ["dans"],
+    "explanation": "The preposition 'dans' indicates a specific location inside a place. 'Nous mangeons dans la cuisine' means 'We eat in the kitchen'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous écoutez la musique ____ vos écouteurs.",
+    "options": ["avec", "à", "de", "pour"],
+    "correctAnswers": ["avec"],
+    "explanation": "The preposition 'avec' means 'with' and is used to indicate the means or instrument. 'Vous écoutez la musique avec vos écouteurs' means 'You listen to music with your earphones'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elles dansent ____ la fête ce soir.",
+    "options": ["à", "en", "chez", "sur"],
+    "correctAnswers": ["à"],
+    "explanation": "The preposition 'à' is used with events like a party. 'Elles dansent à la fête' means 'They dance at the party'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je finis mon travail ____ cinq heures.",
+    "options": ["à", "en", "dans", "pour"],
+    "correctAnswers": ["à"],
+    "explanation": "The preposition 'à' is used to indicate a specific time. 'Je finis mon travail à cinq heures' means 'I finish my work at five o’clock'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu attends ____ le bus à l’arrêt.",
+    "options": ["pour", "à", "de", "sur"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'attendre' (to wait for) does not take a preposition for the thing waited for, but 'à' is used for the location. 'Tu attends à l’arrêt' means 'You wait at the bus stop'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il répond ____ la question rapidement.",
+    "options": ["à", "de", "pour", "en"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'répondre' (to answer) takes the preposition 'à' when answering something like a question. 'Il répond à la question' means 'He answers the question'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous vendons la voiture ____ un bon prix.",
+    "options": ["à", "pour", "de", "avec"],
+    "correctAnswers": ["à"],
+    "explanation": "The preposition 'à' is used with 'vendre' (to sell) to indicate the price. 'Nous vendons la voiture à un bon prix' means 'We sell the car at a good price'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous obéissez ____ votre professeur.",
+    "options": ["à", "de", "pour", "en"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'obéir' (to obey) takes the preposition 'à' when referring to a person. 'Vous obéissez à votre professeur' means 'You obey your teacher'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils remplissent la bouteille ____ de l’eau.",
+    "options": ["de", "avec", "à", "pour"],
+    "correctAnswers": ["avec"],
+    "explanation": "The verb 'remplir' (to fill) uses 'avec' to indicate what the container is filled with. 'Ils remplissent la bouteille avec de l’eau' means 'They fill the bottle with water'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je vis ____ France depuis deux ans.",
+    "options": ["à", "en", "dans", "chez"],
+    "correctAnswers": ["en"],
+    "explanation": "The preposition 'en' is used with feminine country names like 'France' to indicate location. 'Je vis en France' means 'I live in France'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu joues ____ ton ami dans le parc.",
+    "options": ["avec", "à", "de", "pour"],
+    "correctAnswers": ["avec"],
+    "explanation": "The verb 'jouer' (to play) takes 'avec' when referring to playing with a person. 'Tu joues avec ton ami' means 'You play with your friend'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle chante ____ la salle de concert.",
+    "options": ["dans", "à", "sur", "en"],
+    "correctAnswers": ["dans"],
+    "explanation": "The preposition 'dans' indicates a specific enclosed location. 'Elle chante dans la salle de concert' means 'She sings in the concert hall'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous allons ____ la plage cet été.",
+    "options": ["à", "en", "chez", "dans"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'aller' (to go) uses 'à' with destinations like 'la plage' (the beach). 'Nous allons à la plage' means 'We are going to the beach'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous perdez vos clés ____ la maison.",
+    "options": ["dans", "à", "de", "sur"],
+    "correctAnswers": ["dans"],
+    "explanation": "The preposition 'dans' indicates a location where something is lost. 'Vous perdez vos clés dans la maison' means 'You lose your keys in the house'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ils descendent ____ la cave pour chercher du vin.",
+    "options": ["à", "en", "dans", "chez"],
+    "correctAnswers": ["dans"],
+    "explanation": "The verb 'descendre' (to go down) uses 'dans' for a specific location like 'la cave' (the cellar). 'Ils descendent dans la cave' means 'They go down to the cellar'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je regarde la télévision ____ le salon.",
+    "options": ["dans", "à", "sur", "en"],
+    "correctAnswers": ["dans"],
+    "explanation": "The preposition 'dans' indicates a specific room or location. 'Je regarde la télévision dans le salon' means 'I watch television in the living room'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu étudies ____ la bibliothèque.",
+    "options": ["à", "en", "dans", "chez"],
+    "correctAnswers": ["dans"],
+    "explanation": "The preposition 'dans' is used for specific locations like 'la bibliothèque' (the library). 'Tu étudies dans la bibliothèque' means 'You study in the library'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il réussit ____ son projet grâce à son effort.",
+    "options": ["à", "de", "pour", "en"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'réussir' (to succeed) takes 'à' when referring to succeeding in something like a project. 'Il réussit à son projet' means 'He succeeds in his project'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous parlons ____ politique avec nos amis.",
+    "options": ["de", "à", "sur", "pour"],
+    "correctAnswers": ["de"],
+    "explanation": "The verb 'parler' (to speak) takes 'de' when discussing a topic. 'Nous parlons de politique' means 'We talk about politics'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous travaillez ____ vos collègues sur ce projet.",
+    "options": ["avec", "à", "de", "pour"],
+    "correctAnswers": ["avec"],
+    "explanation": "The preposition 'avec' means 'with' and is used with 'travailler' (to work) when referring to colleagues. 'Vous travaillez avec vos collègues' means 'You work with your colleagues'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elles vont ____ Paris pour les vacances.",
+    "options": ["à", "en", "dans", "chez"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'aller' (to go) uses 'à' with city names like 'Paris'. 'Elles vont à Paris' means 'They are going to Paris'."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je rends le livre ____ la bibliothèque demain.",
+    "options": ["à", "de", "dans", "chez"],
+    "correctAnswers": ["à"],
+    "explanation": "The verb 'rendre' (to return) uses 'à' when returning something to a place like 'la bibliothèque' (the library). 'Je rends le livre à la bibliothèque' means 'I return the book to the library'."
+  }
+]

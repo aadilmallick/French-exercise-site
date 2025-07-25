@@ -1,0 +1,62 @@
+[
+  {
+    "type": "free_response",
+    "question": "Translate into French: The book is on the table.",
+    "correctAnswers": ["Le livre est sur la table."],
+    "explanation": "The verb 'être' (to be) is conjugated as 'est' for the third person singular. The preposition 'sur' means 'on' and indicates the location of 'le livre' (the book, masculine singular) on 'la table' (the table, feminine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The cat is under the chair.",
+    "correctAnswers": ["Le chat est sous la chaise."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'sous' means 'under' and indicates the location of 'le chat' (the cat, masculine singular) under 'la chaise' (the chair, feminine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: There is water in the glass.",
+    "correctAnswers": ["Il y a de l'eau dans le verre."],
+    "explanation": "The expression 'il y a' means 'there is'. The preposition 'dans' means 'in' and indicates the location of 'de l'eau' (water, with partitive article due to the uncountable noun) in 'le verre' (the glass, masculine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The school is in front of the park.",
+    "correctAnswers": ["L'école est devant le parc."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'devant' means 'in front of' and indicates the location of 'l'école' (the school, feminine singular) relative to 'le parc' (the park, masculine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The garden is behind the house.",
+    "correctAnswers": ["Le jardin est derrière la maison."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'derrière' means 'behind' and indicates the location of 'le jardin' (the garden, masculine singular) relative to 'la maison' (the house, feminine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The pharmacy is next to the bank.",
+    "correctAnswers": ["La pharmacie est à côté de la banque."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'à côté de' means 'next to' and indicates the location of 'la pharmacie' (the pharmacy, feminine singular) relative to 'la banque' (the bank, feminine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The post office is between the bank and the cafe.",
+    "correctAnswers": ["La poste est entre la banque et le café."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'entre' means 'between' and is used with two nouns, 'la banque' (the bank, feminine singular) and 'le café' (the cafe, masculine singular), to indicate the location of 'la poste' (the post office, feminine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The cinema is opposite the restaurant.",
+    "correctAnswers": ["Le cinéma est en face du restaurant."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'en face de' means 'opposite' and indicates the location of 'le cinéma' (the cinema, masculine singular) relative to 'le restaurant' (the restaurant, masculine singular, with 'de' contracting to 'du')."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: My house is near the train station.",
+    "correctAnswers": ["Ma maison est près de la gare."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'près de' means 'near' and indicates the location of 'ma maison' (my house, feminine singular, with possessive adjective 'ma' for 'je') relative to 'la gare' (the train station, feminine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The mountain is far from the city.",
+    "correctAnswers": ["La montagne est loin de la ville."],
+    "explanation": "The verb 'être' is conjugated as 'est' for the third person singular. The preposition 'loin de' means 'far from' and indicates the location of 'la montagne' (the mountain, feminine singular) relative to 'la ville' (the city, feminine singular)."
+  }
+]

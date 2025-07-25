@@ -1,0 +1,152 @@
+[
+  {
+    "type": "free_response",
+    "question": "Translate into French: I don't speak quickly.",
+    "correctAnswers": ["Je ne parle pas rapidement."],
+    "explanation": "The verb 'parler' (to speak) is conjugated as 'parle' for 'je' in the present tense. Negation is formed with 'ne...pas' around the verb. The adverb 'rapidement' (quickly) is formed from the adjective 'rapide'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You're not at a big school.",
+    "correctAnswers": ["Tu n'es pas à une grande école."],
+    "explanation": "The verb 'être' (to be) is conjugated as 'es' for 'tu' in the present tense, with negation 'n'...pas' (elision of 'ne' before a vowel). The preposition 'à' indicates location. The adjective 'grand' becomes 'grande' to agree with the feminine singular noun 'école'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He doesn't live in a beautiful house.",
+    "correctAnswers": ["Il n'habite pas dans une belle maison."],
+    "explanation": "The verb 'habiter' (to live) is conjugated as 'habite' for 'il' in the present tense, with negation 'n'...pas'. The preposition 'dans' indicates location. The adjective 'beau' becomes 'belle' to agree with the feminine singular noun 'maison'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We don't go to the market today.",
+    "correctAnswers": ["Nous n'allons pas au marché aujourd'hui."],
+    "explanation": "The verb 'aller' (to go) is conjugated as 'allons' for 'nous' in the present tense, with negation 'ne...pas'. The preposition 'à' contracts with 'le marché' to form 'au'. The adverb 'aujourd'hui' (today) indicates time."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They never work with nice friends.",
+    "correctAnswers": ["Elles ne travaillent jamais avec des amis sympas."],
+    "explanation": "The verb 'travailler' (to work) is conjugated as 'travaillent' for 'elles' in the present tense. Negation is formed with 'ne...jamais' (never). The preposition 'avec' indicates accompaniment. The adjective 'sympa' becomes 'sympas' to agree with the masculine plural noun 'amis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I don't speak French today.",
+    "correctAnswers": ["Je ne parle pas français aujourd'hui."],
+    "explanation": "The verb 'parler' is conjugated as 'parle' for 'je' in the present tense, with negation 'ne...pas'. 'Français' is the object (language names are not capitalized in French). The adverb 'aujourd'hui' (today) indicates time."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I never go to school early.",
+    "correctAnswers": ["Je ne vais jamais à l'école tôt."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je' in the present tense, with negation 'ne...jamais' (never). The preposition 'à' is used with 'l'école' (the school, with elision). The adverb 'tôt' (early) indicates time."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Nobody has a big house.",
+    "correctAnswers": ["Personne n'a une grande maison."],
+    "explanation": "The verb 'avoir' (to have) is conjugated as 'a' for the third person singular, with negation 'n'...pas' implied in 'personne' (nobody), which requires 'ne'. The adjective 'grand' becomes 'grande' to agree with the feminine singular noun 'maison'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We don't work with nice friends.",
+    "correctAnswers": ["Nous ne travaillons pas avec des amis sympas."],
+    "explanation": "The verb 'travailler' is conjugated as 'travaillons' for 'nous' in the present tense, with negation 'ne...pas'. The preposition 'avec' indicates accompaniment. The adjective 'sympa' becomes 'sympas' to agree with the masculine plural noun 'amis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I no longer read interesting books.",
+    "correctAnswers": ["Je ne lis plus de livres intéressants."],
+    "explanation": "The verb 'lire' (to read) is conjugated as 'lis' for 'je' in the present tense, with negation 'ne...plus' (no longer). 'De' is used with the plural indefinite 'livres'. The adjective 'intéressant' becomes 'intéressants' to agree with the masculine plural noun 'livres'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She doesn't eat quickly.",
+    "correctAnswers": ["Elle ne mange pas rapidement."],
+    "explanation": "The verb 'manger' (to eat) is conjugated as 'mange' for 'elle' in the present tense, with negation 'ne...pas'. The adverb 'rapidement' (quickly) is formed from the adjective 'rapide'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (informal) are not at home today.",
+    "correctAnswers": ["Tu n'es pas à la maison aujourd'hui."],
+    "explanation": "The verb 'être' is conjugated as 'es' for 'tu' in the present tense, with negation 'n'...pas'. The preposition 'à' is used with 'la maison' (the house). The adverb 'aujourd'hui' (today) indicates time."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He never studies in the library.",
+    "correctAnswers": ["Il n'étudie jamais dans la bibliothèque."],
+    "explanation": "The verb 'étudier' (to study) is conjugated as 'étudie' for 'il' in the present tense, with negation 'ne...jamais' (never). The preposition 'dans' indicates location with 'la bibliothèque'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We don't play with our friends.",
+    "correctAnswers": ["Nous ne jouons pas avec nos amis."],
+    "explanation": "The verb 'jouer' (to play) is conjugated as 'jouons' for 'nous' in the present tense, with negation 'ne...pas'. The preposition 'avec' is used with 'nos amis' (our friends, masculine plural possessive adjective)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (feminine) don't watch interesting movies.",
+    "correctAnswers": ["Elles ne regardent pas de films intéressants."],
+    "explanation": "The verb 'regarder' (to watch) is conjugated as 'regardent' for 'elles' in the present tense, with negation 'ne...pas'. 'De' is used with the plural indefinite 'films'. The adjective 'intéressant' becomes 'intéressants' for masculine plural."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I don't like big cities.",
+    "correctAnswers": ["Je n'aime pas les grandes villes."],
+    "explanation": "The verb 'aimer' (to like) is conjugated as 'aime' for 'je' in the present tense, with negation 'ne...pas'. The adjective 'grand' becomes 'grandes' to agree with the feminine plural noun 'villes'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Nobody speaks French here.",
+    "correctAnswers": ["Personne ne parle français ici."],
+    "explanation": "The verb 'parler' is conjugated as 'parle' for the third person singular, with negation 'ne' from 'personne' (nobody). 'Français' is the object, and 'ici' (here) indicates location."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (formal) never arrive early.",
+    "correctAnswers": ["Vous n'arrivez jamais tôt."],
+    "explanation": "The verb 'arriver' (to arrive) is conjugated as 'arrivez' for 'vous' in the present tense, with negation 'ne...jamais' (never). The adverb 'tôt' (early) indicates time."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I no longer visit my old friends.",
+    "correctAnswers": ["Je ne visite plus mes vieux amis."],
+    "explanation": "The verb 'visiter' (to visit) is conjugated as 'visite' for 'je' in the present tense, with negation 'ne...plus' (no longer). The adjective 'vieux' agrees with the masculine plural noun 'amis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She doesn't have anything to say.",
+    "correctAnswers": ["Elle n'a rien à dire."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for 'elle' in the present tense, with negation 'ne...rien' (nothing). The infinitive 'dire' (to say) follows the expression 'à dire'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We don't eat at home today.",
+    "correctAnswers": ["Nous ne mangeons pas à la maison aujourd'hui."],
+    "explanation": "The verb 'manger' is conjugated as 'mangeons' for 'nous' in the present tense, with negation 'ne...pas'. The preposition 'à' is used with 'la maison'. The adverb 'aujourd'hui' indicates time."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He doesn't work in a small office.",
+    "correctAnswers": ["Il ne travaille pas dans un petit bureau."],
+    "explanation": "The verb 'travailler' is conjugated as 'travaille' for 'il' in the present tense, with negation 'ne...pas'. The preposition 'dans' indicates location. The adjective 'petit' agrees with the masculine singular noun 'bureau'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (masculine) never read books.",
+    "correctAnswers": ["Ils ne lisent jamais de livres."],
+    "explanation": "The verb 'lire' is conjugated as 'lisent' for 'ils' in the present tense, with negation 'ne...jamais' (never). 'De' is used with the plural indefinite 'livres'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I don't see anybody in the park.",
+    "correctAnswers": ["Je ne vois personne dans le parc."],
+    "explanation": "The verb 'voir' (to see) is conjugated as 'vois' for 'je' in the present tense, with negation 'ne...personne' (nobody). The preposition 'dans' indicates location with 'le parc'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (informal) don't play soccer today.",
+    "correctAnswers": ["Tu ne joues pas au football aujourd'hui."],
+    "explanation": "The verb 'jouer' is conjugated as 'joues' for 'tu' in the present tense, with negation 'ne...pas'. The preposition 'à' contracts with 'le football' to form 'au'. The adverb 'aujourd'hui' indicates time."
+  }
+]

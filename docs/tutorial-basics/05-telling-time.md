@@ -79,3 +79,24 @@ Test your knowledge of telling time in French with this interactive quiz!
 import Quiz from '@site/src/components/quiz/Quiz';
 
 <Quiz exerciseName="telling-time" />
+
+## More practice
+
+**stage 1: targeted practice**
+
+Now it's time for the self-guided practice where you write sentences down to consolidate your memory. For each time question, write down at least two different ways to say it in french.
+
+1. What are two different ways to say "It's 4:00 PM in the afternoon" in french?
+2. How would you say "It's 3:15 in the morning" in French?
+3. How would you say "It's 10:30 in the morning" in French?
+4. How would you say "It's 11:45 in the evening" in French?
+5. How would you say "It's 12:00 PM" in French?
+6. How would you say "It's 1:00 AM" in French?
+7. How would you say "It's 2:30 PM" in French?
+8. How would you say "It's 3:45 PM" in French?
+9. How would you say "It's 4:00 AM" in French?
+10. How would you say "It's 5:15 in the afternoon" in French?
+
+**stage 2: free form writing**
+
+> Challenge: Write a paragraph of a conversation where someone asks another person what time it is.

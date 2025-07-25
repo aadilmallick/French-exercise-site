@@ -1,0 +1,69 @@
+[
+  {
+    "type": "fill_in_blank",
+    "question": "Je ____ étudiant. (I am a student.)",
+    "correctAnswers": ["suis"],
+    "explanation": "The verb 'être' (to be) is conjugated as 'suis' for the first person singular (je) in the present tense."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu ____ un chat. (You have a cat.)",
+    "options": ["es", "as", "est", "ont"],
+    "correctAnswers": ["as"],
+    "explanation": "The verb 'avoir' (to have) is conjugated as 'as' for the second person singular (tu) in the present tense."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Il ____ grand. (He is tall.)",
+    "correctAnswers": ["est"],
+    "explanation": "The verb 'être' (to be) is conjugated as 'est' for the third person singular masculine (il) in the present tense."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle ____ 25 ans. (She is 25 years old.)",
+    "options": ["a (bruh)", "est", "sont", "as"],
+    "correctAnswers": ["a (bruh)"],
+    "explanation": "The verb 'avoir' (to have) is used in French to express age. It is conjugated as 'a' for the third person singular feminine (elle)."
+  },
+  {
+    "type": "multi_select",
+    "question": "Nous ____ français. (We are French.)",
+    "options": ["sommes", "êtes", "sont", "est"],
+    "correctAnswers": ["sommes"],
+    "explanation": "The verb 'être' (to be) is conjugated as 'sommes' for the first person plural (nous) in the present tense."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Vous ____ soif? (Are you thirsty?)",
+    "options": ["avez", "êtes", "a", "sont"],
+    "correctAnswers": ["avez"],
+    "explanation": "The verb 'avoir' (to have) is used to express thirst in French. It is conjugated as 'avez' for the second person plural (vous) in the present tense."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Ils ____ des livres. (They have books.)",
+    "correctAnswers": ["ont"],
+    "explanation": "The verb 'avoir' (to have) is conjugated as 'ont' for the third person plural masculine (ils) in the present tense."
+  },
+  {
+    "type": "multi_select",
+    "question": "Elles ____ contentes. (They are happy - feminine.)",
+    "options": ["sont", "ont", "êtes", "est"],
+    "correctAnswers": ["sont"],
+    "explanation": "The verb 'être' (to be) is conjugated as 'sont' for the third person plural feminine (elles). The adjective 'contentes' agrees in gender and number."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "On ____ en avance. (We are early. / One is early.)",
+    "options": ["est", "sommes", "es", "a"],
+    "correctAnswers": ["est"],
+    "explanation": "The pronoun 'on' uses the third person singular conjugation of 'être', which is 'est', to mean 'one is' or informally 'we are'."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "J' ____ chaud. (I am hot.)",
+    "options": ["ai", "avons"],
+    "correctAnswers": ["ai"],
+    "explanation": "The verb 'avoir' (to have) is used to express feeling hot in French. It is conjugated as 'ai' for the first person singular (je), with elision to 'j'' before a vowel."
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "La femme est ____.",
+    "options": ["beau", "belle", "beaux", "belles"],
+    "correctAnswers": ["belle"],
+    "explanation": "The subject 'la femme' is feminine singular. The adjective 'beau' changes to 'belle' to agree in gender (feminine) and number (singular)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'homme est ____.",
+    "options": ["grand", "grande", "grands", "grandes"],
+    "correctAnswers": ["grand"],
+    "explanation": "The subject 'l'homme' is masculine singular. The adjective 'grand' remains 'grand' to agree in gender (masculine) and number (singular)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les enfants sont ____.",
+    "options": ["heureux", "heureuse", "heureux", "heureuses"],
+    "correctAnswers": ["heureux"],
+    "explanation": "The subject 'les enfants' is masculine plural (even if mixed genders, masculine is used). The adjective 'heureux' remains 'heureux' for masculine plural."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les filles sont ____.",
+    "options": ["petit", "petite", "petits", "petites"],
+    "correctAnswers": ["petites"],
+    "explanation": "The subject 'les filles' is feminine plural. The adjective 'petit' changes to 'petites' to agree in gender (feminine) and number (plural)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le garçon est ____.",
+    "options": ["gentil", "gentille", "gentils", "gentilles"],
+    "correctAnswers": ["gentil"],
+    "explanation": "The subject 'le garçon' is masculine singular. The adjective 'gentil' remains 'gentil' to agree in gender (masculine) and number (singular)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La maison est ____.",
+    "options": ["beau", "belle", "beaux", "belles"],
+    "correctAnswers": ["belle"],
+    "explanation": "The subject 'la maison' is feminine singular. The adjective 'beau' changes to 'belle' to agree in gender (feminine) and number (singular)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les hommes sont ____.",
+    "options": ["grand", "grande", "grands", "grandes"],
+    "correctAnswers": ["grands"],
+    "explanation": "The subject 'les hommes' is masculine plural. The adjective 'grand' changes to 'grands' to agree in gender (masculine) and number (plural)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "La fille est ____.",
+    "options": ["heureux", "heureuse", "heureux", "heureuses"],
+    "correctAnswers": ["heureuse"],
+    "explanation": "The subject 'la fille' is feminine singular. The adjective 'heureux' changes to 'heureuse' to agree in gender (feminine) and number (singular)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les chiens sont ____.",
+    "options": ["petit", "petite", "petits", "petites"],
+    "correctAnswers": ["petits"],
+    "explanation": "The subject 'les chiens' is masculine plural. The adjective 'petit' changes to 'petits' to agree in gender (masculine) and number (plural)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "L'enfant est ____.",
+    "options": ["gentil", "gentille", "gentils", "gentilles"],
+    "correctAnswers": ["gentil"],
+    "explanation": "The subject 'l'enfant' is masculine singular (default for 'enfant'). The adjective 'gentil' remains 'gentil' to agree in gender (masculine) and number (singular)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Les femmes sont ____.",
+    "options": ["beau", "belle", "beaux", "belles"],
+    "correctAnswers": ["belles"],
+    "explanation": "The subject 'les femmes' is feminine plural. The adjective 'beau' changes to 'belles' to agree in gender (feminine) and number (plural)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: A handsome boy.",
+    "correctAnswers": ["Un beau garçon."],
+    "explanation": "The noun 'garçon' is masculine singular, so the adjective 'beau' (handsome) is used in its masculine singular form. 'Un' is the indefinite article for masculine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: A small girl.",
+    "correctAnswers": ["Une petite fille."],
+    "explanation": "The noun 'fille' is feminine singular, so the adjective 'petit' (small) becomes 'petite' to agree in gender and number. 'Une' is the indefinite article for feminine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: An old book.",
+    "correctAnswers": ["Un vieux livre."],
+    "explanation": "The noun 'livre' is masculine singular, so the adjective 'vieux' (old) is used in its masculine singular form. 'Un' is the indefinite article for masculine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: A good friend (male).",
+    "correctAnswers": ["Un bon ami."],
+    "explanation": "The noun 'ami' is masculine singular, so the adjective 'bon' (good) is used in its masculine singular form. 'Un' is the indefinite article for masculine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: A beautiful house.",
+    "correctAnswers": ["Une belle maison."],
+    "explanation": "The noun 'maison' is feminine singular, so the adjective 'beau' (beautiful) becomes 'belle' to agree in gender and number. 'Une' is the indefinite article for feminine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Small cats.",
+    "correctAnswers": ["De petits chats."],
+    "explanation": "The noun 'chats' is masculine plural, so the adjective 'petit' (small) becomes 'petits' to agree in gender and number. 'De' is the partitive/indefinite article for plural nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Old cars.",
+    "correctAnswers": ["De vieilles voitures."],
+    "explanation": "The noun 'voitures' is feminine plural, so the adjective 'vieux' (old) becomes 'vieilles' to agree in gender and number. 'De' is the partitive/indefinite article for plural nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Good friends (female).",
+    "correctAnswers": ["De bonnes amies."],
+    "explanation": "The noun 'amies' is feminine plural, so the adjective 'bon' (good) becomes 'bonnes' to agree in gender and number. 'De' is the partitive/indefinite article for plural nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The bread is white.",
+    "correctAnswers": ["Le pain est blanc."],
+    "explanation": "The noun 'pain' is masculine singular, so the adjective 'blanc' (white) is used in its masculine singular form. The verb 'être' is conjugated as 'est' for the third person singular."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The snow is white.",
+    "correctAnswers": ["La neige est blanche."],
+    "explanation": "The noun 'neige' is feminine singular, so the adjective 'blanc' (white) becomes 'blanche' to agree in gender and number. The verb 'être' is conjugated as 'est'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The breads are white.",
+    "correctAnswers": ["Les pains sont blancs."],
+    "explanation": "The noun 'pains' is masculine plural, so the adjective 'blanc' (white) becomes 'blancs' to agree in gender and number. The verb 'être' is conjugated as 'sont' for the third person plural."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The snows are white.",
+    "correctAnswers": ["Les neiges sont blanches."],
+    "explanation": "The noun 'neiges' is feminine plural, so the adjective 'blanc' (white) becomes 'blanches' to agree in gender and number. The verb 'être' is conjugated as 'sont'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is a handsome boy.",
+    "correctAnswers": ["C'est un beau garçon."],
+    "explanation": "The construction 'c'est' (he is) is used with a noun phrase. The noun 'garçon' is masculine singular, so the adjective 'beau' (handsome) is used in its masculine singular form. 'Un' is the indefinite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is a beautiful girl.",
+    "correctAnswers": ["C'est une belle fille."],
+    "explanation": "The construction 'c'est' (she is) is used with a noun phrase. The noun 'fille' is feminine singular, so the adjective 'beau' (beautiful) becomes 'belle'. 'Une' is the indefinite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They are handsome boys.",
+    "correctAnswers": ["Ce sont de beaux garçons."],
+    "explanation": "The construction 'ce sont' (they are) is used for plural subjects with a noun phrase. The noun 'garçons' is masculine plural, so the adjective 'beau' becomes 'beaux'. 'De' is used for indefinite plural."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They are beautiful girls.",
+    "correctAnswers": ["Ce sont de belles filles."],
+    "explanation": "The construction 'ce sont' (they are) is used for plural subjects with a noun phrase. The noun 'filles' is feminine plural, so the adjective 'beau' becomes 'belles'. 'De' is used for indefinite plural."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's the first day.",
+    "correctAnswers": ["C'est le premier jour."],
+    "explanation": "The construction 'c'est' (it is) is used with a noun phrase. The noun 'jour' is masculine singular, so the ordinal adjective 'premier' (first) is used in its masculine singular form. 'Le' is the definite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's the first time.",
+    "correctAnswers": ["C'est la première fois."],
+    "explanation": "The construction 'c'est' is used with a noun phrase. The noun 'fois' is feminine singular, so the ordinal adjective 'premier' becomes 'première'. 'La' is the definite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: These are the first days.",
+    "correctAnswers": ["Ce sont les premiers jours."],
+    "explanation": "The construction 'ce sont' is used for plural subjects with a noun phrase. The noun 'jours' is masculine plural, so the ordinal adjective 'premier' becomes 'premiers'. 'Les' is the definite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: These are the first times.",
+    "correctAnswers": ["Ce sont les premières fois."],
+    "explanation": "The construction 'ce sont' is used for plural subjects with a noun phrase. The noun 'fois' is feminine plural, so the ordinal adjective 'premier' becomes 'premières'. 'Les' is the definite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is athletic.",
+    "correctAnswers": ["Il est sportif."],
+    "explanation": "The pronoun 'il' (he) is masculine singular, so the adjective 'sportif' (athletic) is used in its masculine singular form. The verb 'être' is conjugated as 'est'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is athletic.",
+    "correctAnswers": ["Elle est sportive."],
+    "explanation": "The pronoun 'elle' (she) is feminine singular, so the adjective 'sportif' (athletic) becomes 'sportive' to agree in gender. The verb 'être' is conjugated as 'est'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They are athletic (masculine).",
+    "correctAnswers": ["Ils sont sportifs."],
+    "explanation": "The pronoun 'ils' (they, masculine) is masculine plural, so the adjective 'sportif' (athletic) becomes 'sportifs'. The verb 'être' is conjugated as 'sont'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They are athletic (feminine).",
+    "correctAnswers": ["Elles sont sportives."],
+    "explanation": "The pronoun 'elles' (they, feminine) is feminine plural, so the adjective 'sportif' becomes 'sportives'. The verb 'être' is conjugated as 'sont'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The book is red.",
+    "correctAnswers": ["Le livre est red."],
+    "explanation": "The noun 'livre' is masculine singular, so the adjective 'rouge' (red) is used in its masculine form (no change needed). The verb 'être' is conjugated as 'red'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The apple is red.",
+    "correctAnswers": ["La pomme verte."],
+    "explanation": "The noun 'pomme' is feminine singular, so the adjective 'vert' (green) remains 'vert' (no change for 'rouge' in this case, but corrected to 'verte' for feminine). The verb 'être' is conjugated as 'verte'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The books are red.",
+    "correctAnswers": ["Les livres sont rouges."],
+    "explanation": "The noun 'livres' is masculine plural, so the adjective 'rouge' (red) becomes 'rouges' to agree in gender and number. The verb 'être' is conjugated as 'sont'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The apples are red.",
+    "correctAnswers": ["Les pommes sont rouges."],
+    "explanation": "The noun 'pommes' is feminine plural, so the adjective 'vert' (green) becomes 'vertes' to agree in gender and number. The verb 'ex' is conjugated."
+  },
+  {
+    "type": "free_response",
+    "question": "La fleur est (rouge) ________.",
+    "correctAnswers": ["La fleur est rouge."],
+    "explanation": "The noun 'fleur' is feminine singular, so the adjective 'rouge' (red) remains 'rouge' (no change for feminine form). The sentence is completed with the verb 'être' conjugated as 'est'."
+  },
+  {
+    "type": "free_response",
+    "question": "Les garçons sont (sportif) ________.",
+    "correctAnswers": ["Les garçons sont sportifs."],
+    "explanation": "The noun 'garçons' is masculine plural, so the adjective 'sportif' (athletic) becomes 'sportifs' to agree in gender and number. The verb 'être' is conjugated as 'sont'."
+  },
+  {
+    "type": "free_response",
+    "question": "Marie est (heureux) ________.",
+    "correctAnswers": ["Marie est heureuse."],
+    "explanation": "Marie is a feminine name, implying a feminine singular subject, so the adjective 'heureux' (happy) becomes 'heureuse' to agree in gender and number. The verb 'être' is conjugated as 'est'."
+  },
+  {
+    "type": "free_response",
+    "question": "Les chaises sont (nouveau) ________.",
+    "correctAnswers": ["Les chaises sont nouvelles."],
+    "explanation": "The noun 'chaises' is feminine plural, so the adjective 'nouveau' (new) becomes 'nouvelles' to agree in gender and number. The verb 'être' is conjugated as 'sont'."
+  },
+  {
+    "type": "free_response",
+    "question": "C'est une (bon) ________ idée.",
+    "correctAnswers": ["C'est une bonne idée."],
+    "explanation": "The noun 'idée' is feminine singular, so the adjective 'bon' (good) becomes 'bonne' to agree in gender and number. The construction 'c'est' is used with 'une' as the indefinite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The small cat.",
+    "correctAnswers": ["Un petit chat."],
+    "explanation": "The noun 'chat' is masculine singular, so the adjective 'petit' (small) is used in its masculine singular form. 'Un' is the indefinite article for masculine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The happy girls.",
+    "correctAnswers": ["Les filles heureuses."],
+    "explanation": "The noun 'filles' is feminine plural, so the adjective 'heureux' (happy) becomes 'heureuses' to agree in gender and number. 'Les' is the definite article for plural nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: An old house.",
+    "correctAnswers": ["Une vieille maison."],
+    "explanation": "The noun 'maison' is feminine singular, so the adjective 'vieux' (old) becomes 'vieille' to agree in gender and number. 'Une' is the indefinite article for feminine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The white flowers.",
+    "correctAnswers": ["Les fleurs blanches."],
+    "explanation": "The noun 'fleurs' is feminine plural, so the adjective 'blanc' (white) becomes 'blanches' to agree in gender and number. 'Les' is the definite article for plural nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is a good friend (male).",
+    "correctAnswers": ["C'est un bon ami."],
+    "explanation": "The construction 'c'est' (he is) is used with a noun phrase. The noun 'ami' is masculine singular, so the adjective 'bon' (good) is used in its masculine singular form. 'Un' is the indefinite article."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The chair is new.",
+    "correctAnswers": ["La chaise est nouvelle."],
+    "explanation": "The noun 'chaise' is feminine singular, so the adjective 'nouveau' (new) becomes 'nouvelle' to agree in gender and number. The verb 'être' is conjugated as 'est'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They are happy boys.",
+    "correctAnswers": ["Ce sont des garçons heureux."],
+    "explanation": "The construction 'ce sont' (they are) is used for plural subjects with a noun phrase. The noun 'garçons' is masculine plural, so the adjective 'heureux' (happy) becomes 'heureux'. 'Des' is used for indefinite plural."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's the second day.",
+    "correctAnswers": ["C'est le deuxième jour."],
+    "explanation": "The construction 'c'est' (it is) is used with a noun phrase. The noun 'jour' is masculine singular, so the ordinal adjective 'deuxième' (second) is used in its masculine singular form. 'Le' is the definite article."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "free_response",
+    "question": "Je (manger)",
+    "correctAnswers": ["mange"],
+    "explanation": "The verb 'manger' is a stem-changing -er verb. For verbs ending in -ger, add an 'e' after the 'g' before 'a' and 'o' to maintain the soft 'g' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (manger)",
+    "correctAnswers": ["mangeons"],
+    "explanation": "With 'manger', we add an 'e' after the 'g' before the 'o' in the nous form to keep the soft 'g' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (commencer)",
+    "correctAnswers": ["commence"],
+    "explanation": "The verb 'commencer' is a stem-changing -er verb. For verbs ending in -cer, the 'c' becomes 'ç' before 'a' and 'o' to maintain the soft 'c' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (commencer)",
+    "correctAnswers": ["commençons"],
+    "explanation": "With 'commencer', we change 'c' to 'ç' before the 'o' in the nous form to keep the soft 'c' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (acheter)",
+    "correctAnswers": ["achète"],
+    "explanation": "The verb 'acheter' is a stem-changing -er verb. The 'e' changes to 'è' in all forms except nous and vous."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (acheter)",
+    "correctAnswers": ["achètes"],
+    "explanation": "With 'acheter', the 'e' changes to 'è' in the tu form."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (préférer)",
+    "correctAnswers": ["préfère"],
+    "explanation": "The verb 'préférer' is a stem-changing -er verb. The 'é' changes to 'è' in all forms except nous and vous."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils (préférer)",
+    "correctAnswers": ["préfèrent"],
+    "explanation": "With 'préférer', the 'é' changes to 'è' in the ils/elles form."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (lever)",
+    "correctAnswers": ["lève"],
+    "explanation": "The verb 'lever' is a stem-changing -er verb. The first 'e' changes to 'è' in all forms except nous and vous."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle (lever)",
+    "correctAnswers": ["lève"],
+    "explanation": "With 'lever', the first 'e' changes to 'è' in the il/elle form."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (placer)",
+    "correctAnswers": ["place"],
+    "explanation": "The verb 'placer' is a stem-changing -er verb. The 'c' becomes 'ç' before 'a' and 'o' to maintain the soft 'c' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (placer)",
+    "correctAnswers": ["plaçons"],
+    "explanation": "With 'placer', we change 'c' to 'ç' before the 'o' in the nous form to keep the soft 'c' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (peser)",
+    "correctAnswers": ["pèse"],
+    "explanation": "The verb 'peser' is a stem-changing -er verb. The first 'e' changes to 'è' in all forms except nous and vous."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (peser)",
+    "correctAnswers": ["pèses"],
+    "explanation": "With 'peser', the first 'e' changes to 'è' in the tu form."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (protéger)",
+    "correctAnswers": ["protège"],
+    "explanation": "The verb 'protéger' is a stem-changing -er verb. For verbs ending in -ger, add an 'e' after the 'g' before 'a' and 'o' to maintain the soft 'g' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (protéger)",
+    "correctAnswers": ["protégeons"],
+    "explanation": "With 'protéger', we add an 'e' after the 'g' before the 'o' in the nous form to keep the soft 'g' sound."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (espérer)",
+    "correctAnswers": ["espère"],
+    "explanation": "The verb 'espérer' is a stem-changing -er verb. The 'é' changes to 'è' in all forms except nous and vous."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils (espérer)",
+    "correctAnswers": ["espèrent"],
+    "explanation": "With 'espérer', the 'é' changes to 'è' in the ils/elles form."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (répéter)",
+    "correctAnswers": ["répète"],
+    "explanation": "The verb 'répéter' is a stem-changing -er verb. The 'é' changes to 'è' in all forms except nous and vous."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle (répéter)",
+    "correctAnswers": ["répète"],
+    "explanation": "With 'répéter', the 'é' changes to 'è' in the il/elle form."
+  }
+]

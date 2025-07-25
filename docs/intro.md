@@ -44,6 +44,13 @@ Our curriculum is designed to take you from **beginner to intermediate** French 
 - **Grammar Explanations**: Clear, step-by-step grammar guides
 - **Progress Tracking**: Monitor your learning journey
 
+## Resources
+
+- [Accent copy and paste](https://www.accentletters.com/)
+- [French dictionary](https://www.frenchdictionary.com/)
+- [French grammar](https://www.frenchgrammar.com/)
+- [Conjugation Drills](https://www.frenchdictionary.com/drill?tenses=present_simple_indicative)
+
 ## Start Learning
 
 Ready to begin? Start with the first lesson.

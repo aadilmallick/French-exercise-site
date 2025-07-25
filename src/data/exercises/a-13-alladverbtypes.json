@@ -1,0 +1,260 @@
+[
+  {
+    "type": "free_response",
+    "question": "Translate into French: The cat is sleeping there.",
+    "correctAnswers": ["Le chat dort là."],
+    "explanation": "The verb 'dormir' (to sleep) is conjugated as 'dort' for 'le chat' (the cat, masculine singular) in the present tense. The adverb 'là' means 'there' and indicates location."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going nowhere tonight.",
+    "correctAnswers": ["Je ne vais nulle part ce soir."],
+    "explanation": "The verb 'aller' (to go) is conjugated as 'vais' for 'je' in the present tense, with negation 'ne...nulle part' (nowhere). 'Ce soir' means 'tonight'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The children are playing outside.",
+    "correctAnswers": ["Les enfants jouent dehors."],
+    "explanation": "The verb 'jouer' (to play) is conjugated as 'jouent' for 'les enfants' (the children, plural) in the present tense. The adverb 'dehors' means 'outside'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The restaurant is near the station.",
+    "correctAnswers": ["Le restaurant est près de la gare."],
+    "explanation": "The verb 'être' (to be) is conjugated as 'est' for 'le restaurant' (the restaurant, masculine singular). The preposition 'près de' means 'near' and is used with 'la gare' (the station)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is hiding behind the door.",
+    "correctAnswers": ["Il se cache derrière la porte."],
+    "explanation": "The reflexive verb 'se cacher' (to hide) is conjugated as 'se cache' for 'il' in the present tense. The preposition 'derrière' means 'behind' and is used with 'la porte' (the door)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am here.",
+    "correctAnswers": ["Je suis ici."],
+    "explanation": "The verb 'être' is conjugated as 'suis' for 'je' in the present tense. The adverb 'ici' means 'here'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is there.",
+    "correctAnswers": ["Il est là."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'il' in the present tense. The adverb 'là' means 'there'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Look over there!",
+    "correctAnswers": ["Regarde là-bas !"],
+    "explanation": "The verb 'regarder' (to look) is conjugated as 'regarde' in the imperative for 'tu'. The adverb 'là-bas' means 'over there'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: There are people everywhere.",
+    "correctAnswers": ["Il y a des gens partout."],
+    "explanation": "The expression 'il y a' means 'there are'. The adverb 'partout' means 'everywhere'. 'Des gens' is used for 'people' in a general sense."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am not going anywhere.",
+    "correctAnswers": ["Je ne vais nulle part."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je' in the present tense, with negation 'ne...nulle part' (anywhere)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The book is on top of the table.",
+    "correctAnswers": ["Le livre est dessus la table."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le livre' (the book, masculine singular). The preposition 'dessus' means 'on top of' and is used with 'la table'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The cat is underneath the table.",
+    "correctAnswers": ["Le chat est dessous la table."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le chat'. The preposition 'dessous' means 'underneath' and is used with 'la table'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is in front of the house.",
+    "correctAnswers": ["Il est devant la maison."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'il'. The preposition 'devant' means 'in front of' and is used with 'la maison'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is behind the tree.",
+    "correctAnswers": ["Elle est derrière l’arbre."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'elle'. The preposition 'derrière' means 'behind' and is used with 'l’arbre' (the tree, with elision)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is inside.",
+    "correctAnswers": ["Il est dedans."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'il'. The adverb 'dedans' means 'inside'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is outside.",
+    "correctAnswers": ["Elle est dehors."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'elle'. The adverb 'dehors' means 'outside'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The bank is near here.",
+    "correctAnswers": ["La banque est près d’ici."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'la banque'. The preposition 'près de' means 'near', and 'ici' (here) becomes 'd’ici' in this context."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The post office is far from here.",
+    "correctAnswers": ["La poste est loin d’ici."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'la poste'. The preposition 'loin de' means 'far from', and 'ici' becomes 'd’ici'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to the cinema today.",
+    "correctAnswers": ["Je vais au cinéma aujourd’hui."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je' in the present tense. The preposition 'à' contracts with 'le cinéma' to form 'au'. The adverb 'aujourd’hui' means 'today'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He will arrive tomorrow.",
+    "correctAnswers": ["Il arrivera demain."],
+    "explanation": "The verb 'arriver' is conjugated as 'arrivera' for 'il' in the future tense. The adverb 'demain' means 'tomorrow'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We went to the restaurant yesterday.",
+    "correctAnswers": ["Nous sommes allés au restaurant hier."],
+    "explanation": "The verb 'aller' is conjugated as 'sommes allés' for 'nous' (masculine plural) in the present perfect tense with 'être' as the auxiliary. The preposition 'à' contracts with 'le restaurant' to form 'au'. The adverb 'hier' means 'yesterday'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is working now.",
+    "correctAnswers": ["Elle travaille maintenant."],
+    "explanation": "The verb 'travailler' is conjugated as 'travaille' for 'elle' in the present tense. The adverb 'maintenant' means 'now'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He gets up early.",
+    "correctAnswers": ["Il se lève tôt."],
+    "explanation": "The reflexive verb 'se lever' (to get up) is conjugated as 'se lève' for 'il' in the present tense. The adverb 'tôt' means 'early'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They arrived late.",
+    "correctAnswers": ["Ils sont arrivés tard."],
+    "explanation": "The verb 'arriver' is conjugated as 'sont arrivés' for 'ils' (masculine plural) in the present perfect tense with 'être' as the auxiliary. The adverb 'tard' means 'late'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I have already eaten.",
+    "correctAnswers": ["J’ai déjà mangé."],
+    "explanation": "The verb 'manger' is conjugated as 'ai mangé' for 'je' in the present perfect tense with 'avoir' as the auxiliary. The adverb 'déjà' means 'already'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It is still raining.",
+    "correctAnswers": ["Il pleut encore."],
+    "explanation": "The verb 'pleuvoir' (to rain) is conjugated as 'pleut' in the present tense (impersonal third person singular). The adverb 'encore' means 'still'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I always go to the bakery.",
+    "correctAnswers": ["Je vais toujours à la boulangerie."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je' in the present tense. The adverb 'toujours' means 'always'. The preposition 'à' is used with 'la boulangerie'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I never go to the theater.",
+    "correctAnswers": ["Je ne vais jamais au théâtre."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je' in the present tense, with negation 'ne...jamais' (never). The preposition 'à' contracts with 'le théâtre' to form 'au'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We often go to the park.",
+    "correctAnswers": ["Nous allons souvent au parc."],
+    "explanation": "The verb 'aller' is conjugated as 'allons' for 'nous' in the present tense. The adverb 'souvent' means 'often'. The preposition 'à' contracts with 'le parc' to form 'au'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They rarely go to the beach.",
+    "correctAnswers": ["Ils vont rarement à la plage."],
+    "explanation": "The verb 'aller' is conjugated as 'vont' for 'ils' in the present tense. The adverb 'rarement' means 'rarely'. The preposition 'à' is used with 'la plage'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I sometimes go to the museum.",
+    "correctAnswers": ["Je vais parfois au musée."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je' in the present tense. The adverb 'parfois' means 'sometimes'. The preposition 'à' contracts with 'le musée' to form 'au'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: First, we eat, then, we watch a movie.",
+    "correctAnswers": ["D’abord, on mange, ensuite, on regarde un film."],
+    "explanation": "The impersonal pronoun 'on' is used for 'we' with the verbs 'manger' (to eat) and 'regarder' (to watch), conjugated as 'mange' and 'regarde' in the present tense. The adverbs 'd’abord' (first) and 'ensuite' (then) indicate sequence."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She finally found a job.",
+    "correctAnswers": ["Elle a finalement trouvé un emploi."],
+    "explanation": "The verb 'trouver' (to find) is conjugated as 'a trouvé' for 'elle' in the present perfect tense with 'avoir' as the auxiliary. The adverb 'finalement' means 'finally'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I studied for two hours.",
+    "correctAnswers": ["J’ai étudié pendant deux heures."],
+    "explanation": "The verb 'étudier' (to study) is conjugated as 'ai étudié' for 'je' in the present perfect tense with 'avoir' as the auxiliary. The preposition 'pendant' indicates duration, 'deux heures' (two hours)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I have been waiting for him since one hour.",
+    "correctAnswers": ["Je l’attends depuis une heure."],
+    "explanation": "The verb 'attendre' (to wait for) is conjugated as 'attends' for 'je' in the present tense, with 'le' (him) as the direct object pronoun. The preposition 'depuis' indicates duration from a point in time, 'une heure' (one hour)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He speaks slowly.",
+    "correctAnswers": ["Il parle lentement."],
+    "explanation": "The verb 'parler' is conjugated as 'parle' for 'il' in the present tense. The adverb 'lentement' (slowly) is formed from the adjective 'lent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She works quickly.",
+    "correctAnswers": ["Elle travaille rapidement."],
+    "explanation": "The verb 'travailler' is conjugated as 'travaille' for 'elle' in the present tense. The adverb 'rapidement' (quickly) is formed from the adjective 'rapide'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We succeeded easily.",
+    "correctAnswers": ["Nous avons réussi facilement."],
+    "explanation": "The verb 'réussir' (to succeed) is conjugated as 'avons réussi' for 'nous' in the present perfect tense with 'avoir' as the auxiliary. The adverb 'facilement' (easily) is formed from the adjective 'facile'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They sang badly.",
+    "correctAnswers": ["Ils ont mal chanté."],
+    "explanation": "The verb 'chanter' (to sing) is conjugated as 'ont chanté' for 'ils' in the present perfect tense with 'avoir' as the auxiliary. The irregular adverb 'mal' (badly) is derived from the adjective 'mauvais'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The wind is blowing strongly.",
+    "correctAnswers": ["Le vent souffle fortement."],
+    "explanation": "The verb 'souffler' (to blow) is conjugated as 'souffle' for 'le vent' (the wind, masculine singular) in the present tense. The adverb 'fortement' (strongly) is formed from the adjective 'fort'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Speak more gently, please.",
+    "correctAnswers": ["Parle plus doucement, s’il te plaît."],
+    "explanation": "The verb 'parler' is conjugated as 'parle' in the imperative for 'tu'. The adverb 'doucement' (gently) is formed from the adjective 'doux' using the feminine form 'douce'. 'Plus' means 'more', and 's’il te plaît' means 'please'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The children are playing noisily.",
+    "correctAnswers": ["Les enfants jouent bruyamment."],
+    "explanation": "The verb 'jouer' is conjugated as 'jouent' for 'les enfants' in the present tense. The adverb 'bruyamment' (noisily) is formed from the adjective 'bruyant'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She answered the question calmly.",
+    "correctAnswers": ["Elle a répondu à la question calmement."],
+    "explanation": "The verb 'répondre' (to answer) is conjugated as 'a répondu' for 'elle' in the present perfect tense with 'avoir' as the auxiliary. The preposition 'à' is used with 'la question'. The adverb 'calmement' (calmly) is formed from the adjective 'calme'."
+  }
+]

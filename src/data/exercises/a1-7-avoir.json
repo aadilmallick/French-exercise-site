@@ -1,0 +1,122 @@
+[
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am hungry.",
+    "correctAnswers": ["J'ai faim."],
+    "explanation": "The verb 'avoir' is conjugated as 'ai' for the first person singular (je). 'Faim' means 'hunger', so 'J'ai faim' literally means 'I have hunger' but translates to 'I am hungry'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is thirsty.",
+    "correctAnswers": ["Elle a soif."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for the third person singular feminine (elle). 'Soif' means 'thirst', so 'Elle a soif' literally means 'She has thirst' but translates to 'She is thirsty'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We are hot.",
+    "correctAnswers": ["Nous avons chaud."],
+    "explanation": "The verb 'avoir' is conjugated as 'avons' for the first person plural (nous). 'Chaud' means 'heat', so 'Nous avons chaud' literally means 'We have heat' but translates to 'We are hot'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (plural) are cold.",
+    "correctAnswers": ["Vous avez froid."],
+    "explanation": "The verb 'avoir' is conjugated as 'avez' for the second person plural (vous). 'Froid' means 'cold', so 'Vous avez froid' literally means 'You have cold' but translates to 'You are cold'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am 20 years old.",
+    "correctAnswers": ["J'ai 20 ans.", "J'ai vingt ans."],
+    "explanation": "The verb 'avoir' is conjugated as 'ai' for the first person singular (je). In French, age is expressed with 'avoir' and 'ans' (years), so 'J'ai 20 ans' literally means 'I have 20 years'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is 35 years old.",
+    "correctAnswers": ["Il a 35 ans.", "Il a trente-cinq ans."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for the third person singular masculine (il). 'Ans' means 'years', so 'Il a 35 ans' literally means 'He has 35 years'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (masculine) are 50 years old.",
+    "correctAnswers": ["Ils ont 50 ans.", "Ils ont cinquante ans."],
+    "explanation": "The verb 'avoir' is conjugated as 'ont' for the third person plural masculine (ils). 'Ans' means 'years', so 'Ils ont 50 ans' literally means 'They have 50 years'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is hungry.",
+    "correctAnswers": ["Elle a faim."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for the third person singular feminine (elle). 'Faim' means 'hunger', so 'Elle a faim' literally means 'She has hunger' but translates to 'She is hungry'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (singular) are thirsty.",
+    "correctAnswers": ["Tu as soif."],
+    "explanation": "The verb 'avoir' is conjugated as 'as' for the second person singular (tu). 'Soif' means 'thirst', so 'Tu as soif' literally means 'You have thirst' but translates to 'You are thirsty'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (feminine) are hot.",
+    "correctAnswers": ["Elles ont chaud."],
+    "explanation": "The verb 'avoir' is conjugated as 'ont' for the third person plural feminine (elles). 'Chaud' means 'heat', so 'Elles ont chaud' literally means 'They have heat' but translates to 'They are hot'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am cold.",
+    "correctAnswers": ["J'ai froid."],
+    "explanation": "The verb 'avoir' is conjugated as 'ai' for the first person singular (je). 'Froid' means 'cold', so 'J'ai froid' literally means 'I have cold' but translates to 'I am cold'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is 18 years old.",
+    "correctAnswers": ["Il a 18 ans.", "Il a dix-huit ans."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for the third person singular masculine (il). 'Ans' means 'years', so 'Il a 18 ans' literally means 'He has 18 years'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We are thirsty.",
+    "correctAnswers": ["Nous avons soif."],
+    "explanation": "The verb 'avoir' is conjugated as 'avons' for the first person plural (nous). 'Soif' means 'thirst', so 'Nous avons soif' literally means 'We have thirst' but translates to 'We are thirsty'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (plural) are hungry.",
+    "correctAnswers": ["Vous avez faim."],
+    "explanation": "The verb 'avoir' is conjugated as 'avez' for the second person plural (vous). 'Faim' means 'hunger', so 'Vous avez faim' literally means 'You have hunger' but translates to 'You are hungry'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (masculine) are cold.",
+    "correctAnswers": ["Ils ont froid."],
+    "explanation": "The verb 'avoir' is conjugated as 'ont' for the third person plural masculine (ils). 'Froid' means 'cold', so 'Ils ont froid' literally means 'They have cold' but translates to 'They are cold'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is 42 years old.",
+    "correctAnswers": ["Elle a 42 ans.", "Elle a quarante-deux ans."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for the third person singular feminine (elle). 'Ans' means 'years', so 'Elle a 42 ans' literally means 'She has 42 years'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (singular) are hot.",
+    "correctAnswers": ["Tu as chaud."],
+    "explanation": "The verb 'avoir' is conjugated as 'as' for the second person singular (tu). 'Chaud' means 'heat', so 'Tu as chaud' literally means 'You have heat' but translates to 'You are hot'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (feminine) are 30 years old.",
+    "correctAnswers": ["Elles ont 30 ans.", "Elles ont trente ans."],
+    "explanation": "The verb 'avoir' is conjugated as 'ont' for the third person plural feminine (elles). 'Ans' means 'years', so 'Elles ont 30 ans' literally means 'They have 30 years'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am 25 years old.",
+    "correctAnswers": ["J'ai 25 ans.", "J'ai vingt-cinq ans."],
+    "explanation": "The verb 'avoir' is conjugated as 'ai' for the first person singular (je). 'Ans' means 'years', so 'J'ai 25 ans' literally means 'I have 25 years'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is thirsty.",
+    "correctAnswers": ["Il a soif."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for the third person singular masculine (il). 'Soif' means 'thirst', so 'Il a soif' literally means 'He has thirst' but translates to 'He is thirsty'."
+  }
+]

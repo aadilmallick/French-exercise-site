@@ -1,0 +1,434 @@
+[
+  {
+    "type": "free_response",
+    "question": "Je (parler)",
+    "correctAnswers": ["parle"],
+    "explanation": "The verb 'parler' is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'parle'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (finir)",
+    "correctAnswers": ["finis"],
+    "explanation": "The verb 'finir' is a regular -ir verb. For the subject 'tu', remove the -ir and add -is to form 'finis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Il (vendre)",
+    "correctAnswers": ["vend"],
+    "explanation": "The verb 'vendre' is a regular -re verb. For the subject 'il', remove the -re and add -d to form 'vend'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (manger)",
+    "correctAnswers": ["mangeons"],
+    "explanation": "The verb 'manger' is a regular -er verb. For the subject 'nous', remove the -er and add -eons to form 'mangeons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous (choisir)",
+    "correctAnswers": ["choisissez"],
+    "explanation": "The verb 'choisir' is a regular -ir verb. For the subject 'vous', remove the -ir and add -issez to form 'choisissez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elles (attendre)",
+    "correctAnswers": ["attendent"],
+    "explanation": "The verb 'attendre' is a regular -re verb. For the subject 'elles', remove the -re and add -ent to form 'attendent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (chanter)",
+    "correctAnswers": ["chante"],
+    "explanation": "The verb 'chanter' is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'chante'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (grossir)",
+    "correctAnswers": ["grossis"],
+    "explanation": "The verb 'grossir' is a regular -ir verb. For the subject 'tu', remove the -ir and add -is to form 'grossis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle (répondre)",
+    "correctAnswers": ["répond"],
+    "explanation": "The verb 'répondre' is a regular -re verb. For the subject 'elle', remove the -re and add -d to form 'répond'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (aimer)",
+    "correctAnswers": ["aimons"],
+    "explanation": "The verb 'aimer' is a regular -er verb. For the subject 'nous', remove the -er and add -eons to form 'aimons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous (réussir)",
+    "correctAnswers": ["réussissez"],
+    "explanation": "The verb 'réussir' is a regular -ir verb. For the subject 'vous', remove the -ir and add -issez to form 'réussissez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils (perdre)",
+    "correctAnswers": ["perdent"],
+    "explanation": "The verb 'perdre' is a regular -re verb. For the subject 'ils', remove the -re and add -ent to form 'perdent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (danser)",
+    "correctAnswers": ["danse"],
+    "explanation": "The verb 'danser' is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'danse'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (bâtir)",
+    "correctAnswers": ["bâtis"],
+    "explanation": "The verb 'bâtir' is a regular -ir verb. For the subject 'tu', remove the -ir and add -is to form 'bâtis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Il (rendre)",
+    "correctAnswers": ["rend"],
+    "explanation": "The verb 'rendre' is a regular -re verb. For the subject 'il', remove the -re and add -d to form 'rend'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (parler)",
+    "correctAnswers": ["parlons"],
+    "explanation": "The verb 'parler' is a regular -er verb. For the subject 'nous', remove the -er and add -ons to form 'parlons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous (finir)",
+    "correctAnswers": ["finissez"],
+    "explanation": "The verb 'finir' is a regular -ir verb. For the subject 'vous', remove the -ir and add -issez to form 'finissez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elles (vendre)",
+    "correctAnswers": ["vendent"],
+    "explanation": "The verb 'vendre' is a regular -re verb. For the subject 'elles', remove the -re and add -ent to form 'vendent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (manger)",
+    "correctAnswers": ["mange"],
+    "explanation": "The verb 'manger' is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'mange'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (choisir)",
+    "correctAnswers": ["choisis"],
+    "explanation": "The verb 'choisir' is a regular -ir verb. For the subject 'tu', remove the -ir and add -is to form 'choisis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Il (attendre)",
+    "correctAnswers": ["attend"],
+    "explanation": "The verb 'attendre' is a regular -re verb. For the subject 'il', remove the -re and add -d to form 'attend'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (chanter)",
+    "correctAnswers": ["chantons"],
+    "explanation": "The verb 'chanter' is a regular -er verb. For the subject 'nous', remove the -er and add -ons to form 'chantons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous (grossir)",
+    "correctAnswers": ["grossissez"],
+    "explanation": "The verb 'grossir' is a regular -ir verb. For the subject 'vous', remove the -ir and add -issez to form 'grossissez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils (répondre)",
+    "correctAnswers": ["répondent"],
+    "explanation": "The verb 'répondre' is a regular -re verb. For the subject 'ils', remove the -re and add -ent to form 'répondent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (aimer)",
+    "correctAnswers": ["aime"],
+    "explanation": "The verb 'aimer' is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'aime'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (réussir)",
+    "correctAnswers": ["réussis"],
+    "explanation": "The verb 'réussir' is a regular -ir verb. For the subject 'tu', remove the -ir and add -is to form 'réussis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle (perdre)",
+    "correctAnswers": ["perd"],
+    "explanation": "The verb 'perdre' is a regular -re verb. For the subject 'elle', remove the -re and add -d to form 'perd'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (danser)",
+    "correctAnswers": ["dansons"],
+    "explanation": "The verb 'danser' is a regular -er verb. For the subject 'nous', remove the -er and add -ons to form 'dansons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous (bâtir)",
+    "correctAnswers": ["bâtissez"],
+    "explanation": "The verb 'bâtir' is a regular -ir verb. For the subject 'vous', remove the -ir and add -issez to form 'bâtissez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils (rendre)",
+    "correctAnswers": ["rendent"],
+    "explanation": "The verb 'rendre' is a regular -re verb. For the subject 'ils', remove the -re and add -ent to form 'rendent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (finir)",
+    "correctAnswers": ["finis"],
+    "explanation": "The verb 'finir' is a regular -ir verb. For the subject 'je', remove the -ir and add -is to form 'finis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (parler)",
+    "correctAnswers": ["parles"],
+    "explanation": "The verb 'parler' is a regular -er verb. For the subject 'tu', remove the -er and add -es to form 'parles'."
+  },
+  {
+    "type": "free_response",
+    "question": "Il (manger)",
+    "correctAnswers": ["mange"],
+    "explanation": "The verb 'manger' is a regular -er verb. For the subject 'il', remove the -er and add -e to form 'mange'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (vendre)",
+    "correctAnswers": ["vendons"],
+    "explanation": "The verb 'vendre' is a regular -re verb. For the subject 'nous', remove the -re and add -ons to form 'vendons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous (chanter)",
+    "correctAnswers": ["chantez"],
+    "explanation": "The verb 'chanter' is a regular -er verb. For the subject 'vous', remove the -er and add -ez to form 'chantez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elles (choisir)",
+    "correctAnswers": ["choisissent"],
+    "explanation": "The verb 'choisir' is a regular -ir verb. For the subject 'elles', remove the -ir and add -issent to form 'choisissent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je (attendre)",
+    "correctAnswers": ["attends"],
+    "explanation": "The verb 'attendre' is a regular -re verb. For the subject 'je', remove the -re and add -s to form 'attends'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu (aimer)",
+    "correctAnswers": ["aimes"],
+    "explanation": "The verb 'aimer' is a regular -er verb. For the subject 'tu', remove the -er and add -es to form 'aimes'."
+  },
+  {
+    "type": "free_response",
+    "question": "Il (réussir)",
+    "correctAnswers": ["réussit"],
+    "explanation": "The verb 'réussir' is a regular -ir verb. For the subject 'il', remove the -ir and add -it to form 'réussit'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous (perdre)",
+    "correctAnswers": ["perdons"],
+    "explanation": "The verb 'perdre' is a regular -re verb. For the subject 'nous', remove the -re and add -ons to form 'perdons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous (danser)",
+    "correctAnswers": ["dansez"],
+    "explanation": "The verb 'danser' is a regular -er verb. For the subject 'vous', remove the -er and add -ez to form 'dansez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils (bâtir)",
+    "correctAnswers": ["bâtissent"],
+    "explanation": "The verb 'bâtir' is a regular -ir verb. For the subject 'ils', remove the -ir and add -issent to form 'bâtissent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je _________ (parler) français. (I speak French.)",
+    "correctAnswers": ["parle"],
+    "explanation": "The verb 'parler' is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'parle'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu _________ (aimer) le chocolat. (You like chocolate.)",
+    "correctAnswers": ["aimes"],
+    "explanation": "The verb 'aimer' is a regular -er verb. For the subject 'tu', remove the -er and add -es to form 'aimes'."
+  },
+  {
+    "type": "free_response",
+    "question": "Il _________ (travailler) dans un bureau. (He works in an office.)",
+    "correctAnswers": ["travaille"],
+    "explanation": "The verb 'travailler' is a regular -er verb. For the subject 'il', remove the -er and add -e to form 'travaille'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous _________ (manger) une pizza. (We eat a pizza.)",
+    "correctAnswers": ["mangeons"],
+    "explanation": "The verb 'manger' is a regular -er verb. For the subject 'nous', remove the -er and add -eons to form 'mangeons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous _________ (écouter) de la musique. (You listen to music.)",
+    "correctAnswers": ["écoutez"],
+    "explanation": "The verb 'écouter' is a regular -er verb. For the subject 'vous', remove the -er and add -ez to form 'écoutez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elles _________ (danser) bien. (They dance well.)",
+    "correctAnswers": ["dansent"],
+    "explanation": "The verb 'danser' is a regular -er verb. For the subject 'elles', remove the -er and add -ent to form 'dansent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I watch television.",
+    "correctAnswers": ["Je regarde la télévision."],
+    "explanation": "The verb 'regarder' (to watch) is a regular -er verb. For the subject 'je', remove the -er and add -e to form 'regarde'. 'La télévision' is the direct object, meaning 'television'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (informal) study French.",
+    "correctAnswers": ["Tu étudies le français."],
+    "explanation": "The verb 'étudier' (to study) is a regular -er verb. For the subject 'tu', remove the -er and add -es to form 'étudies'. 'Le français' is the direct object, meaning 'French'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She sings beautifully.",
+    "correctAnswers": ["Elle chante magnifiquement."],
+    "explanation": "The verb 'chanter' (to sing) is a regular -er verb. For the subject 'elle', remove the -er and add -e to form 'chante'. 'Magnifiquement' is an adverb meaning 'beautifully'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We play soccer.",
+    "correctAnswers": ["Nous jouons au football."],
+    "explanation": "The verb 'jouer' (to play) is a regular -er verb. For the subject 'nous', remove the -er and add -ons to form 'jouons'. 'Au football' uses the preposition 'à' + 'le' (contracted to 'au') to mean 'soccer'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (formal) work hard.",
+    "correctAnswers": ["Vous travaillez dur."],
+    "explanation": "The verb 'travailler' (to work) is a regular -er verb. For the subject 'vous', remove the -er and add -ez to form 'travaillez'. 'Dur' is an adverb meaning 'hard'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (masculine) like to travel.",
+    "correctAnswers": ["Ils aiment voyager."],
+    "explanation": "The verb 'aimer' (to like) is a regular -er verb. For the subject 'ils', remove the -er and add -ent to form 'aiment'. 'Voyager' is the infinitive verb meaning 'to travel', used after 'aiment'."
+  },
+  {
+    "type": "free_response",
+    "question": "Je _______ (choisir) le gâteau au chocolat.",
+    "correctAnswers": ["choisis"],
+    "explanation": "The verb 'choisir' is a regular -ir verb. For the subject 'je', remove the -ir and add -is to form 'choisis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu _______ (grandir) vite!",
+    "correctAnswers": ["grandis"],
+    "explanation": "The verb 'grandir' is a regular -ir verb. For the subject 'tu', remove the -ir and add -is to form 'grandis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elle _______ (réussir) à son examen.",
+    "correctAnswers": ["réussit"],
+    "explanation": "The verb 'réussir' is a regular -ir verb. For the subject 'elle', remove the -ir and add -it to form 'réussit'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous _______ (finir) nos devoirs.",
+    "correctAnswers": ["finissons"],
+    "explanation": "The verb 'finir' is a regular -ir verb. For the subject 'nous', remove the -ir and add -issons to form 'finissons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous _______ (obéir) à vos parents.",
+    "correctAnswers": ["obéissez"],
+    "explanation": "The verb 'obéir' is a regular -ir verb. For the subject 'vous', remove the -ir and add -issez to form 'obéissez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Ils _______ (remplir) le verre d'eau.",
+    "correctAnswers": ["remplissent"],
+    "explanation": "The verb 'remplir' is a regular -ir verb. For the subject 'ils', remove the -ir and add -issent to form 'remplissent'."
+  },
+  {
+    "type": "free_response",
+    "question": "J' _______ (attendre) le bus.",
+    "correctAnswers": ["attends"],
+    "explanation": "The verb 'attendre' is a regular -re verb. For the subject 'je', remove the -re and add -s to form 'attends'. The elision 'J'' occurs before a vowel."
+  },
+  {
+    "type": "free_response",
+    "question": "Tu _______ (entendre) la musique?",
+    "correctAnswers": ["entends"],
+    "explanation": "The verb 'entendre' is a regular -re verb. For the subject 'tu', remove the -re and add -s to form 'entends'."
+  },
+  {
+    "type": "free_response",
+    "question": "Il _______ (répondre) à la question.",
+    "correctAnswers": ["répond"],
+    "explanation": "The verb 'répondre' is a regular -re verb. For the subject 'il', remove the -re and add -d to form 'répond'."
+  },
+  {
+    "type": "free_response",
+    "question": "Nous _______ (vendre) notre maison.",
+    "correctAnswers": ["vendons"],
+    "explanation": "The verb 'vendre' is a regular -re verb. For the subject 'nous', remove the -re and add -ons to form 'vendons'."
+  },
+  {
+    "type": "free_response",
+    "question": "Vous _______ (perdre) vos clés?",
+    "correctAnswers": ["perdez"],
+    "explanation": "The verb 'perdre' is a regular -re verb. For the subject 'vous', remove the -re and add -ez to form 'perdez'."
+  },
+  {
+    "type": "free_response",
+    "question": "Elles _______ (descendre) les escaliers.",
+    "correctAnswers": ["descendent"],
+    "explanation": "The verb 'descendre' is a regular -re verb. For the subject 'elles', remove the -re and add -ent to form 'descendent'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am waiting for my friend.",
+    "correctAnswers": ["J'attends mon ami."],
+    "explanation": "The verb 'attendre' (to wait for) is a regular -re verb. For the subject 'je', remove the -re and add -s to form 'attends'. 'Mon ami' is the direct object, meaning 'my friend' (masculine)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (informal) are choosing the red dress.",
+    "correctAnswers": ["Tu choisis la robe rouge."],
+    "explanation": "The verb 'choisir' (to choose) is a regular -ir verb. For the subject 'tu', remove the -ir and add -is to form 'choisis'. 'La robe rouge' is the direct object, meaning 'the red dress'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is answering the phone.",
+    "correctAnswers": ["Il répond au téléphone."],
+    "explanation": "The verb 'répondre' (to answer) is a regular -re verb. For the subject 'il', remove the -re and add -d to form 'répond'. 'Au téléphone' uses the preposition 'à' + 'le' (contracted to 'au') to mean 'the phone'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We are finishing our dinner.",
+    "correctAnswers": ["Nous finissons notre dîner."],
+    "explanation": "The verb 'finir' (to finish) is a regular -ir verb. For the subject 'nous', remove the -ir and add -issons to form 'finissons'. 'Notre dîner' is the direct object, meaning 'our dinner'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: You (formal) are losing your keys.",
+    "correctAnswers": ["Vous perdez vos clés."],
+    "explanation": "The verb 'perdre' (to lose) is a regular -re verb. For the subject 'vous', remove the -re and add -ez to form 'perdez'. 'Vos clés' is the direct object, meaning 'your keys'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They (feminine) are growing flowers.",
+    "correctAnswers": ["Elles grandissent des fleurs."],
+    "explanation": "The verb 'grandir' (to grow, as in plants or to grow up) is a regular -ir verb. For the subject 'elles', remove the -ir and add -issent to form 'grandissent'. 'Des fleurs' is the direct object, meaning 'flowers'."
+  }
+]
