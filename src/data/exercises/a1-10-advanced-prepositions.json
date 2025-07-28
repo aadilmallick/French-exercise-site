@@ -1,0 +1,427 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Je vais ____ cinéma ce soir.",
+    "options": ["à", "dans", "sur", "pour"],
+    "correctAnswers": ["à"],
+    "explanation": "The preposition 'à' is used with destinations like 'cinéma' (cinema) when indicating where someone is going. It contracts with 'le cinéma' to form 'au cinéma', but here 'cinéma' is used without the article, so 'à' is correct."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Le chat est ____ la table.",
+    "options": ["sur", "sous", "à", "dans"],
+    "correctAnswers": ["sur"],
+    "explanation": "The preposition 'sur' means 'on' and indicates that 'le chat' (the cat) is on top of 'la table' (the table), describing a surface location."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "J’habite ____ Paris.",
+    "options": ["à", "dans", "sur", "près de"],
+    "correctAnswers": ["à"],
+    "explanation": "The preposition 'à' is used with city names like 'Paris' to indicate where someone lives. 'Dans' is used for countries or regions, not cities."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il commence ____ pleuvoir.",
+    "options": ["à", "de", "pour", "sur"],
+    "correctAnswers": ["à"],
+    "explanation": "The expression 'commencer à' is used with an infinitive verb like 'pleuvoir' (to rain) to mean 'it starts to rain'. The preposition 'à' links the verb 'commencer' to the infinitive."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "J’ai besoin ____ dormir.",
+    "options": ["de", "à", "pour", "dans"],
+    "correctAnswers": ["de"],
+    "explanation": "The expression 'avoir besoin de' means 'to need' and is followed by an infinitive verb like 'dormir' (to sleep) or a noun. The preposition 'de' is required after 'besoin'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to the park.",
+    "correctAnswers": ["Je vais au parc."],
+    "explanation": "The verb 'aller' (to go) is conjugated as 'vais' for 'je' in the present tense. The preposition 'à' is used with 'le parc' (the park), contracting to 'au' for masculine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She is trying to learn French.",
+    "correctAnswers": ["Elle essaie d’apprendre le français."],
+    "explanation": "The verb 'essayer' (to try) is conjugated as 'essaie' for 'elle' in the present tense, followed by 'de' before the infinitive 'apprendre' (to learn). 'Le français' (French) is used with the definite article for languages."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He needs to eat.",
+    "correctAnswers": ["Il a besoin de manger."],
+    "explanation": "The expression 'avoir besoin de' (to need) is conjugated as 'a besoin' for 'il' in the present tense, followed by the infinitive 'manger' (to eat). The preposition 'de' links 'besoin' to the verb."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We decided to go on vacation.",
+    "correctAnswers": ["Nous avons décidé de partir en vacances."],
+    "explanation": "The verb 'décider' (to decide) is conjugated as 'avons décidé' for 'nous' in the present perfect tense with 'avoir' as the auxiliary. The preposition 'de' is used before the infinitive 'partir' (to go). 'En vacances' is the standard phrase for 'on vacation'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to Paris in June.",
+    "correctAnswers": ["Je vais à Paris en juin."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je' in the present tense. The preposition 'à' is used with the city name 'Paris'. The preposition 'en' is used for months like 'juin' (June)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to stay at the hotel near the Eiffel Tower.",
+    "correctAnswers": ["Je vais rester à l’hôtel près de la Tour Eiffel."],
+    "explanation": "The verb 'rester' (to stay) is conjugated as 'vais rester' for 'je' in the present tense. The preposition 'à' is used with 'l’hôtel' (the hotel, with elision). 'Près de' means 'near', followed by 'la Tour Eiffel'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to visit the Louvre during the day.",
+    "correctAnswers": ["Je vais visiter le Louvre pendant la journée."],
+    "explanation": "The verb 'visiter' (to visit) is conjugated as 'vais visiter' for 'je' in the present tense. 'Le Louvre' is the direct object. The preposition 'pendant' indicates duration, used with 'la journée' (the day)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to eat in a French restaurant.",
+    "correctAnswers": ["Je vais manger dans un restaurant français."],
+    "explanation": "The verb 'manger' (to eat) is conjugated as 'vais manger' for 'je' in the present tense. The preposition 'dans' indicates location with 'un restaurant français' (a French restaurant, masculine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to buy souvenirs for my friends.",
+    "correctAnswers": ["Je vais acheter des souvenirs pour mes amis."],
+    "explanation": "The verb 'acheter' (to buy) is conjugated as 'vais acheter' for 'je' in the present tense. 'Des souvenirs' is the plural indefinite article for 'souvenirs'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to go to",
+    "correctAnswers": ["aller à"],
+    "explanation": "The verb 'aller' (to go) is paired with the preposition 'à' to indicate movement toward a place or event, as in 'aller à la plage' (go to the beach)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am at home.",
+    "correctAnswers": ["Je suis à la maison."],
+    "explanation": "The verb 'être' is conjugated as 'suis' for 'je' in the present tense. The preposition 'à' indicates location, used with 'la maison' (the house)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The book is at the library.",
+    "correctAnswers": ["Le livre est à la bibliothèque."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le livre' (the book, masculine singular). The preposition 'à' indicates location, used with 'la bibliothèque' (the library)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The cat is in the box.",
+    "correctAnswers": ["Le chat est dans la boîte."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le chat' (the cat, masculine singular). The preposition 'dans' indicates being inside something, used with 'la boîte' (the box)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: There is water in the glass.",
+    "correctAnswers": ["Il y a de l’eau dans le verre."],
+    "explanation": "The expression 'il y a' means 'there is'. The preposition 'dans' indicates location inside 'le verre' (the glass). 'De l’eau' uses the partitive article for the uncountable noun 'water'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The book is on the table.",
+    "correctAnswers": ["Le livre est sur la table."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le livre'. The preposition 'sur' means 'on', indicating a surface location with 'la table' (the table)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The cat is sleeping on the bed.",
+    "correctAnswers": ["Le chat dort sur le lit."],
+    "explanation": "The verb 'dormir' (to sleep) is conjugated as 'dort' for 'le chat' in the present tense. The preposition 'sur' indicates a surface location with 'le lit' (the bed)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The cat is under the table.",
+    "correctAnswers": ["Le chat est sous la table."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le chat'. The preposition 'sous' means 'under', indicating location below 'la table'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I found my keys under the sofa.",
+    "correctAnswers": ["J’ai trouvé mes clés sous le canapé."],
+    "explanation": "The verb 'trouver' (to find) is conjugated as 'ai trouvé' for 'je' in the present perfect tense with 'avoir'. The preposition 'sous' indicates location below 'le canapé' (the sofa)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: There is a tree in front of the house.",
+    "correctAnswers": ["Il y a un arbre devant la maison."],
+    "explanation": "The expression 'il y a' means 'there is'. The preposition 'devant' means 'in front of', used with 'la maison' (the house). 'Un arbre' is the indefinite article for 'tree'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am in front of the cinema.",
+    "correctAnswers": ["Je suis devant le cinéma."],
+    "explanation": "The verb 'être' is conjugated as 'suis' for 'je'. The preposition 'devant' indicates location in front of 'le cinéma' (the cinema)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The garden is behind the house.",
+    "correctAnswers": ["Le jardin est derrière la maison."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le jardin' (the garden, masculine singular). The preposition 'derrière' means 'behind', used with 'la maison'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He is hiding behind the tree.",
+    "correctAnswers": ["Il se cache derrière l’arbre."],
+    "explanation": "The reflexive verb 'se cacher' (to hide) is conjugated as 'se cache' for 'il' in the present tense. The preposition 'derrière' means 'behind', used with 'l’arbre' (the tree, with elision)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The bank is between the post office and the cafe.",
+    "correctAnswers": ["La banque est entre la poste et le café."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'la banque' (the bank, feminine singular). The preposition 'entre' means 'between', used with two nouns, 'la poste' and 'le café'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am sitting between Marie and Pierre.",
+    "correctAnswers": ["Je suis assis entre Marie et Pierre."],
+    "explanation": "The verb 'être' is conjugated as 'suis' for 'je', with the past participle 'assis' (seated, masculine singular) for the male speaker. The preposition 'entre' is used with 'Marie et Pierre'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The chair is next to the table.",
+    "correctAnswers": ["La chaise est à côté de la table."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'la chaise' (the chair, feminine singular). The preposition 'à côté de' means 'next to', used with 'la table'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I live next to the school.",
+    "correctAnswers": ["J’habite à côté de l’école."],
+    "explanation": "The verb 'habiter' (to live) is conjugated as 'habite' for 'je'. The preposition 'à côté de' means 'next to', used with 'l’école' (the school, with elision)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I live near the train station.",
+    "correctAnswers": ["J’habite près de la gare."],
+    "explanation": "The verb 'habiter' is conjugated as 'habite' for 'je'. The preposition 'près de' means 'near', used with 'la gare' (the train station)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The park is near my house.",
+    "correctAnswers": ["Le parc est près de chez moi."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'le parc' (the park, masculine singular). The preposition 'près de' means 'near', used with 'chez moi' (my house)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I live far from the city.",
+    "correctAnswers": ["J’habite loin de la ville."],
+    "explanation": "The verb 'habiter' is conjugated as 'habite' for 'je'. The preposition 'loin de' means 'far from', used with 'la ville' (the city)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The beach is far from the mountain.",
+    "correctAnswers": ["La plage est loin de la montagne."],
+    "explanation": "The verb 'être' is conjugated as 'est' for 'la plage' (the beach, feminine singular). The preposition 'loin de' means 'far from', used with 'la montagne'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The class starts at 9 o'clock.",
+    "correctAnswers": ["Le cours commence à 9 heures."],
+    "explanation": "The verb 'commencer' (to start) is conjugated as 'commence' for 'le cours' (the class, masculine singular) in the present tense. The preposition 'à' indicates a specific time, '9 heures'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I eat at noon.",
+    "correctAnswers": ["Je mange à midi."],
+    "explanation": "The verb 'manger' (to eat) is conjugated as 'mange' for 'je' in the present tense. The preposition 'à' indicates a specific time, 'midi' (noon)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I was born in May.",
+    "correctAnswers": ["Je suis né en mai."],
+    "explanation": "The verb 'naître' (to be born) is conjugated as 'suis né' for 'je' (masculine) in the present perfect tense with 'être'. The preposition 'en' is used for months like 'mai'. Use 'née' if the speaker is feminine."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We are in 2023.",
+    "correctAnswers": ["Nous sommes en 2023."],
+    "explanation": "The verb 'être' is conjugated as 'sommes' for 'nous' in the present tense. The preposition 'en' is used for years like '2023'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I like to travel in the summer.",
+    "correctAnswers": ["J’aime voyager en été."],
+    "explanation": "The verb 'aimer' (to like) is conjugated as 'aime' for 'je', followed by the infinitive 'voyager' (to travel). The preposition 'en' is used for seasons like 'été' (summer)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I slept during the movie.",
+    "correctAnswers": ["J’ai dormi pendant le film."],
+    "explanation": "The verb 'dormir' (to sleep) is conjugated as 'ai dormi' for 'je' in the present perfect tense with 'avoir'. The preposition 'pendant' indicates duration during 'le film' (the movie)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He worked during the holidays.",
+    "correctAnswers": ["Il a travaillé pendant les vacances."],
+    "explanation": "The verb 'travailler' (to work) is conjugated as 'a travaillé' for 'il' in the present perfect tense with 'avoir'. The preposition 'pendant' indicates duration during 'les vacances' (the holidays)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I have lived here since 2010.",
+    "correctAnswers": ["J’habite ici depuis 2010."],
+    "explanation": "The verb 'habiter' (to live) is conjugated as 'habite' for 'je' in the present tense, used for actions continuing to the present. The preposition 'depuis' indicates a starting point, '2010'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I have been waiting for him for an hour.",
+    "correctAnswers": ["Je l’attends depuis une heure."],
+    "explanation": "The verb 'attendre' (to wait for) is conjugated as 'attends' for 'je' in the present tense, with 'le' (him) as the direct object pronoun. The preposition 'depuis' indicates duration, 'une heure' (one hour)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to Paris for a week.",
+    "correctAnswers": ["Je vais à Paris pour une semaine."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je'. The preposition 'à' is used with 'Paris'. The preposition 'pour' indicates duration, 'une semaine' (a week)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am studying French for two years.",
+    "correctAnswers": ["J’étudie le français pour deux ans."],
+    "explanation": "The verb 'étudier' (to study) is conjugated as 'étudie' for 'je'. 'Le français' uses the definite article for languages. The preposition 'pour' indicates duration, 'deux ans' (two years)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I eat before leaving.",
+    "correctAnswers": ["Je mange avant de partir."],
+    "explanation": "The verb 'manger' is conjugated as 'mange' for 'je'. The preposition 'avant' (before) is followed by the infinitive 'partir' (to leave) with 'de'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It is necessary to finish before tomorrow.",
+    "correctAnswers": ["Il faut finir avant demain."],
+    "explanation": "The impersonal expression 'il faut' means 'it is necessary'. The infinitive 'finir' (to finish) is used, with 'avant' indicating time before 'demain' (tomorrow)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to the cinema after dinner.",
+    "correctAnswers": ["Je vais au cinéma après le dîner."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je'. The preposition 'à' contracts with 'le cinéma' to 'au'. The preposition 'après' means 'after', used with 'le dîner' (dinner)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: After work, I go to the gym.",
+    "correctAnswers": ["Après le travail, je vais à la salle de sport."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je'. The preposition 'après' is used with 'le travail' (work). 'À la salle de sport' indicates destination (the gym)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: Marie's book.",
+    "correctAnswers": ["Le livre de Marie."],
+    "explanation": "The preposition 'de' indicates possession, linking 'le livre' (the book, masculine singular) to 'Marie'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I come from France.",
+    "correctAnswers": ["Je viens de France."],
+    "explanation": "The verb 'venir' (to come) is conjugated as 'viens' for 'je'. The preposition 'de' indicates origin, used with 'France'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: A wooden table.",
+    "correctAnswers": ["Une table de bois."],
+    "explanation": "The preposition 'de' indicates material, linking 'une table' (a table, feminine singular) to 'bois' (wood)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am going to the cinema with my friends.",
+    "correctAnswers": ["Je vais au cinéma avec mes amis."],
+    "explanation": "The verb 'aller' is conjugated as 'vais' for 'je'. The preposition 'à' contracts with 'le cinéma' to 'au'. The preposition 'avec' indicates accompaniment, used with 'mes amis'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I write with a pen.",
+    "correctAnswers": ["J’écris avec un stylo."],
+    "explanation": "The verb 'écrire' (to write) is conjugated as 'écris' for 'je'. The preposition 'avec' indicates means, used with 'un stylo' (a pen)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I drink coffee without sugar.",
+    "correctAnswers": ["Je bois du café sans sucre."],
+    "explanation": "The verb 'boire' (to drink) is conjugated as 'bois' for 'je'. The partitive article 'du' is used with 'café'. The preposition 'sans' means 'without', used with 'sucre'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He left without saying goodbye.",
+    "correctAnswers": ["Il est parti sans dire au revoir."],
+    "explanation": "The verb 'partir' (to leave) is conjugated as 'est parti' for 'il' in the present perfect tense with 'être'. The preposition 'sans' is followed by the infinitive 'dire' (to say) and 'au revoir' (goodbye)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's a gift for you.",
+    "correctAnswers": ["C’est un cadeau pour toi."],
+    "explanation": "The construction 'c’est' means 'it is'. The preposition 'pour' indicates the recipient, used with 'toi' (you, informal). 'Un cadeau' is a gift (masculine singular)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I am leaving for Paris.",
+    "correctAnswers": ["Je pars pour Paris."],
+    "explanation": "The verb 'partir' (to leave) is conjugated as 'pars' for 'je' in the present tense. The preposition 'pour' indicates destination, used with 'Paris'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to start to",
+    "correctAnswers": ["commencer à"],
+    "explanation": "The verb 'commencer' (to start) is paired with the preposition 'à' before an infinitive to indicate the beginning of an action, as in 'commencer à pleuvoir' (start to rain)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to continue to",
+    "correctAnswers": ["continuer à"],
+    "explanation": "The verb 'continuer' (to continue) is paired with the preposition 'à' before an infinitive to indicate continuation, as in 'continuer à travailler' (continue to work)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to succeed in",
+    "correctAnswers": ["réussir à"],
+    "explanation": "The verb 'réussir' (to succeed) is paired with the preposition 'à' before an infinitive to indicate success, as in 'réussir à finir' (succeed in finishing)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to learn to",
+    "correctAnswers": ["apprendre à"],
+    "explanation": "The verb 'apprendre' (to learn) is paired with the preposition 'à' before an infinitive to indicate learning a skill, as in 'apprendre à conduire' (learn to drive)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to help to",
+    "correctAnswers": ["aider à"],
+    "explanation": "The verb 'aider' (to help) is paired with the preposition 'à' before an infinitive to indicate assistance, as in 'aider à faire' (help to do)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to try to",
+    "correctAnswers": ["essayer de"],
+    "explanation": "The verb 'essayer' (to try) is paired with the preposition 'de' before an infinitive to indicate an attempt, as in 'essayer de parler' (try to speak)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to need to",
+    "correctAnswers": ["avoir besoin de"],
+    "explanation": "The expression 'avoir besoin de' (to need) is followed by an infinitive or noun to indicate necessity, as in 'avoir besoin de dormir' (need to sleep)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to decide to",
+    "correctAnswers": ["décider de"],
+    "explanation": "The verb 'décider' (to decide) is paired with the preposition 'de' before an infinitive to indicate a decision, as in 'décider de partir' (decide to leave)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to forget to",
+    "correctAnswers": ["oublier de"],
+    "explanation": "The verb 'oublier' (to forget) is paired with the preposition 'de' before an infinitive to indicate forgetting an action, as in 'oublier de fermer' (forget to close)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to allow to",
+    "correctAnswers": ["permettre de"],
+    "explanation": "The verb 'permettre' (to allow) is paired with the preposition 'de' before an infinitive to indicate permission, as in 'permettre d’entrer' (allow to enter)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: to refuse to",
+    "correctAnswers": ["refuser de"],
+    "explanation": "The verb 'refuser' (to refuse) is paired with the preposition 'de' before an infinitive to indicate refusal, as in 'refuser de répondre' (refuse to answer)."
+  }
+]

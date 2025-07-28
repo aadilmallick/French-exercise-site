@@ -72,6 +72,21 @@ To say the equivalents of "'oclock sharp" or "around oclock", you have these wor
 
 To ask, the time, you can say, "Quelle heure est-il ?"
 
+## Days of the week
+
+- **Lundi:** Monday
+- **Mardi:** Tuesday
+- **Mercredi:** Wednesday
+- **Jeudi:** Thursday
+- **Vendredi:** Friday
+- **Samedi:** Saturday
+- **Dimanche:** Sunday
+
+## Months of the year
+
+- **Janvier:** January
+- **Février:** February
+
 ## Practice Quiz
 
 Test your knowledge of telling time in French with this interactive quiz!

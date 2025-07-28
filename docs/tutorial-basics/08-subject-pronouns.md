@@ -48,6 +48,12 @@ Hypothetical Scenario: Imagine you are talking about a new restaurant. You might
 
 - The main difference between _on_ and _ils_ and _elles_ is that _on_ is used when the subject is impersonal, not really referring to any single person or group of people, while _ils_ and _elles_ are used when the subject is a group of people.
 
+### Revisit of the liason rule
+
+ONly the "je" subject pronoun will have the liason rule, contracting with a verb that starts with a vowel:
+
+- Example 1: j'ai une pomme
+
 ## Practice
 
 Translate the following sentences into French, using the correct subject pronouns:

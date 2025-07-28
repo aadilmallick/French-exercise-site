@@ -47,6 +47,10 @@ import Image from '@site/src/components/mdx/Image';
     - _Je vais chez le médecin._ (I’m going to the doctor’s, _Voy al médico_ [no direct equivalent].)
     - _Elle est chez Pierre._ (She’s at Pierre’s house, _Está en casa de Pierre_.)
   - Spanish Comparison: No direct equivalent; closest is _en casa de_.
+- **Sans** (without): Indicates the absence of something.
+  - Examples:
+    - _Je bois du café sans sucre._ (I drink coffee without sugar, _Tomo café sin azúcar_.)
+    - _Il est parti sans dire au revoir._ (He left without saying goodbye, _Se fue sin decir adiós_.)
 
 ### Cheat sheet
 
@@ -59,8 +63,13 @@ import Image from '@site/src/components/mdx/Image';
 | avec        | with               | con                | _Je mange avec mes amis._ (I eat with my friends.)      |
 | chez        | at/to the house of | en casa de         | _Je vais chez le médecin._ (I’m going to the doctor’s.) |
 
+### en vs a for location
+
 - Use _en_ for feminine countries (_en France_), _au_ for masculine (_au Canada_), _aux_ for plural (_aux États-Unis_).
 - Use _a_ for saying you're in a city, but otherwise you can use it exactly the same as in spanish.
+
+### chez
+
 - _Chez_ is used for people’s homes or workplaces (_chez Marie_ = at Marie’s house).
 - No contraction with _la_ or _l’_ (e.g., _à la plage_, _de l’eau_).
 
@@ -83,8 +92,6 @@ import Image from '@site/src/components/mdx/Image';
 | de + le               | du     | _du fromage_ (some cheese)      |
 | de + les              | des    | _des amis_ (some friends)       |
 
----
-
 ## Exercises
 
 1. **Translation**:
@@ -105,15 +112,6 @@ import Image from '@site/src/components/mdx/Image';
    - Without notes, list the contractions for _à_ and _de_ with articles.
    - Say aloud 5 sentences using different prepositions, pronouns, and verbs (e.g., _Nous mangeons du pain._).
 
-| Preposition | Meaning            | Spanish Equivalent | Example Sentence                                        |
-| ----------- | ------------------ | ------------------ | ------------------------------------------------------- |
-| à           | to, at, in         | a                  | _Je vais à Paris._ (I’m going to Paris.)                |
-| de          | of, from           | de                 | _C’est le livre de Marie._ (It’s Marie’s book.)         |
-| en          | in, to, at         | en                 | _J’habite en France._ (I live in France.)               |
-| pour        | for                | para               | _C’est un cadeau pour toi._ (It’s a gift for you.)      |
-| avec        | with               | con                | _Je mange avec mes amis._ (I eat with my friends.)      |
-| chez        | at/to the house of | en casa de         | _Je vais chez le médecin._ (I’m going to the doctor’s.) |
-
 Now it's time for the quiz!
 
 <Quiz exerciseName="prepositions" />
@@ -121,3 +119,5 @@ Now it's time for the quiz!
 <Quiz exerciseName="location-prepositions" />
 
 <Quiz exerciseName="time-prepositions" />
+
+<Quiz exerciseName="advanced-prepositions" />

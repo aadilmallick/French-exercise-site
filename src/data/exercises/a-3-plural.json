@@ -1,0 +1,248 @@
+[
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'cheval'?",
+    "correctAnswers": ["les chevaux"],
+    "explanation": "The noun 'cheval' (horse) ends in -al, so the plural is formed by changing -al to -aux, resulting in 'chevaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'livre'?",
+    "correctAnswers": ["les livres"],
+    "explanation": "The noun 'livre' (book) forms the plural by adding -s to the singular form, resulting in 'livres'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'table'?",
+    "correctAnswers": ["les tables"],
+    "explanation": "The noun 'table' (table) forms the plural by adding -s to the singular form, resulting in 'tables'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'ami'?",
+    "correctAnswers": ["les amis"],
+    "explanation": "The noun 'ami' (friend, masculine) forms the plural by adding -s to the singular form, resulting in 'amis'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'amie'?",
+    "correctAnswers": ["les amies"],
+    "explanation": "The noun 'amie' (friend, feminine) forms the plural by adding -s to the singular form, resulting in 'amies'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'cours'?",
+    "correctAnswers": ["les cours"],
+    "explanation": "The noun 'cours' (course) ends in -s, so it remains unchanged in the plural. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'voix'?",
+    "correctAnswers": ["les voix"],
+    "explanation": "The noun 'voix' (voice) ends in -x, so it remains unchanged in the plural. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'nez'?",
+    "correctAnswers": ["les nez"],
+    "explanation": "The noun 'nez' (nose) ends in -z, so it remains unchanged in the plural. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'bateau'?",
+    "correctAnswers": ["les bateaux"],
+    "explanation": "The noun 'bateau' (boat) ends in -eau, so the plural is formed by adding -x, resulting in 'bateaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'chapeau'?",
+    "correctAnswers": ["les chapeaux"],
+    "explanation": "The noun 'chapeau' (hat) ends in -eau, so the plural is formed by adding -x, resulting in 'chapeaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'noyau'?",
+    "correctAnswers": ["les noyaux"],
+    "explanation": "The noun 'noyau' (pit) ends in -au, so the plural is formed by adding -x, resulting in 'noyaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'jeu'?",
+    "correctAnswers": ["les jeux"],
+    "explanation": "The noun 'jeu' (game) ends in -eu, so the plural is formed by adding -x, resulting in 'jeux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'cheveu'?",
+    "correctAnswers": ["les cheveux"],
+    "explanation": "The noun 'cheveu' (hair) ends in -eu, so the plural is formed by adding -x, resulting in 'cheveux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'pneu'?",
+    "correctAnswers": ["les pneus"],
+    "explanation": "The noun 'pneu' (tire) is an exception to the -eu rule; it forms the plural by adding -s, resulting in 'pneus'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'journal'?",
+    "correctAnswers": ["les journaux"],
+    "explanation": "The noun 'journal' (newspaper) ends in -al, so the plural is formed by changing -al to -aux, resulting in 'journaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'bal'?",
+    "correctAnswers": ["les bals"],
+    "explanation": "The noun 'bal' (ball) is an exception to the -al rule; it forms the plural by adding -s, resulting in 'bals'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'carnaval'?",
+    "correctAnswers": ["les carnavals"],
+    "explanation": "The noun 'carnaval' (carnival) is an exception to the -al rule; it forms the plural by adding -s, resulting in 'carnavals'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'festival'?",
+    "correctAnswers": ["les festivals"],
+    "explanation": "The noun 'festival' (festival) is an exception to the -al rule; it forms the plural by adding -s, resulting in 'festivals'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'détail'?",
+    "correctAnswers": ["les détails"],
+    "explanation": "The noun 'détail' (detail) ends in -ail, so the plural is formed by adding -s, resulting in 'détails'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'travail'?",
+    "correctAnswers": ["les travaux"],
+    "explanation": "The noun 'travail' (work) ends in -ail, but it is an exception that changes to -aux in the plural, resulting in 'travaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'œil'?",
+    "correctAnswers": ["les yeux"],
+    "explanation": "The noun 'œil' (eye) has an irregular plural form, becoming 'yeux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'ciel'?",
+    "correctAnswers": ["les cieux"],
+    "explanation": "The noun 'ciel' (sky) has an irregular plural form, becoming 'cieux' (except in specific contexts like 'ciel de lit'). The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'Monsieur'?",
+    "correctAnswers": ["Messieurs"],
+    "explanation": "The noun 'Monsieur' (Mister) has an irregular plural form, becoming 'Messieurs'. No article is used with this title in the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'Madame'?",
+    "correctAnswers": ["Mesdames"],
+    "explanation": "The noun 'Madame' (Madam) has an irregular plural form, becoming 'Mesdames'. No article is used with this title in the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'Mademoiselle'?",
+    "correctAnswers": ["Mesdemoiselles"],
+    "explanation": "The noun 'Mademoiselle' (Miss) has an irregular plural form, becoming 'Mesdemoiselles'. No article is used with this title in the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'vacances'?",
+    "correctAnswers": ["les vacances"],
+    "explanation": "The noun 'vacances' (vacation) is always plural in French, so it remains 'vacances'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'lunettes'?",
+    "correctAnswers": ["les lunettes"],
+    "explanation": "The noun 'lunettes' (glasses) is always plural in French, so it remains 'lunettes'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'chat'?",
+    "correctAnswers": ["les chats"],
+    "explanation": "The noun 'chat' (cat) forms the plural by adding -s to the singular form, resulting in 'chats'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'chaise'?",
+    "correctAnswers": ["les chaises"],
+    "explanation": "The noun 'chaise' (chair) forms the plural by adding -s to the singular form, resulting in 'chaises'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'stylo'?",
+    "correctAnswers": ["les stylos"],
+    "explanation": "The noun 'stylo' (pen) forms the plural by adding -s to the singular form, resulting in 'stylos'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'fleur'?",
+    "correctAnswers": ["les fleurs"],
+    "explanation": "The noun 'fleur' (flower) forms the plural by adding -s to the singular form, resulting in 'fleurs'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'prix'?",
+    "correctAnswers": ["les prix"],
+    "explanation": "The noun 'prix' (price) ends in -x, so it remains unchanged in the plural. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'poisson'?",
+    "correctAnswers": ["les poissons"],
+    "explanation": "The noun 'poisson' (fish) ends in -s, so it remains unchanged in the plural. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'tableau'?",
+    "correctAnswers": ["les tableaux"],
+    "explanation": "The noun 'tableau' (painting) ends in -eau, so the plural is formed by adding -x, resulting in 'tableaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'oiseau'?",
+    "correctAnswers": ["les oiseaux"],
+    "explanation": "The noun 'oiseau' (bird) ends in -eau, so the plural is formed by adding -x, resulting in 'oiseaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'lieu'?",
+    "correctAnswers": ["les lieux"],
+    "explanation": "The noun 'lieu' (place) ends in -eu, so the plural is formed by adding -x, resulting in 'lieux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'hôpital'?",
+    "correctAnswers": ["les hôpitaux"],
+    "explanation": "The noun 'hôpital' (hospital) ends in -al, so the plural is formed by changing -al to -aux, resulting in 'hôpitaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'travail'?",
+    "correctAnswers": ["les travaux"],
+    "explanation": "The noun 'travail' (work) ends in -ail, but it is an exception that changes to -aux in the plural, resulting in 'travaux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'email'?",
+    "correctAnswers": ["les emails"],
+    "explanation": "The noun 'email' (email) ends in -ail, so the plural is formed by adding -s, resulting in 'emails'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'genou'?",
+    "correctAnswers": ["les genoux"],
+    "explanation": "The noun 'genou' (knee) has an irregular plural form, becoming 'genoux'. The indefinite article 'des' is used for the plural."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the plural form of 'pantalon'?",
+    "correctAnswers": ["les pantalons"],
+    "explanation": "The noun 'pantalon' (pants) is always plural in French, so it remains 'pantalons'. The indefinite article 'des' is used for the plural."
+  }
+]

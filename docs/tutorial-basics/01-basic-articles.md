@@ -1,5 +1,13 @@
 # 1 - Articles + Liason Rule
 
+import Audio from "@site/src/components/mdx/Audio";
+import Quiz from '@site/src/components/quiz/Quiz';
+import LessonCompletedPill from '@site/src/components/quiz/LessonCompletedPill';
+import Image from '@site/src/components/mdx/Image';
+import Toggle from '@site/src/components/mdx/Toggle';
+
+<LessonCompletedPill lessonName="a1-1" />
+
 ## Definite and indefinite articles
 
 In french, unlike english and spanish, a noun must frequently be paired with either a definite article, or an indefinite article.
@@ -13,13 +21,45 @@ Here are the 3 definite articles, which all mean “the”
 
 - **Le**: singular masculine
 - **La**: singular feminine
-- **Les**: plural masculine and feminine,
+- **Les**: plural masculine and feminine
+
+:::important
+You must pronounce **les** differently than **le**, you really need to emphasize the strong "e" in "les". And when a liason rule is applied (the word directly succeeding "les" starts with a vowel), you must pronounce the "s."
+:::
 
 Then here are the three indefinite articles:
 
 - **Des**: plural, equivalent of “some”, but look more at the partitive articles section.
 - **Un**: singular masculine
 - **Une**: singular feminine
+
+## Using definite articles in sentences
+
+### Nationalities
+
+When referring to a country, it is always paired with its definite article.
+
+### Days of the week
+
+Including the definite article when talking about a day of the week changes it to mean something like "each monday" or "every monday", whereas without it, it means "next monday" or a specific monday.
+
+- **Je travaille le lundi**: I work on mondays
+- **Je travaille lundi**: I work monday (next monday)
+
+### Reflexive
+
+Just like in spanish, when doing actions to one's body parts, you will use reflexive verbs, and thus refer to body parts through their definite articles and not with possessive adjectives.
+
+- **Je me lave les mains**: I wash my hands
+- **Je me lave les dents**: I brush my teeth
+- **Je me lave le visage**: I wash my face
+- **Je me lave les cheveux**: I wash my hair
+
+### Months of the year
+
+When referring to a month, it is always paired with its definite article.
+
+- **Je travaille en janvier**: I work in january
 
 ## Liason rule
 
@@ -56,6 +96,16 @@ Here is a table of examples:
 | Me aime ❌       | M'aime ✅       |
 | Je ne aime pas❌ | J n'aime pas ✅ |
 
+### Liason practice
+
+Pronounce these sentences, which all have liasons:
+
+- Je veux les inviter à la fête.
+- Je veux manger des oranges.
+- Je peux t'aider.
+- Je ne peux pas t'aider.
+- Je peux les attendre.
+
 ## Partitive articles
 
 Partitive articles are used to indicate a specific quantity of something. They are used in the same way as the indefinite articles, but they are more specific.
@@ -86,12 +136,16 @@ When pronouncing “des”, the liason rule kicks in: the s is silent except for
 
 Here are some examples:
 
-- Example: *Des livres* (Some books/books). This refers to multiple books, but not specific ones.
-- Example: *Des tables* (Some tables/tables). This refers to multiple tables, but not specific ones.
+- *Des livres* (Some books/books). This refers to multiple books, but not specific ones.
+- *Des tables* (Some tables/tables). This refers to multiple tables, but not specific ones.
 
 ### **de after negation**
 
 When using a negative sentence, the indefinite articles *un, une,* and *des* usually change to *de* (or *d'* before a vowel sound).
+
+:::important
+This only occurs when the negation changes the existence of something, otherwise this rule doesn't apply. For example, _Je n'ai pas de frère._ is correct because negating the sentence changes the existence of the brother.
+:::
 
 - Example: *J'ai un frère.* (I have a brother.)
   - *Je n'ai pas de frère.* (I don't have a brother.)
@@ -100,7 +154,7 @@ When using a negative sentence, the indefinite articles *un, une,* and *des*�
 - Example: *Ils ont des enfants.* (They have children.)
   - *Ils n'ont pas d'enfants.* (They don't have children.)
 
-When a sentence is negative, using “ne … pas” somewhere in it, then all of the endings just get truncated to “de”, like so:
+When a sentence is negative, using “ne … pas” somewhere in it, then all of the endings when using the partitive article just get truncated to “de”, like so:
 
 - I want some milk = **Je veux du lait**
 - I *don't* want any milk = **Je ne veux pas de lait**

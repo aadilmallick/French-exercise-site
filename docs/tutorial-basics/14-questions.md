@@ -75,17 +75,41 @@ Inversion involves switching the order of the subject pronoun and the verb, and 
   - *Marie parle français.* (Marie speaks French.) -> *Marie parle-t-elle français ?* (Does Marie speak French?) - Here, "Marie" is the noun, and "elle" is the corresponding pronoun.
   - *Le professeur est sévère.* (The professor is strict.) -> *Le professeur est-il sévère ?* (Is the professor strict?)
 
+Here are some examples:
+
+- *Vous êtes américain.* (You are American.) -> *Êtes-vous américain ?* (Are you American?)
+- *Il aime lire.* (He likes to read.) -> *Aime-t-il lire ?* (Does he like to read?)
+- *Elle travaille tard.* (She works late.) -> *Travaille-t-elle tard ?* (Does she work late?)
+
+**inversion principle in depth - with pronouns**
+
+How would we say "Where is the key?" in french, wanting to refer to the key as a pronoun?
+
+- Normal version (no pronoun) = Where is the key? = _Ou est la clé ?_
+- Inversion version = Where is it? = _Où-est-elle?_
+
+As you can see for the inversion version, we replace even inanimate objects with their subject pronoun version, swapping "la" for "elle," and similarly, "le" for "il"
+
+Therefore, whenever we have a question involving a pronoun, we can use the inversion principle (or just intonation) with the subject pronoun version of that object. Here are some examples:
+
+- **Ou es-tu?** = Where are you?
+- **Où est-elle?** = Where is she/it?
+- **Où est-il?** = Where is he/it?
+- **Ou suis-je?** = Where am I?
+- **Où est-ce que tu es?** = Where are you?
+
 ## **basic question words**
 
-| French        | English            |
-| ------------- | ------------------ |
-| combien       | how much, how many |
-| quand         | when               |
-| **Où**        | where              |
-| comment       | how                |
-| **Pourquoi?** | why                |
-| Qui           | who                |
-| Quel          | what               |
+| French        | English                  |
+| ------------- | ------------------------ |
+| combien       | how much, how many       |
+| quand         | when                     |
+| **Où**        | where                    |
+| comment       | how                      |
+| **Pourquoi?** | why                      |
+| Qui           | who                      |
+| Quel/Quelle   | what (used as adjective) |
+| Que/Quoi      | what (used as noun)      |
 
 Here are some examples:
 
@@ -134,20 +158,42 @@ Here they are in depth
   - *Combien est-ce que ce livre coûte ?* (How much does this book cost?) - Using *est-ce que*.
   - *Ce livre coûte combien ?* (How much does this book cost?) - Using intonation.
 
-**what**
+### where
 
-To say what, you say “**quel**” but since it can also be an adjective, it has to agree with gender and plurality:
+Où means "where" in french, and contracting de + où gives us "d'où", which means "from where"
+
+- _d'où es-tu?_ = Where are you from?
+- _tu es d'où?_ = Where are you from?
+
+### how much/how many
+
+- _combien de livres as-tu?_ = How many books do you have?
+- _combien de livres est-ce que tu as?_ = How many books do you have?
+- _tu as combien de livres?_ = How many books do you have?
+
+### **what and which**
+
+To say what or which, you say “**quel**” but since it can also be an adjective, it has to agree with gender and plurality:
 
 - **Quels sont tes loisirs? =** What are your hobbies?
   - Since we are asking “what” about a plural masculine object, quel becomes quels, adding an -s to agree with the plurality.
 - **quel est le nom de cela fille? =** What is the name of that girl?
   - “quel” has to agree with the gender and plurality of “nom,” which is singular masculine.
 
-**which**
+|                | Singular | Plural  |
+| -------------- | -------- | ------- |
+| Male version   | quel     | quels   |
+| Female version | quelle   | quelles |
 
-To say which, is is really an adjective that also poses as a question, you say these words:
+## Puij
 
-| Type           | French |
-| -------------- | ------ |
-| Male version   | quel   |
-| Female version | quelle |
+When asking questions starting with “je peux” like “can I?” it becomes “puij”, which is as common as intonation in french. It is more formal, but is an alternative
+
+- _puij les attendre_ = can I wait for them?
+
+## Questions and negation
+
+When dealing with negation in forming questions, you must use inversion and adhere to the “ne … (negative word)” formula:
+
+- _Ne parles-tu pas français ?_ or _Est-ce que tu ne parles pas français ?_ = (Don’t you speak French?,
+- _Pourquoi ne vas-tu jamais au cinéma ? =_ (Why don’t you ever go to the cinema?

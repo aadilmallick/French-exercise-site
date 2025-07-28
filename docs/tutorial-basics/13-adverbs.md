@@ -45,6 +45,15 @@ You can think of adverbs of manner as the normal way of using adverbs.
    - *Example:* *constant* (constant) -> adverb: *constamment* (constantly)
    - *Example:* *évident* (evident) -> adverb: *évidemment* (evidently)
 
+### **adverbs placement**
+
+- **General Rule**: Adverbs usually follow the verb they modify in the present tense.
+  - _Je parle rapidement._ (I speak quickly, _Hablo rápidamente_.)
+  - _Nous allons souvent au cinéma._ (We often go to the cinema, _Vamos a menudo al cine_.)
+- **Adverbs of Time**: Often placed at the sentence’s beginning or end for emphasis.
+  - _Aujourd’hui, je suis fatigué._ (Today, I’m tired, _Hoy estoy cansado_.)
+  - _Je vais à l’école tôt._ (I go to school early, _Voy a la escuela temprano_.)
+
 ### Irregular adverbs
 
 Here are the main irregular adverbs you should memorize:
@@ -75,6 +84,14 @@ Here are the main irregular adverbs you should memorize:
 - **jamais =** never
 - **ensuite** = (then, next)
 - **finalement** = (finally)
+  - **Chaque jour/semaine/mois/année** = (every day/week/month/year):
+    - _Je fais du sport chaque jour._ (I do sports every day.)
+  - **Une fois par semaine/mois/an** = (once a week/month/year):
+    - _Nous allons au restaurant une fois par mois._ (We go to the restaurant once a month.)
+  - **En ce moment** = at the moment
+    - _Nous mangeons en ce moment._ (We are eating at the moment.)
+  - **Ce matin/soir/après-midi** = this morning/evening/afternoon
+    - _Elle arrive ce matin._ (She is arriving this morning.)
 
 ### "Later" in depth
 

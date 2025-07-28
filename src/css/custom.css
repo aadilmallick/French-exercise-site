@@ -793,17 +793,17 @@
 }
 
 /* toggle styles no need since docusaurus already styles. */
-/* .toggle {
-  margin-bottom: 16px;
+.toggle {
+  cursor: pointer;
+  margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 1px solid #e9ecef;
+  border: 2px solid #e9ecef;
   border-radius: 8px;
 }
 
 .toggle-content {
-  margin-top: 8px;
   padding-left: 0.5rem;
-} */
+}
 
 /* lesson completed pill */
 

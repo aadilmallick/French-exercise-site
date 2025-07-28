@@ -7,9 +7,9 @@ interface ToggleProps {
 
 const Toggle: React.FC<ToggleProps> = ({ question, answer }) => {
   return (
-    <details>
+    <details className="toggle">
       <summary>{question}</summary>
-      <div>{answer}</div>
+      <p className="toggle-content">{answer}</p>
     </details>
   );
 };

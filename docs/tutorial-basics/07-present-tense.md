@@ -293,3 +293,14 @@ Faire is the equivalent of hacer in spanish.
 ### Irregulars Practice
 
 <Quiz exerciseName="irregulars-present-tense-conjugation" />
+
+## Reflexive
+
+THe reflexive pronouns are as follows:
+
+- **1st person singular**: me
+- **2nd person singular**: te
+- **3rd person singular**: se
+- **1st person plural**: nous
+- **2nd person plural or formal**: vous
+- **3rd person plural**: se

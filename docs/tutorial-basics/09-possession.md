@@ -45,13 +45,30 @@ however, there are times when the gender of the possessed object does not matter
 1. The noun being possessed starts with a vowel, like “l’orange.” This means that you would use the masculine version - instead of “ma orange”, it would be “mon orange”
 2. For the 1st person plural (nous) and 2nd person formal/plural (vous), the gender of the object does not change the ending.
 
+### In case of vowels
+
 :::info
 The possessive adjectives *mon*, *ton*, and *son* become *mon'*, *ton'*, and *son'* before a feminine singular noun that begins with a vowel or a mute *h*. This is for ease of pronunciation.
 :::
 
+- **Mon** amie (My friend) - Instead of *ma amie*, we use *mon amie*.
+- **Ton** école (Your school) - Instead of *ta école*, we use *ton école*.
+- **Son** histoire (His/Her story) - Instead of *sa histoire*, we use *son histoire*.
+
 ## Possesive pronouns
 
-Possessive pronouns are the quivalent of "mine", "yours", "his", "hers", "ours", "yours", "theirs" in english, which are just the noun versions of the possessive adjectives.
+Possessive pronouns are the equivalent of "mine", "yours", "his", "hers", "ours", "yours", "theirs" in english, which are just the noun versions of the possessive adjectives.
+
+- **_1st person_** (mine) _- le mien/la mienne/les miens/les miennes,_
+- **_2nd person singular informal_** (yours) _- le tien/la tienne/les tiens/les tiennes_
+- **_3rd person_** (his/hers/its) _- le sien/la sienne/les siens/les siennes_
+- **_1st person plural_** (ours) _- le nôtre/la nôtre/les nôtres_
+- **2nd person plural or singular formal** \*_(yours, plural or formal) _- le vôtre/la vôtre/les vôtres\*
+- **3rd person plura\***l* (theirs)*- le leur/la leur/les leurs\*
+
+:::important
+When used in a sentence, possessive pronouns are always preceded by a definite article (le, la, les).
+:::
 
 | **Possessor**               | **Masculine Singular** | **Feminine Singular** | **Masculine Plural** | **Feminine Plural** |
 | --------------------------- | ---------------------- | --------------------- | -------------------- | ------------------- |
@@ -62,6 +79,26 @@ Possessive pronouns are the quivalent of "mine", "yours", "his", "hers", "ours",
 | *vous* (you, formal/plural) | _le vôtre_             | _la vôtre_            | _les vôtres_         | _les vôtres_        |
 | *ils/elles* (they)          | _le leur_              | _la leur_             | _les leurs_          | _les leurs_         |
 
+Here are some great examples to get used to these possessive pronouns:
+
+- C'est **mon** livre. C'est **le mien**. (This is my book. It's mine.)
+- C'est **ma** voiture. C'est **la mienne**. (This is my car. It's mine.)
+- Ce sont **mes** amis. Ce sont **les miens**. (These are my friends. They are mine.)
+- C'est **ton** vélo. C'est **le tien**. (This is your bike. It's yours.)
+- C'est **ta** maison. C'est **la tienne**. (This is your house. It's yours.)
+- Ce sont **tes** chaussures. Ce sont **les tiennes**. (These are your shoes. They are yours.)
+- C'est **son** stylo. C'est **le sien**. (This is his/her pen. It's his/hers.)
+- C'est **sa** montre. C'est **la sienne**. (This is his/her watch. It's his/hers.)
+- Ce sont **ses** idées. Ce sont **les siennes**. (These are his/her ideas. They are his/hers.)
+- C'est **notre** problème. C'est **le nôtre**. (This is our problem. It's ours.)
+- Ce sont **nos** enfants. Ce sont **les nôtres**. (These are our children. They are ours.)
+- C'est **votre** opinion. C'est **la vôtre**. (This is your opinion. It's yours.)
+- Ce sont **vos** projets. Ce sont **les vôtres**. (These are your projects. They are yours.)
+- C'est **leur** jardin. C'est **le leur**. (This is their garden. It's theirs.)
+- Ce sont **leurs** valises. Ce sont **les leurs**. (These are their suitcases. They are theirs.)
+
 ## Quiz
 
 <Quiz exerciseName="possession" />
+
+<Quiz exerciseName="possessive-pronouns" />

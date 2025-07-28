@@ -42,7 +42,7 @@ These special negation words follow the general structure of (ne + verb + negati
 | ne…pas        | not     | no                 | _Je ne parle pas français._ (I don’t speak French.)        |
 | ne…jamais     | never   | nunca              | _Je ne vais jamais à Paris._ (I never go to Paris.)        |
 | ne…rien       | nothing | nada               | _Il ne fait rien aujourd’hui._ (He does nothing today.)    |
-| ne…personne   | nobody  | nadie              | _Personne ne parle maintenant._ (Nobody speaks now.)       |
+| Personne ne   | nobody  | nadie              | _Personne ne parle maintenant._ (Nobody speaks now.)       |
 | ne…plus       | no more | ya no              | _Nous ne travaillons plus tard._ (We no longer work late.) |
 
 ## Casual Speech

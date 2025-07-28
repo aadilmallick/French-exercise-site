@@ -1,0 +1,218 @@
+[
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est mon livre.",
+    "correctAnswers": ["C'est le mien."],
+    "explanation": "The possessive adjective 'mon' (my, masculine singular) is replaced by the possessive pronoun 'le mien' to agree with 'livre' (book, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ma voiture.",
+    "correctAnswers": ["C'est la mienne."],
+    "explanation": "The possessive adjective 'ma' (my, feminine singular) is replaced by the possessive pronoun 'la mienne' to agree with 'voiture' (car, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: Ce sont mes amis.",
+    "correctAnswers": ["Ce sont les miens."],
+    "explanation": "The possessive adjective 'mes' (my, plural) is replaced by the possessive pronoun 'les miens' to agree with 'amis' (friends, masculine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ton vélo.",
+    "correctAnswers": ["C'est le tien."],
+    "explanation": "The possessive adjective 'ton' (your, masculine singular) is replaced by the possessive pronoun 'le tien' to agree with 'vélo' (bike, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ta maison.",
+    "correctAnswers": ["C'est la tienne."],
+    "explanation": "The possessive adjective 'ta' (your, feminine singular) is replaced by the possessive pronoun 'la tienne' to agree with 'maison' (house, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: Ce sont tes chaussures.",
+    "correctAnswers": ["Ce sont les tiennes."],
+    "explanation": "The possessive adjective 'tes' (your, plural) is replaced by the possessive pronoun 'les tiennes' to agree with 'chaussures' (shoes, feminine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est son stylo.",
+    "correctAnswers": ["C'est le sien."],
+    "explanation": "The possessive adjective 'son' (his/her, masculine singular) is replaced by the possessive pronoun 'le sien' to agree with 'stylo' (pen, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est sa montre.",
+    "correctAnswers": ["C'est la sienne."],
+    "explanation": "The possessive adjective 'sa' (his/her, feminine singular) is replaced by the possessive pronoun 'la sienne' to agree with 'montre' (watch, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: Ce sont ses idées.",
+    "correctAnswers": ["Ce sont les siennes."],
+    "explanation": "The possessive adjective 'ses' (his/her, plural) is replaced by the possessive pronoun 'les siennes' to agree with 'idées' (ideas, feminine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est notre problème.",
+    "correctAnswers": ["C'est le nôtre."],
+    "explanation": "The possessive adjective 'notre' (our, singular) is replaced by the possessive pronoun 'le nôtre' to agree with 'problème' (problem, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: Ce sont nos enfants.",
+    "correctAnswers": ["Ce sont les nôtres."],
+    "explanation": "The possessive adjective 'nos' (our, plural) is replaced by the possessive pronoun 'les nôtres' to agree with 'enfants' (children, plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est votre opinion.",
+    "correctAnswers": ["C'est la vôtre."],
+    "explanation": "The possessive adjective 'votre' (your, singular) is replaced by the possessive pronoun 'la vôtre' to agree with 'opinion' (opinion, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: Ce sont vos projets.",
+    "correctAnswers": ["Ce sont les vôtres."],
+    "explanation": "The possessive adjective 'vos' (your, plural) is replaced by the possessive pronoun 'les vôtres' to agree with 'projets' (projects, masculine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est leur jardin.",
+    "correctAnswers": ["C'est le leur."],
+    "explanation": "The possessive adjective 'leur' (their, singular) is replaced by the possessive pronoun 'le leur' to agree with 'jardin' (garden, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: Ce sont leurs valises.",
+    "correctAnswers": ["Ce sont les leurs."],
+    "explanation": "The possessive adjective 'leurs' (their, plural) is replaced by the possessive pronoun 'les leurs' to agree with 'valises' (suitcases, feminine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est mon sac.",
+    "correctAnswers": ["C'est le mien."],
+    "explanation": "The possessive adjective 'mon' (my, masculine singular) is replaced by the possessive pronoun 'le mien' to agree with 'sac' (bag, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ma robe.",
+    "correctAnswers": ["C'est la mienne."],
+    "explanation": "The possessive adjective 'ma' (my, feminine singular) is replaced by the possessive pronoun 'la mienne' to agree with 'robe' (dress, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Ce sont mes livres.",
+    "correctAnswers": ["Ce sont les miens."],
+    "explanation": "The possessive adjective 'mes' (my, plural) is replaced by the possessive pronoun 'les miens' to agree with 'livres' (books, masculine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ton chapeau.",
+    "correctAnswers": ["C'est le tien."],
+    "explanation": "The possessive adjective 'ton' (your, masculine singular) is replaced by the possessive pronoun 'le tien' to agree with 'chapeau' (hat, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ta chaise.",
+    "correctAnswers": ["C'est la tienne."],
+    "explanation": "The possessive adjective 'ta' (your, feminine singular) is replaced by the possessive pronoun 'la tienne' to agree with 'chaise' (chair, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Ce sont tes lunettes.",
+    "correctAnswers": ["Ce sont les tiennes."],
+    "explanation": "The possessive adjective 'tes' (your, plural) is replaced by the possessive pronoun 'les tiennes' to agree with 'lunettes' (glasses, feminine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est son téléphone.",
+    "correctAnswers": ["C'est le sien."],
+    "explanation": "The possessive adjective 'son' (his/her, masculine singular) is replaced by the possessive pronoun 'le sien' to agree with 'téléphone' (phone, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est sa lampe.",
+    "correctAnswers": ["C'est la sienne."],
+    "explanation": "The possessive adjective 'sa' (his/her, feminine singular) is replaced by the possessive pronoun 'la sienne' to agree with 'lampe' (lamp, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Ce sont ses photos.",
+    "correctAnswers": ["Ce sont les siennes."],
+    "explanation": "The possessive adjective 'ses' (his/her, plural) is replaced by the possessive pronoun 'les siennes' to agree with 'photos' (photos, feminine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est notre tableau.",
+    "correctAnswers": ["C'est le nôtre."],
+    "explanation": "The possessive adjective 'notre' (our, singular) is replaced by the possessive pronoun 'le nôtre' to agree with 'tableau' (painting, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Ce sont nos idées.",
+    "correctAnswers": ["Ce sont les nôtres."],
+    "explanation": "The possessive adjective 'nos' (our, plural) is replaced by the possessive pronoun 'les nôtres' to agree with 'idées' (ideas, feminine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est votre livre.",
+    "correctAnswers": ["C'est le vôtre."],
+    "explanation": "The possessive adjective 'votre' (your, singular) is replaced by the possessive pronoun 'le vôtre' to agree with 'livre' (book, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est votre chaise.",
+    "correctAnswers": ["C'est la vôtre."],
+    "explanation": "The possessive adjective 'votre' (your, singular) is replaced by the possessive pronoun 'la vôtre' to agree with 'chaise' (chair, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Ce sont vos vêtements.",
+    "correctAnswers": ["Ce sont les vôtres."],
+    "explanation": "The possessive adjective 'vos' (your, plural) is replaced by the possessive pronoun 'les vôtres' to agree with 'vêtements' (clothes, masculine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est leur bureau.",
+    "correctAnswers": ["C'est le leur."],
+    "explanation": "The possessive adjective 'leur' (their, singular) is replaced by the possessive pronoun 'le leur' to agree with 'bureau' (desk, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Ce sont leurs jouets.",
+    "correctAnswers": ["Ce sont les leurs."],
+    "explanation": "The possessive adjective 'leurs' (their, plural) is replaced by the possessive pronoun 'les leurs' to agree with 'jouets' (toys, masculine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est mon ordinateur.",
+    "correctAnswers": ["C'est le mien."],
+    "explanation": "The possessive adjective 'mon' (my, masculine singular) is replaced by the possessive pronoun 'le mien' to agree with 'ordinateur' (computer, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ma table.",
+    "correctAnswers": ["C'est la mienne."],
+    "explanation": "The possessive adjective 'ma' (my, feminine singular) is replaced by the possessive pronoun 'la mienne' to agree with 'table' (table, feminine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Ce sont mes chiens.",
+    "correctAnswers": ["Ce sont les miens."],
+    "explanation": "The possessive adjective 'mes' (my, plural) is replaced by the possessive pronoun 'les miens' to agree with 'chiens' (dogs, masculine plural). 'Ce sont' is used for a plural noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ton portefeuille.",
+    "correctAnswers": ["C'est le tien."],
+    "explanation": "The possessive adjective 'ton' (your, masculine singular) is replaced by the possessive pronoun 'le tien' to agree with 'portefeuille' (wallet, masculine singular). 'C'est' is used for a singular noun."
+  },
+  {
+    "type": "free_response",
+    "question": "Change to possessive pronoun: C'est ta veste.",
+    "correctAnswers": ["C'est la tienne."],
+    "explanation": "The possessive adjective 'ta' (your, feminine singular) is replaced by the possessive pronoun 'la tienne' to agree with 'veste' (jacket, feminine singular). 'C'est' is used for a singular noun."
+  }
+]

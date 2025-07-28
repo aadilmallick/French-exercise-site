@@ -8,12 +8,15 @@ import a18AvoirExercise from "../../data/exercises/a1-7-avoir.json";
 import a10PrepositionsExercise from "../../data/exercises/a1-10-prepositions.json";
 import a11AdjectivesExercise from "../../data/exercises/a1-11adjectives.json";
 import a9PossessionExercise from "../../data/exercises/a1-9-possesion.json";
+import a9PossessivePronounsExercise from "../../data/exercises/a-9-possessive-pronouns.json";
 import a113AdverbsExercise from "../../data/exercises/a1-13adverbs.json";
 import a110LocationPrepositionsExercise from "../../data/exercises/a1-10-location-prepositions.json";
 import a110TimePrepositionsExercise from "../../data/exercises/a1-10-time-prepositions.json";
 import a112NegationExercise from "../../data/exercises/a1-12-negation.json";
 import a13AdverbsOfMannerExercise from "../../data/exercises/a13-adverbs-of-manner.json";
 import a13AllAdverbTypesExercise from "../../data/exercises/a-13-alladverbtypes.json";
+import a110AdvancedPrepositionsExercise from "../../data/exercises/a1-10-advanced-prepositions.json";
+import a3PluralExercise from "../../data/exercises/a-3-plural.json";
 
 interface Question {
   type: "multiple_choice" | "fill_in_blank" | "multi_select" | "free_response";
@@ -613,6 +616,11 @@ const quizPropMap = {
     exerciseName: "possession",
     questions: a9PossessionExercise as Question[],
   },
+  "possessive-pronouns": {
+    title: "Possessive Pronouns",
+    exerciseName: "possessive-pronouns",
+    questions: a9PossessivePronounsExercise as Question[],
+  },
   adverbs: {
     title: "Adverbs",
     exerciseName: "adverbs",
@@ -642,6 +650,16 @@ const quizPropMap = {
     title: "All Adverb Types",
     exerciseName: "all-adverb-types",
     questions: a13AllAdverbTypesExercise as Question[],
+  },
+  "advanced-prepositions": {
+    title: "Advanced Prepositions",
+    exerciseName: "advanced-prepositions",
+    questions: a110AdvancedPrepositionsExercise as Question[],
+  },
+  plural: {
+    title: "Plural",
+    exerciseName: "plural",
+    questions: a3PluralExercise as Question[],
   },
 };
 
