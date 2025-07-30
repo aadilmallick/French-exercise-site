@@ -45,6 +45,19 @@ These special negation words follow the general structure of (ne + verb + negati
 | Personne ne   | nobody  | nadie              | _Personne ne parle maintenant._ (Nobody speaks now.)       |
 | ne…plus       | no more | ya no              | _Nous ne travaillons plus tard._ (We no longer work late.) |
 
+### **pas encore**
+
+The “pas encore” combination in a negative sentence means “not yet” and can be used like so:
+
+:::tip
+Keep in mind the liason, pronouncing the "s" in "pas encore" as a soft "z"
+:::
+
+- Je n'ai pas encore mangé = I haven't eaten yet
+- Je ne les ai pas encore mangé = I haven't eaten them yet
+- Ne l'as-tu pas cuisiné ? = Haven't you cooked it?
+- Ne l'as-tu pas encore cuisiné ? = Haven't you cooked it yet?
+
 ## Casual Speech
 
 In casual speech, the “ne” is often omitted, leaving only the negative words “pas, jamais, rien” as the indicators of a negative statement.

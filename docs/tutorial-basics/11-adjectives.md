@@ -102,6 +102,18 @@ For example, _grand_ + _vrai_
 - *Un vieil ami* (before): a long-standing friend
 - *Un ami vieux* (after): an old (in age) friend
 
+### **infinitives + adjectives**
+
+---
+
+If if you want to describe an infinitive with an adjective, you need to use the “de” preposition as glue between the adjective and the infinitive, following this formula:
+
+> adjective + “de” + infinitive
+
+- Example: _Cest impossible de faire_ → It’s impossible to do
+- Example: _Cest impossible de le faire_ → It’s impossible to do it
+  - In this example, we do not do the contraction of “de” + “le” = “du” because we’re not dealing with partitive articles here, we are dealing with direct and indirect objects.
+
 ## Common adjectives to Memorize
 
 - _grand_ (big/large, _grande_, _grands_, _grandes_): _Un grand arbre_ (A big tree, _Un árbol grande_).

@@ -58,6 +58,25 @@ _Example:_
 - Original: *Il donne le livre **à moi**.* (He gives the book to me.)
 - With pronoun: *Il **me** donne le livre.* (He gives me the book.) (*me* replaces *à moi*)
 
+### **direct and indirect object order with verbs in past tense**
+
+When you have multiple verbs in an object along with an indirect or direct object and you are using the past tense, the object always gets paired with the first verb in the sentence, like so:
+
+- l’as tu fondu? = have you melted it? ✅
+  - Direct object is paired with avoir conjugation
+- Tu l’as fondu? = have you melted it? ✅
+  - Direct object is paired with avoir conjugation
+- Tu as le fondu? = have you melted it? ❌
+  - Direct object should not be paired with participle
+- As-tu le fondu? = have you melted it? ❌
+  - Direct object should not be paired with participle
+
+Here are some more examples:
+
+- nous les avons fondu = We have melted them
+- As-tu perdu les cles encore? = have you lost the keys again?
+- quand l'ont-ils perdu? = When did they lose it
+
 ## **dealing with verbs starting with vowels - liason rule**
 
 Whenever you have a verb or infinitive starting with a vowel and you have the direct object before it, you smush them together with an apostrophe, like so
