@@ -1,5 +1,12 @@
 # 3 - Plurality
 
+import Audio from "@site/src/components/mdx/Audio";
+import Quiz from '@site/src/components/quiz/Quiz';
+import LessonCompletedPill from '@site/src/components/quiz/LessonCompletedPill';
+import Image from '@site/src/components/mdx/Image';
+
+<LessonCompletedPill lessonName="a1-3" />
+
 ## Basic Plurality
 
 The most common way to form the plural of a noun is by adding "-s" to the singular form.

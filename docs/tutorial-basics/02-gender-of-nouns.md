@@ -1,5 +1,12 @@
 # 2 - Gender of nouns
 
+import Audio from "@site/src/components/mdx/Audio";
+import Quiz from '@site/src/components/quiz/Quiz';
+import LessonCompletedPill from '@site/src/components/quiz/LessonCompletedPill';
+import Image from '@site/src/components/mdx/Image';
+
+<LessonCompletedPill lessonName="a1-2" />
+
 ## Nouns basics
 
 There are only feminine and masculine nouns in french, and no neutral, meaning every noun has a gender.
