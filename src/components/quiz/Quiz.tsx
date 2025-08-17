@@ -737,7 +737,7 @@ const quizPropMap = {
   "nouns-gender": {
     title: "Gender of Nouns",
     exerciseName: "nouns-gender",
-    questions: a2NounsGenderExercise as Question[],
+    questions: randomShuffle(a2NounsGenderExercise as Question[], 1),
   },
   articles: {
     title: "Articles",
@@ -745,6 +745,25 @@ const quizPropMap = {
     questions: a11ArticlesExercise as Question[],
   },
 };
+
+function randomShuffle<T>(array: T[], seed: number): T[] {
+  // Create a copy of the array to avoid mutating the original
+  const shuffled = [...array];
+
+  // Create seeded random number generator
+  const seededRandom = () => {
+    seed = (seed * 16807) % 2147483647;
+    return (seed - 1) / 2147483646;
+  };
+
+  // Fisher-Yates shuffle algorithm with seeded random
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(seededRandom() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+
+  return shuffled;
+}
 
 // Wrap the component with BrowserOnly to ensure it only renders on the client
 const Quiz: React.FC<{ exerciseName: keyof typeof quizPropMap }> = ({
