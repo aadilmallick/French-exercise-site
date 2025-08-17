@@ -39,6 +39,10 @@ Then here are the three indefinite articles:
 
 When referring to a country, it is always paired with its definite article.
 
+- _La France_: France ends in an "e", therefore it is a feminine country.
+- _Les Etats-Unis_: United States is plural.
+- _Le Japon_: Japan ends in a consonant, therefore it is a masculine country.
+
 ### Days of the week
 
 Including the definite article when talking about a day of the week changes it to mean something like "each monday" or "every monday", whereas without it, it means "next monday" or a specific monday.
@@ -54,12 +58,6 @@ Just like in spanish, when doing actions to one's body parts, you will use refle
 - **Je me lave les dents**: I brush my teeth
 - **Je me lave le visage**: I wash my face
 - **Je me lave les cheveux**: I wash my hair
-
-### Months of the year
-
-When referring to a month, it is always paired with its definite article.
-
-- **Je travaille en janvier**: I work in january
 
 ## Liason rule
 
@@ -158,3 +156,16 @@ When a sentence is negative, using “ne … pas” somewhere in it, then all of
 
 - I want some milk = **Je veux du lait**
 - I *don't* want any milk = **Je ne veux pas de lait**
+
+**summary**
+
+In summary, here are the rules for using articles with negation:
+
+1. If using an indefinite article, we truncate to the partitive article "de" instead if talking about negating the existence of something
+2. If using a partitive article, we truncate to the partitive article "de" no matter what, when using negation in a sentence.
+
+## Practice Exercises
+
+Test your knowledge of articles with these exercises:
+
+<Quiz exerciseName="articles" />

@@ -17,6 +17,9 @@ import a13AdverbsOfMannerExercise from "../../data/exercises/a13-adverbs-of-mann
 import a13AllAdverbTypesExercise from "../../data/exercises/a-13-alladverbtypes.json";
 import a110AdvancedPrepositionsExercise from "../../data/exercises/a1-10-advanced-prepositions.json";
 import a3PluralExercise from "../../data/exercises/a-3-plural.json";
+import a1WeatherExercise from "../../data/exercises/a1-weather.json";
+import a2NounsGenderExercise from "../../data/exercises/a-2-nounsgender.json";
+import a11ArticlesExercise from "../../data/exercises/a1-1-articles.json";
 
 interface Question {
   type: "multiple_choice" | "fill_in_blank" | "multi_select" | "free_response";
@@ -660,6 +663,21 @@ const quizPropMap = {
     title: "Plural",
     exerciseName: "plural",
     questions: a3PluralExercise as Question[],
+  },
+  weather: {
+    title: "Weather",
+    exerciseName: "weather",
+    questions: a1WeatherExercise as Question[],
+  },
+  "nouns-gender": {
+    title: "Gender of Nouns",
+    exerciseName: "nouns-gender",
+    questions: a2NounsGenderExercise as Question[],
+  },
+  articles: {
+    title: "Articles",
+    exerciseName: "articles",
+    questions: a11ArticlesExercise as Question[],
   },
 };
 

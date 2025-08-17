@@ -43,7 +43,6 @@ The following endings typically signal masculine nouns, but there are exceptions
 - **Nouns ending in -in**: _un vin, un voisin_
 - **Nouns ending in -isme**: _un organisme_
 - **Nouns ending in -oir**: _un rasoir_
-- **Nouns ending in -isme**: _un organisme_
 - **Nouns ending in -ou**: _un trou, un clou, un hibou_
 - **nouns ending in -on:** _un garcon_, _un avion_
 
@@ -66,7 +65,7 @@ These are the common feminine ending nouns, but there are exceptions.
   - -**ure endings:** _une aventure, une rayure, une voiture_
 - **Nouns ending in -sion,**
 - **Nouns ending in -tion,**
-- **Nouns ending in -té:**
+- **Nouns ending in -té:** _la probabilité_
 
 ## **gender-specific people objects**
 
@@ -109,3 +108,9 @@ Sometimes, the above rule can be violated and you can have gender-specific objec
 
 - Un/Une architect
 - Un/Une enfant
+
+## Practice Exercises
+
+Test your knowledge of noun gender with these exercises:
+
+<Quiz exerciseName="nouns-gender" />

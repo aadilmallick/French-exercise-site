@@ -1,0 +1,86 @@
+[
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's raining.",
+    "correctAnswers": ["Il pleut."],
+    "explanation": "The verb 'pleuvoir' (to rain) is conjugated as 'pleut' for the third person singular. 'Il pleut' literally means 'it rains' but translates to 'it's raining'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's snowing.",
+    "correctAnswers": ["Il niege."],
+    "explanation": "The verb 'neiger' (to snow) is conjugated as 'niege' for the third person singular. 'Il niege' literally means 'it snows' but translates to 'it's snowing'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's windy.",
+    "correctAnswers": ["Il y a du vent."],
+    "explanation": "The expression 'il y a du vent' literally means 'there is some wind' but translates to 'it's windy' in English."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: How's the weather?",
+    "correctAnswers": ["Quel temps fait-il?"],
+    "explanation": "The question 'Quel temps fait-il?' literally means 'What weather does it make?' but translates to 'How's the weather?' in English."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's foggy.",
+    "correctAnswers": ["Il y a du brouillard."],
+    "explanation": "The expression 'il y a du brouillard' literally means 'there is some fog' but translates to 'it's foggy' in English."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's hot.",
+    "correctAnswers": ["Il fait chaud."],
+    "explanation": "The expression 'il fait chaud' literally means 'it makes hot' but translates to 'it's hot' in English. This follows the same pattern as Spanish 'hace calor'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's cold.",
+    "correctAnswers": ["Il fait froid."],
+    "explanation": "The expression 'il fait froid' literally means 'it makes cold' but translates to 'it's cold' in English. This follows the same pattern as Spanish 'hace frio'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's cool.",
+    "correctAnswers": ["Il fait frais."],
+    "explanation": "The expression 'il fait frais' literally means 'it makes cool' but translates to 'it's cool' in English. Note that 'frais' means 'cool' in terms of temperature."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's nice weather.",
+    "correctAnswers": ["Il fait beau."],
+    "explanation": "The expression 'il fait beau' literally means 'it makes beautiful' but translates to 'it's nice weather' in English. This follows the same pattern as Spanish 'hace buen tiempo'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's raining today.",
+    "correctAnswers": ["Il pleut aujourd'hui."],
+    "explanation": "Combine 'Il pleut' (it's raining) with 'aujourd'hui' (today) to say 'It's raining today.'"
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's cold in winter.",
+    "correctAnswers": ["Il fait froid en hiver."],
+    "explanation": "Combine 'Il fait froid' (it's cold) with 'en hiver' (in winter) to say 'It's cold in winter.'"
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's hot in summer.",
+    "correctAnswers": ["Il fait chaud en été."],
+    "explanation": "Combine 'Il fait chaud' (it's hot) with 'en été' (in summer) to say 'It's hot in summer.'"
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: The weather is bad.",
+    "correctAnswers": ["Il fait mauvais."],
+    "explanation": "The expression 'il fait mauvais' literally means 'it makes bad' but translates to 'the weather is bad' in English."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: It's sunny.",
+    "correctAnswers": ["Il fait soleil.", "Il y a du soleil."],
+    "explanation": "You can say either 'Il fait soleil' (it makes sun) or 'Il y a du soleil' (there is some sun) to express 'it's sunny.'"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Je bois ____ eau.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["de l'"],
+    "explanation": "The noun 'eau' is feminine singular and starts with a vowel, so the partitive article is 'de l'' (some water)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il mange ____ pain.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'pain' is masculine singular, so the partitive article is 'du' (some bread)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle boit ____ bière.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["de la"],
+    "explanation": "The noun 'bière' is feminine singular, so the partitive article is 'de la' (some beer)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous avons ____ amis.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["des"],
+    "explanation": "The noun 'amis' is plural, so the partitive article is 'des' (some friends)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu manges ____ orange.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["de l'"],
+    "explanation": "The noun 'orange' is feminine singular and starts with a vowel, so the partitive article is 'de l'' (some orange)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je veux ____ fromage.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'fromage' is masculine singular, so the partitive article is 'du' (some cheese)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle achète ____ lait.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'lait' is masculine singular, so the partitive article is 'du' (some milk)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous prenons ____ café.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'café' is masculine singular, so the partitive article is 'du' (some coffee)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu as ____ pommes.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["des"],
+    "explanation": "The noun 'pommes' is plural, so the partitive article is 'des' (some apples)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il boit ____ vin.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'vin' is masculine singular, so the partitive article is 'du' (some wine)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle mange ____ salade.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["de la"],
+    "explanation": "The noun 'salade' is feminine singular, so the partitive article is 'de la' (some salad)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous achetons ____ fruits.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["des"],
+    "explanation": "The noun 'fruits' is plural, so the partitive article is 'des' (some fruits)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je prépare ____ omelette.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["de l'"],
+    "explanation": "The noun 'omelette' is feminine singular and starts with a vowel, so the partitive article is 'de l'' (some omelette)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu as ____ chocolat.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'chocolat' is masculine singular, so the partitive article is 'du' (some chocolate)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Il y a ____ glace.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["de la"],
+    "explanation": "The noun 'glace' is feminine singular, so the partitive article is 'de la' (some ice cream)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous avons ____ légumes.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["des"],
+    "explanation": "The noun 'légumes' is plural, so the partitive article is 'des' (some vegetables)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elle boit ____ jus d'orange.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'jus' is masculine singular, so the partitive article is 'du' (some orange juice)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Je mange ____ viande.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["de la"],
+    "explanation": "The noun 'viande' is feminine singular, so the partitive article is 'de la' (some meat)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tu as ____ beurre.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'beurre' is masculine singular, so the partitive article is 'du' (some butter)."
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Nous prenons ____ thé.",
+    "options": ["du", "de la", "de l'", "des"],
+    "correctAnswers": ["du"],
+    "explanation": "The noun 'thé' is masculine singular, so the partitive article is 'du' (some tea)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I have a brother.",
+    "correctAnswers": ["J’ai un frère."],
+    "explanation": "The verb 'avoir' is conjugated as 'ai' for 'je' in the present tense. 'Un frère' uses the indefinite article 'un' for masculine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I don't have a brother.",
+    "correctAnswers": ["Je n’ai pas de frère."],
+    "explanation": "In negation, the indefinite article 'un' becomes the partitive 'de' (any/no) in negative sentences, meaning 'any brother'. The verb 'avoir' is conjugated as 'ai' with negation 'n’...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She has a car.",
+    "correctAnswers": ["Elle a une voiture."],
+    "explanation": "The verb 'avoir' is conjugated as 'a' for 'elle' in the present tense. 'Une voiture' uses the indefinite article 'une' for feminine singular nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She doesn't have a car.",
+    "correctAnswers": ["Elle n’a pas de voiture."],
+    "explanation": "In negation, the indefinite article 'une' becomes the partitive 'de' (any/no) in negative sentences, meaning 'any car'. The verb 'avoir' is conjugated as 'a' with negation 'n’...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They have children.",
+    "correctAnswers": ["Ils ont des enfants."],
+    "explanation": "The verb 'avoir' is conjugated as 'ont' for 'ils' in the present tense. 'Des enfants' uses the indefinite article 'des' for plural nouns."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They don't have children.",
+    "correctAnswers": ["Ils n’ont pas d’enfants."],
+    "explanation": "In negation, the indefinite article 'des' becomes the partitive 'de' (any/no) in negative sentences, with 'd’’ before a vowel like 'enfants', meaning 'any children'. The verb 'avoir' is conjugated as 'ont' with negation 'n’...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I want some milk.",
+    "correctAnswers": ["Je veux du lait."],
+    "explanation": "The verb 'vouloir' is conjugated as 'veux' for 'je' in the present tense. 'Du lait' uses the partitive article 'du' for masculine singular uncountable nouns like 'lait' (milk)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I don't want any milk.",
+    "correctAnswers": ["Je ne veux pas de lait."],
+    "explanation": "In negation, the partitive article 'du' becomes 'de' (any/no) in negative sentences, meaning 'any milk'. The verb 'vouloir' is conjugated as 'veux' with negation 'ne...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He eats some bread.",
+    "correctAnswers": ["Il mange du pain."],
+    "explanation": "The verb 'manger' is conjugated as 'mange' for 'il' in the present tense. 'Du pain' uses the partitive article 'du' for masculine singular uncountable nouns like 'pain' (bread)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: He doesn't eat any bread.",
+    "correctAnswers": ["Il ne mange pas de pain."],
+    "explanation": "In negation, the partitive article 'du' becomes 'de' (any/no) in negative sentences. The verb 'manger' is conjugated as 'mange' with negation 'ne...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She drinks some water.",
+    "correctAnswers": ["Elle boit de l’eau."],
+    "explanation": "The verb 'boire' is conjugated as 'boit' for 'elle' in the present tense. 'De l’eau' uses the partitive article 'de l'' for feminine singular nouns starting with a vowel like 'eau' (water)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She doesn't drink any water.",
+    "correctAnswers": ["Elle ne boit pas d’eau."],
+    "explanation": "In negation, the partitive article 'de l’’ becomes 'd’’ (any/no) before a vowel in negative sentences. The verb 'boire' is conjugated as 'boit' with negation 'ne...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We have some friends.",
+    "correctAnswers": ["Nous avons des amis."],
+    "explanation": "The verb 'avoir' is conjugated as 'avons' for 'nous' in the present tense. 'Des amis' uses the partitive article 'des' for plural nouns like 'amis' (friends)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: We don't have any friends.",
+    "correctAnswers": ["Nous n’avons pas d’amis."],
+    "explanation": "In negation, the partitive article 'des' becomes 'de' (any/no) in negative sentences, with 'd’’ before a vowel like 'amis'. The verb 'avoir' is conjugated as 'avons' with negation 'n’...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I buy some cheese.",
+    "correctAnswers": ["J’achète du fromage."],
+    "explanation": "The verb 'acheter' is conjugated as 'achète' for 'je' in the present tense. 'Du fromage' uses the partitive article 'du' for masculine singular uncountable nouns like 'fromage' (cheese)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: I don't buy any cheese.",
+    "correctAnswers": ["Je n’achète pas de fromage."],
+    "explanation": "In negation, the partitive article 'du' becomes 'de' (any/no) in negative sentences. The verb 'acheter' is conjugated as 'achète' with negation 'ne...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She wants some wine.",
+    "correctAnswers": ["Elle veut du vin."],
+    "explanation": "The verb 'vouloir' is conjugated as 'veut' for 'elle' in the present tense. 'Du vin' uses the partitive article 'du' for masculine singular uncountable nouns like 'vin' (wine)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: She doesn't want any wine.",
+    "correctAnswers": ["Elle ne veut pas de vin."],
+    "explanation": "In negation, the partitive article 'du' becomes 'de' (any/no) in negative sentences. The verb 'vouloir' is conjugated as 'veut' with negation 'ne...pas'."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They eat some fruit.",
+    "correctAnswers": ["Ils mangent des fruits."],
+    "explanation": "The verb 'manger' is conjugated as 'mangent' for 'ils' in the present tense. 'Des fruits' uses the partitive article 'des' for plural nouns like 'fruits' (fruit)."
+  },
+  {
+    "type": "free_response",
+    "question": "Translate into French: They don't eat any fruit.",
+    "correctAnswers": ["Ils ne mangent pas de fruits."],
+    "explanation": "In negation, the partitive article 'des' becomes 'de' (any/no) in negative sentences. The verb 'manger' is conjugated as 'mangent' with negation 'ne...pas'."
+  }
+]

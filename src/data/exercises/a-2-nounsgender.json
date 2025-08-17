@@ -1,0 +1,816 @@
+[
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'ami'?",
+    "correctAnswers": ["amie"],
+    "explanation": "The masculine noun 'ami' (friend) forms the feminine by adding -e, resulting in 'amie'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'amie'?",
+    "correctAnswers": ["ami"],
+    "explanation": "The feminine noun 'amie' (friend) forms the masculine by removing the -e, resulting in 'ami'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'Monsieur'?",
+    "correctAnswers": ["Madame"],
+    "explanation": "The masculine title 'Monsieur' (Mister) has an irregular feminine form, 'Madame' (Madam)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'Madame'?",
+    "correctAnswers": ["Monsieur"],
+    "explanation": "The feminine title 'Madame' (Madam) has an irregular masculine form, 'Monsieur' (Mister)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'étudiant'?",
+    "correctAnswers": ["étudiante"],
+    "explanation": "The masculine noun 'étudiant' (student) forms the feminine by adding -e, resulting in 'étudiante'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'étudiante'?",
+    "correctAnswers": ["étudiant"],
+    "explanation": "The feminine noun 'étudiante' (student) forms the masculine by removing the -e, resulting in 'étudiant'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'acteur'?",
+    "correctAnswers": ["actrice"],
+    "explanation": "The masculine noun 'acteur' (actor) forms the feminine by changing -eur to -rice, resulting in 'actrice'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'actrice'?",
+    "correctAnswers": ["acteur"],
+    "explanation": "The feminine noun 'actrice' (actress) forms the masculine by changing -rice to -eur, resulting in 'acteur'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'serveur'?",
+    "correctAnswers": ["serveuse"],
+    "explanation": "The masculine noun 'serveur' (waiter) forms the feminine by changing -eur to -euse, resulting in 'serveuse'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'serveuse'?",
+    "correctAnswers": ["serveur"],
+    "explanation": "The feminine noun 'serveuse' (waitress) forms the masculine by changing -euse to -eur, resulting in 'serveur'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'cousin'?",
+    "correctAnswers": ["cousine"],
+    "explanation": "The masculine noun 'cousin' (cousin) forms the feminine by adding -e, resulting in 'cousine'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'cousine'?",
+    "correctAnswers": ["cousin"],
+    "explanation": "The feminine noun 'cousine' (cousin) forms the masculine by removing the -e, resulting in 'cousin'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'professeur'?",
+    "correctAnswers": ["professeure"],
+    "explanation": "The masculine noun 'professeur' (teacher) forms the feminine by adding -e, resulting in 'professeure'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'professeure'?",
+    "correctAnswers": ["professeur"],
+    "explanation": "The feminine noun 'professeure' (teacher) forms the masculine by removing the -e, resulting in 'professeur'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'docteur'?",
+    "correctAnswers": ["docteure"],
+    "explanation": "The masculine noun 'docteur' (doctor) forms the feminine by adding -e, resulting in 'docteure'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'docteure'?",
+    "correctAnswers": ["docteur"],
+    "explanation": "The feminine noun 'docteure' (doctor) forms the masculine by removing the -e, resulting in 'docteur'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'chat'?",
+    "correctAnswers": ["chatte"],
+    "explanation": "The masculine noun 'chat' (cat) forms the feminine by adding -te, resulting in 'chatte'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'chatte'?",
+    "correctAnswers": ["chat"],
+    "explanation": "The feminine noun 'chatte' (cat) forms the masculine by removing the -te, resulting in 'chat'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'chien'?",
+    "correctAnswers": ["chienne"],
+    "explanation": "The masculine noun 'chien' (dog) forms the feminine by adding -ne, resulting in 'chienne'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'chienne'?",
+    "correctAnswers": ["chien"],
+    "explanation": "The feminine noun 'chienne' (dog) forms the masculine by removing the -ne, resulting in 'chien'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'ami'?",
+    "correctAnswers": ["amie"],
+    "explanation": "The masculine noun 'ami' (friend) forms the feminine by adding -e, resulting in 'amie'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'amie'?",
+    "correctAnswers": ["ami"],
+    "explanation": "The feminine noun 'amie' (friend) forms the masculine by removing the -e, resulting in 'ami'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'cuisinier'?",
+    "correctAnswers": ["cuisinière"],
+    "explanation": "The masculine noun 'cuisinier' (cook) forms the feminine by changing -ier to -ière, resulting in 'cuisinière'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'cuisinière'?",
+    "correctAnswers": ["cuisinier"],
+    "explanation": "The feminine noun 'cuisinière' (cook) forms the masculine by changing -ière to -ier, resulting in 'cuisinier'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'frère'?",
+    "correctAnswers": ["sœur"],
+    "explanation": "The masculine noun 'frère' (brother) has an irregular feminine form, 'sœur' (sister)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'sœur'?",
+    "correctAnswers": ["frère"],
+    "explanation": "The feminine noun 'sœur' (sister) has an irregular masculine form, 'frère' (brother)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'roi'?",
+    "correctAnswers": ["reine"],
+    "explanation": "The masculine noun 'roi' (king) forms the feminine by changing -oi to -eine, resulting in 'reine' (queen)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'reine'?",
+    "correctAnswers": ["roi"],
+    "explanation": "The feminine noun 'reine' (queen) forms the masculine by changing -eine to -oi, resulting in 'roi' (king)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'chanteur'?",
+    "correctAnswers": ["chanteuse"],
+    "explanation": "The masculine noun 'chanteur' (singer) forms the feminine by changing -eur to -euse, resulting in 'chanteuse'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'chanteuse'?",
+    "correctAnswers": ["chanteur"],
+    "explanation": "The feminine noun 'chanteuse' (singer) forms the masculine by changing -euse to -eur, resulting in 'chanteur'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'neveu'?",
+    "correctAnswers": ["nièce"],
+    "explanation": "The masculine noun 'neveu' (nephew) has an irregular feminine form, 'nièce' (niece)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'nièce'?",
+    "correctAnswers": ["neveu"],
+    "explanation": "The feminine noun 'nièce' (niece) has an irregular masculine form, 'neveu' (nephew)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'oncle'?",
+    "correctAnswers": ["tante"],
+    "explanation": "The masculine noun 'oncle' (uncle) has an irregular feminine form, 'tante' (aunt)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'tante'?",
+    "correctAnswers": ["oncle"],
+    "explanation": "The feminine noun 'tante' (aunt) has an irregular masculine form, 'oncle' (uncle)."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'client'?",
+    "correctAnswers": ["cliente"],
+    "explanation": "The masculine noun 'client' (client) forms the feminine by adding -e, resulting in 'cliente'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'cliente'?",
+    "correctAnswers": ["client"],
+    "explanation": "The feminine noun 'cliente' (client) forms the masculine by removing the -e, resulting in 'client'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'écrivain'?",
+    "correctAnswers": ["écrivaine"],
+    "explanation": "The masculine noun 'écrivain' (writer) forms the feminine by adding -e, resulting in 'écrivaine'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'écrivaine'?",
+    "correctAnswers": ["écrivain"],
+    "explanation": "The feminine noun 'écrivaine' (writer) forms the masculine by removing the -e, resulting in 'écrivain'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the feminine form of 'boulanger'?",
+    "correctAnswers": ["boulangère"],
+    "explanation": "The masculine noun 'boulanger' (baker) forms the feminine by changing -er to -ère, resulting in 'boulangère'."
+  },
+  {
+    "type": "free_response",
+    "question": "What is the masculine form of 'boulangère'?",
+    "correctAnswers": ["boulanger"],
+    "explanation": "The feminine noun 'boulangère' (baker) forms the masculine by changing -ère to -er, resulting in 'boulanger'."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'fromage' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'fromage' (cheese) ends in -age, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'gouvernement' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'gouvernement' (government) ends in -ment, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'bateau' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'bateau' (boat) ends in -eau, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'obstacle' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'obstacle' ends in -acle, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'miracle' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'miracle' ends in -acle, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'cheval' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'cheval' (horse) ends in -al, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'cheveu' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'cheveu' (hair) ends in -eu, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'neveu' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'neveu' (nephew) ends in -eu, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'tabouret' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'tabouret' (stool) ends in -et, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'pommier' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'pommier' (apple tree) ends in -ier, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'papier' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'papier' (paper) ends in -ier, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'vin' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'vin' (wine) ends in -in, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'voisin' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'voisin' (neighbor) ends in -in, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'organisme' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'organisme' (organism) ends in -isme, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'rasoir' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'rasoir' (razor) ends in -oir, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'trou' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'trou' (hole) ends in -ou, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'clou' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'clou' (nail) ends in -ou, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'hibou' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'hibou' (owl) ends in -ou, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'garçon' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'garçon' (boy) ends in -on, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'avion' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The noun 'avion' (airplane) ends in -on, which is typically a masculine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'table' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'table' (table) ends in a silent -e, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'chaise' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'chaise' (chair) ends in a silent -e, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'voiture' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'voiture' (car) ends in a silent -e, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'salade' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'salade' (salad) ends in -ade, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'pommade' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'pommade' (ointment) ends in -ade, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'rivale' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'rivale' (rival) ends in -ale, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'finale' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'finale' (final) ends in -ale, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'chance' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'chance' (luck) ends in -ance, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'balance' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'balance' (scale) ends in -ance, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'exigence' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'exigence' (requirement) ends in -ence, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'agence' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'agence' (agency) ends in -ence, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'vedette' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'vedette' (star) ends in -ette, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'sucette' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'sucette' (lollipop) ends in -ette, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'galaxie' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'galaxie' (galaxy) ends in -ie, which is typically a feminine ending, often corresponding to English words ending in -y."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'colonie' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'colonie' (colony) ends in -ie, which is typically a feminine ending, often corresponding to English words ending in -y."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'brique' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'brique' (brick) ends in -ique, which is typically a feminine ending, corresponding to English words with an 'ick' sound."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'victoire' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'victoire' (victory) ends in -oire, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'aventure' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'aventure' (adventure) ends in -ure, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'télévision' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'télévision' (television) ends in -sion, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'nation' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'nation' (nation) ends in -tion, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun 'probabilité' is ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The noun 'probabilité' (probability) ends in -té, which is typically a feminine ending."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -age commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -age, as in 'fromage' (cheese) or 'village' (village), commonly signals a masculine noun, though exceptions like 'image' (feminine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -ment are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -ment, as in 'gouvernement' (government) or 'moment' (moment), is typically masculine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -eau is commonly associated with ____ nouns.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -eau, as in 'bateau' (boat) or 'chapeau' (hat), commonly signals a masculine noun, with rare exceptions like 'eau' (water, feminine)."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -acle are usually ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -acle, as in 'obstacle' or 'miracle', is typically masculine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -al typically indicates a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -al, as in 'cheval' (horse) or 'journal' (newspaper), typically signals a masculine noun, though exceptions like 'rivale' (feminine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -eu are commonly ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -eu, as in 'cheveu' (hair) or 'neveu' (nephew), is typically masculine, with exceptions like 'queue' (tail, feminine)."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -et usually signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -et, as in 'tabouret' (stool) or 'billet' (ticket), commonly indicates a masculine noun, though exceptions like 'bicyclette' (feminine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -ier are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -ier, as in 'pommier' (apple tree) or 'papier' (paper), is typically masculine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -in commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -in, as in 'vin' (wine) or 'voisin' (neighbor), typically indicates a masculine noun, with exceptions like 'main' (hand, feminine)."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -isme are usually ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -isme, as in 'organisme' (organism) or 'tourisme' (tourism), is typically masculine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -oir typically signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -oir, as in 'rasoir' (razor) or 'miroir' (mirror), commonly indicates a masculine noun, though exceptions like 'victoire' (feminine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -ou are commonly ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -ou, as in 'trou' (hole) or 'clou' (nail), typically signals a masculine noun, with exceptions like 'chou' (cabbage, masculine but rare cases)."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -on usually indicates a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -on, as in 'garçon' (boy) or 'avion' (airplane), is typically masculine, with exceptions like 'leçon' (lesson, feminine)."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -age are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -age, as in 'village' (village) or 'courage' (courage), commonly signals a masculine noun, though exceptions like 'plage' (beach, feminine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -ment commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -ment, as in 'moment' (moment) or 'bâtiment' (building), is typically masculine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -eau are usually ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -eau, as in 'tableau' (painting) or 'oiseau' (bird), typically indicates a masculine noun, with rare exceptions like 'peau' (skin, feminine)."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -acle is typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -acle, as in 'spectacle' or 'tentacle', commonly signals a masculine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -al are commonly ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -al, as in 'hôpital' (hospital) or 'signal' (signal), typically indicates a masculine noun, though exceptions like 'fatale' (feminine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -eu commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -eu, as in 'lieu' (place) or 'feu' (fire), is typically masculine, with exceptions like 'rue' (street, feminine)."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -et are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["masculine"],
+    "explanation": "The ending -et, as in 'secret' (secret) or 'projet' (project), commonly signals a masculine noun, though exceptions like 'fourchette' (fork, feminine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -e (silent) typically signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The silent -e ending, as in 'table' (table) or 'chaise' (chair), typically signals a feminine noun, though exceptions like 'livre' (book, masculine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -ade are commonly ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ade, as in 'salade' (salad) or 'pommade' (ointment), typically indicates a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -ale usually signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ale, as in 'rivale' (rival) or 'finale' (final), commonly signals a feminine noun, though exceptions like 'pétale' (petal, masculine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -ance are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ance, as in 'chance' (luck) or 'balance' (scale), is typically feminine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -ence commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ence, as in 'exigence' (requirement) or 'agence' (agency), typically indicates a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -ette are usually ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ette, as in 'vedette' (star) or 'sucette' (lollipop), commonly signals a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -ie typically signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ie, as in 'galaxie' (galaxy) or 'colonie' (colony), typically indicates a feminine noun, corresponding to English words ending in -y, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -oire are commonly ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -oire, as in 'victoire' (victory) or 'poire' (pear), typically signals a feminine noun, though exceptions like 'miroir' (mirror, masculine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -ure usually indicates a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ure, as in 'aventure' (adventure) or 'voiture' (car), commonly signals a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -sion are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -sion, as in 'télévision' (television) or 'décision' (decision), is typically feminine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -tion commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -tion, as in 'nation' (nation) or 'question' (question), typically indicates a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -té are usually ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -té, as in 'probabilité' (probability) or 'liberté' (freedom), commonly signals a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -e (silent) is commonly ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The silent -e ending, as in 'porte' (door) or 'fleur' (flower), typically signals a feminine noun, though exceptions like 'arbre' (tree, masculine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -ade are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ade, as in 'parade' or 'limonade' (lemonade), commonly indicates a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -ale commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ale, as in 'étoile' (star) or 'salle' (room), typically signals a feminine noun, though exceptions like 'journale' (journal, masculine, rare) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -ance are usually ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ance, as in 'distance' (distance) or 'apparence' (appearance), is typically feminine, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -ence is typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ence, as in 'patience' (patience) or 'conférence' (conference), commonly signals a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns ending in -ette are commonly ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ette, as in 'cigarette' or 'assiette' (plate), typically indicates a feminine noun, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The ending -ie usually signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ie, as in 'magie' (magic) or 'philosophie' (philosophy), typically signals a feminine noun, corresponding to English words ending in -y, with few exceptions."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "Nouns with the ending -oire are typically ____.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -oire, as in 'histoire' (history) or 'gloire' (glory), commonly signals a feminine noun, though exceptions like 'territoire' (territory, masculine) exist."
+  },
+  {
+    "type": "fill_in_blank",
+    "question": "The noun ending -ure commonly signals a ____ noun.",
+    "options": ["masculine", "feminine"],
+    "correctAnswers": ["feminine"],
+    "explanation": "The ending -ure, as in 'culture' (culture) or 'peinture' (painting), typically indicates a feminine noun, with few exceptions."
+  }
+]
