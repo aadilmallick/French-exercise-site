@@ -52,6 +52,14 @@ interface QuizProgress {
   lastAttemptDate: string;
 }
 
+function transformAnswer(answer: string) {
+  return answer
+    .replace(/[.,]+$/, "")
+    .replaceAll("’", "'")
+    .trim()
+    .toLowerCase();
+}
+
 class LocalStorageBrowser<T extends Record<string, any>> {
   constructor(private prefix: string = "") {}
 
@@ -81,10 +89,12 @@ function validateFreeResponseAnswer(correctAnswer: string, answer: string) {
   // Remove punctuation and normalize both strings
   const normalizedCorrect = correctAnswer
     .replace(/[.,]+$/, "")
+    .replaceAll("’", "'")
     .trim()
     .toLowerCase();
   const normalizedAnswer = answer
     .replace(/[.,]+$/, "")
+    .replaceAll("’", "'")
     .trim()
     .toLowerCase();
 
@@ -96,6 +106,12 @@ function getStorage(exerciseName: string) {
     questions: Question[];
     progress: QuizProgress;
   }>(exerciseName);
+}
+
+function getCurrentAttemptProgressStorage(exerciseName: string) {
+  return new LocalStorageBrowser<{
+    currentAnswers: (string | string[])[];
+  }>(`quiz-current-progress-${exerciseName}`);
 }
 
 const QuizComponent: React.FC<QuizProps> = ({
@@ -115,10 +131,25 @@ const QuizComponent: React.FC<QuizProps> = ({
   const dialogRef = useRef<HTMLDialogElement>(null);
   const storage = getStorage(exerciseName);
 
+  const getCurrentAnswersProgress = () => {
+    const storage = getCurrentAttemptProgressStorage(exerciseName);
+    return storage.get("currentAnswers") || [];
+  };
+
+  const setCurrentAnswersProgress = (answers: (string | string[])[]) => {
+    requestIdleCallback(() => {
+      const storage = getCurrentAttemptProgressStorage(exerciseName);
+      storage.set("currentAnswers", answers);
+    });
+  };
+
   useEffect(() => {
     // Initialize answers array with correct types
+    const currentProgressAnswers = getCurrentAnswersProgress();
     setCurrentAnswers(
-      questions.map((q) => (q.type === "multi_select" ? [] : ""))
+      currentProgressAnswers.length > 0
+        ? currentProgressAnswers
+        : questions.map((q) => (q.type === "multi_select" ? [] : ""))
     );
 
     // Load previous progress
@@ -132,12 +163,23 @@ const QuizComponent: React.FC<QuizProps> = ({
     setIsOpen(true);
     setIsSubmitted(false);
     setShowReview(false);
-    setCurrentAnswers(new Array(questions.length).fill(""));
+    const currentProgressAnswers = getCurrentAnswersProgress();
+
+    setCurrentAnswers(
+      currentProgressAnswers.length > 0
+        ? currentProgressAnswers
+        : new Array(questions.length).fill("")
+    );
     setUserAnswers([]);
     setScore(0);
     if (dialogRef.current) {
       dialogRef.current.showModal();
     }
+  };
+
+  const handleClearCurrentAnswers = () => {
+    const storage = getCurrentAttemptProgressStorage(exerciseName);
+    storage.removeItem("currentAnswers");
   };
 
   const handleClose = () => {
@@ -155,6 +197,9 @@ const QuizComponent: React.FC<QuizProps> = ({
     const newAnswers = [...currentAnswers];
     newAnswers[questionIndex] = answer;
     setCurrentAnswers(newAnswers);
+    // const storage = getCurrentAttemptProgressStorage(exerciseName);
+    // storage.set("currentAnswers", newAnswers);
+    setCurrentAnswersProgress(newAnswers);
   };
 
   const shortAnswerMap = {
@@ -295,6 +340,7 @@ const QuizComponent: React.FC<QuizProps> = ({
 
     setProgress(newProgress);
     storage.set("progress", newProgress);
+    handleClearCurrentAnswers();
   };
 
   const handleReviewLastAttempt = () => {
@@ -458,9 +504,28 @@ const QuizComponent: React.FC<QuizProps> = ({
         <div className="quiz-container">
           <div className="quiz-header">
             <h2>{title}</h2>
-            <button onClick={handleClose} className="close-button">
-              ×
-            </button>
+            <div style={{ display: "flex", gap: "8px", alignItems: "center" }}>
+              <button
+                onClick={() => {
+                  setCurrentAnswers(new Array(questions.length).fill(""));
+                  handleClearCurrentAnswers();
+                }}
+                className="close-button"
+              >
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 16 16"
+                  fill="currentColor"
+                >
+                  <path d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z" />
+                  <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z" />
+                </svg>
+              </button>
+              <button onClick={handleClose} className="close-button">
+                ×
+              </button>
+            </div>
           </div>
 
           {progress && (
